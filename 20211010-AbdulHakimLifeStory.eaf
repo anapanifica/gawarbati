@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T16:35:19+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T17:38:55+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/Desktop/Gawarbati_data/20211010-AbdulHakimLifeStory.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20211010-AbdulHakimLifeStory.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a5083561-bf23-441d-a703-cd9c563b9e5f</PROPERTY>
@@ -83,21 +83,13 @@
         <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="132011"/>
         <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="134831"/>
         <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="138749"/>
-        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="138749"/>
-        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="140348"/>
-        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="140348"/>
-        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="140698"/>
-        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="140698"/>
-        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="143256"/>
-        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="143256"/>
-        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="143964"/>
-        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="143964"/>
-        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="144633"/>
-        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="144633"/>
-        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="144744"/>
-        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="144744"/>
-        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="150389"/>
-        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="150389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="140348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="140698"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="143256"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="143964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="144633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="144744"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="150389"/>
     </TIME_ORDER>
     <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="AbdulHakim" TIER_ID="AbdulHakim-txt-gwt-fonipa-x-emic">
         <ANNOTATION>
@@ -241,22 +233,12 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts79">
-                <ANNOTATION_VALUE>kol ɕiki bibua jaːd tʰanaː taːrex</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
                 <ANNOTATION_VALUE>nai laː ɕiki ɖeʈa karken jaːdaiton</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
-                <ANNOTATION_VALUE>lau mehrabaːni</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts91">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
                 <ANNOTATION_VALUE>woi woi kanɖak siana fant ʨi faːr baki en kʰuʈa goɽak i ɬi piaːdal dimaːn boti woi tine ʈema woi gila bitana</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -403,18 +385,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>When did it happen, do you remember the date/</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a40">
                 <ANNOTATION_VALUE>No, I don't remember the date.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a41">
-                <ANNOTATION_VALUE>Thanks</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -565,18 +537,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>کب ایسا ہوا تاریخ یاد ہے ؟</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a40">
                 <ANNOTATION_VALUE>نہیں؛ تاریخ یاد نہیں ہے </ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a41">
-                <ANNOTATION_VALUE>شکریہ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -727,18 +689,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>کول شِکی بُبُوہ یاد تھنا تاریخ</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a40">
                 <ANNOTATION_VALUE>نئ لا شِکی ڈیٹہ کرکین یادئتون</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a41">
-                <ANNOTATION_VALUE>لو مِہربانی</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -801,23 +753,13 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a208" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts80">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a208" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
                 <ANNOTATION_VALUE>kol ɕiki bibua jaːd tʰanaː taːrex</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
-                <ANNOTATION_VALUE>nai laː ɕiki ɖeʈa karken jaːdaiton</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
                 <ANNOTATION_VALUE>lau mehrabaːni</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts92">
-                <ANNOTATION_VALUE>woi woi kanɖak siana fant ʨi faːr baki en kʰuʈa goɽak i ɬi piaːdal dimaːn boti woi tine ʈema woi gila bitana</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -873,18 +815,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a209">
-                <ANNOTATION_VALUE>No, I don't remember the date.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a210">
                 <ANNOTATION_VALUE>Thanks</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a211">
-                <ANNOTATION_VALUE>It is a matter of that time when the pavement from the Afghan side was from Khata Gordak.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -940,18 +872,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a209">
-                <ANNOTATION_VALUE>نہیں؛ تاریخ یاد نہیں ہے </ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a210">
                 <ANNOTATION_VALUE>شکریہ</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a211">
-                <ANNOTATION_VALUE>سامنے افغان سائڈ میں کھتہ گوڑک سے جو پیدل راستہ تھا اس وقت کی بات ہے </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -1007,18 +929,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a209">
-                <ANNOTATION_VALUE>نئ لا شِکی ڈیٹہ کرکین یادئتون</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a374" ANNOTATION_REF="a210">
                 <ANNOTATION_VALUE>لو مِہربانی</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a211">
-                <ANNOTATION_VALUE>وئ وئ کنڈک سینہ فنت چی فاربکے این کُھٹہ گوڑک یے ݪی پیادل دِمان بوتے تِنے ٹیمہ وئ گِلہ بِتنہ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
