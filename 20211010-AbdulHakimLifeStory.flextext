@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document version="2">
-    <interlinear-text guid="cf14428f-a58b-437c-b65f-f2612ff986d5">
+    <interlinear-text guid="6778a9ae-ee81-4760-b1aa-a379a5fc14fd">
         <item lang="en" type="title">20211010-AbdulHakimLifeStory</item>
         <paragraphs>
-            <paragraph guid="708920e1-0eb0-4104-af42-192b52341698">
+            <paragraph guid="68e692a6-b883-41d7-b64a-84f6cd8cdec4">
                 <phrases>
                     <phrase begin-time-offset="3455"
                         end-time-offset="5656"
-                        guid="3b26fe8b-8e2f-43eb-83d7-cadbb7731d43"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="2557dbcd-2c3b-44d9-b85a-20b460fe9625"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">rikorɖingana silsila ʥaːri tʰana aː̄ tʰanem naːsir</item>
                         <item lang="en" type="gls">The recording series is continued</item>
                         <item lang="ur" type="gls">ریکاڈنگ کا سلسلہ جاری ہے </item>
@@ -16,12 +16,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="1d75f005-04c2-4991-9e7b-caa9764c0bf8">
+            <paragraph guid="48ee9263-b40e-4948-a849-9990bdb281c8">
                 <phrases>
                     <phrase begin-time-offset="5792"
                         end-time-offset="7888"
-                        guid="270e3afc-ca2f-4ce1-bcf1-9f510d7a735d"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="a8b145f6-482b-4e67-96ba-6aed2ddb4b01"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">mo manzi muʰtaram mumaː abdul hakim sahib tʰana</item>
                         <item lang="en" type="gls">Honarable Abdul Hakeem uncle is with me. </item>
                         <item lang="ur" type="gls">میرے ساتھ محترم ماموں عبدوالحکیم صاحب ہے </item>
@@ -29,12 +29,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="1f587ad6-b3dc-4bbc-95b1-d2d28193a5d5">
+            <paragraph guid="f7892d97-5c24-497a-9e0b-faed6647edd9">
                 <phrases>
                     <phrase begin-time-offset="7985"
                         end-time-offset="11299"
-                        guid="f6134fbb-880b-4eb2-9257-8dbe67dfe34b"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="e312c3a0-e185-4ddb-a2c2-a9c36240666d"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">ama niɕisan tʰanek haranua aːu ʈongaː malak aːbaːda</item>
                         <item lang="en" type="gls">We set in Awtonga Arundi for this recording.</item>
                         <item lang="ur" type="gls">ہم آوٹونگہ ارندو میں بیٹھے ہیں </item>
@@ -42,12 +42,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="a69b7f80-c48b-4dc2-a14e-a2c81111f671">
+            <paragraph guid="09c6b6b7-7804-4917-92f6-b73dde88dfbe">
                 <phrases>
                     <phrase begin-time-offset="12017"
                         end-time-offset="13521"
-                        guid="4e26762b-2798-47d2-ae71-61bb54b676d3"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="1a2d189f-6bac-4803-8e04-49939100cc03"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">nun itiwaːrani des tʰini</item>
                         <item lang="en" type="gls">Today is Sunday</item>
                         <item lang="ur" type="gls">آج اتوار کا دن ہے </item>
@@ -55,12 +55,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="0b1851ac-953c-4bd1-ae28-0ab207b4a23f">
+            <paragraph guid="db1a1ea7-ba17-471d-a0e3-6d5a592e051f">
                 <phrases>
                     <phrase begin-time-offset="13680"
                         end-time-offset="16348"
-                        guid="c5c45a04-eee1-4526-a47e-ec16bba81e3a"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="a6e98743-7d7e-414b-87aa-8019038b00ee"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">daʂama aktubar iɕojakama peɽai tʰini</item>
                         <item lang="en" type="gls">and the sate is October 10, 2021</item>
                         <item lang="ur" type="gls">دس اکتوبر دو ہزار ایک ہے </item>
@@ -68,12 +68,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="df792863-1bf2-4cc3-b20a-dcc50cc3b58a">
+            <paragraph guid="af1286f7-5ba2-4d24-bd03-75a577f87ea9">
                 <phrases>
                     <phrase begin-time-offset="16395"
                         end-time-offset="19534"
-                        guid="bda1e5c4-a5df-46bd-a1f4-3b253f1feb90"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="2de8fece-41dd-40ed-8ef3-049916e4ef5a"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">mosam bi albena albena tʰana mumaː taːnu waːqiaː bajaːn keba nori</item>
                         <item lang="en" type="gls">The weather is cloudy and Uncle is about to narrate his life story. </item>
                         <item lang="ur" type="gls">موسم بھی ابرآلود ہے اور ماموں اپنا واقعہ بیان کریں گا </item>
@@ -81,12 +81,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="c366a81a-6c6d-4cd7-9b8d-116d62bfdb53">
+            <paragraph guid="07aa87d4-910a-4a07-933a-a22b41297c50">
                 <phrases>
                     <phrase begin-time-offset="20707"
                         end-time-offset="22821"
-                        guid="19375426-6511-49b5-afc9-5b97ef14a3d6"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="0e9d1422-45e9-403c-bd1e-9f85c69267dd"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">ɕila ʨal tʰana ʨi ime zuaːnaːn te ʥitanet</item>
                         <item lang="en" type="gls">The fact is that the two youth have come here</item>
                         <item lang="ur" type="gls">بات ایسی ہے کہ یہ نوجوانان یہاں آ چکے ہیں</item>
@@ -94,12 +94,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="50f2ab57-5f04-4bd1-becc-6e13bb306a15">
+            <paragraph guid="f48d431b-d7aa-47f8-93fd-c60030f21260">
                 <phrases>
                     <phrase begin-time-offset="22892"
                         end-time-offset="24888"
-                        guid="9d5cc510-5525-4d79-86a6-1d0c88867b4e"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="056ab903-7c5a-40d4-9a6c-eb3f34d5e431"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">abdulla saːib bi woi naːsir bi</item>
                         <item lang="en" type="gls">Mr. Naseer and Mr. Abdullah</item>
                         <item lang="ur" type="gls">عبداللہ اور نصیر </item>
@@ -107,12 +107,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="06259bf6-0d77-4df0-92d0-42e7ded0e9a8">
+            <paragraph guid="98379422-c7a6-488e-97e1-5d4dbbcff207">
                 <phrases>
                     <phrase begin-time-offset="25684"
                         end-time-offset="29961"
-                        guid="3cb03c7f-5dc4-4aca-99d7-e3d548aa17fc"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="76f9a720-dbc2-4ab3-8db2-7d4cfa4ebf6c"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">ʥi laka tona te zindagia ki aʥib peda gila , gila bisan tʰana ba tasa ʥaː ʥai</item>
                         <item lang="en" type="gls">They asked me to describe any ashtonishing story of my life, if I have any. </item>
                         <item lang="ur" type="gls">یہ پوچھنے کہ آپ کی زندگی میں کوئ عجیب واقعہ ہے تو وہ بیان کریں </item>
@@ -120,12 +120,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="d6c77689-9fa0-4acd-9f1f-4d012079c0f0">
+            <paragraph guid="e1c0d9a7-4b9c-4e96-8c9e-ab624c0efb79">
                 <phrases>
                     <phrase begin-time-offset="31016"
                         end-time-offset="33195"
-                        guid="512c3d9b-cb80-4e10-94ca-2a064c00c01f"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="7f637ae0-c420-44e1-90d3-8e2436ccc06c"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">amana xo jak te gilaː aːɬuia karik bua e</item>
                         <item lang="en" type="gls">An incident that took place in Akrawi.</item>
                         <item lang="ur" type="gls">ہمارا ایک واقعہ جو اکروئ میں گزرا</item>
@@ -133,12 +133,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="f80d32a5-def3-46b9-88f2-41810a6d7283">
+            <paragraph guid="ca7a77b0-4522-4cc4-8af2-7fa07491d32f">
                 <phrases>
                     <phrase begin-time-offset="33235"
                         end-time-offset="35228"
-                        guid="c09c00d4-196d-479d-bd3a-847016749c5e"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="cb6e6319-1003-4ca7-9922-4531a26d3692"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">mulaː rustama blijena manzi ki ʥanʥaːl aːji</item>
                         <item lang="en" type="gls">We had a quarrel with the brother of Mula Rustam</item>
                         <item lang="ur" type="gls">ملا رستم کے بھائ سے ایک جھگڑا ہوا </item>
@@ -146,12 +146,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="eca6e6f3-5432-461d-8bf3-662e24c083cb">
+            <paragraph guid="c51f9f22-7a76-4446-bfb4-171ef7e2c1f3">
                 <phrases>
                     <phrase begin-time-offset="36456"
                         end-time-offset="37642"
-                        guid="0a2b3a41-974b-4e3c-a0c8-74656f81f43c"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="7df1246d-1899-4819-ae00-81f2b0b00a4e"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">tine manzi ɕila ʨal bua ʨi</item>
                         <item lang="en" type="gls">It happened that</item>
                         <item lang="ur" type="gls">اس میں ایسا ہوا کہ</item>
@@ -159,12 +159,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="fd10cfe9-5dec-491e-9ff8-fc8c07088b48">
+            <paragraph guid="7f750ea3-9689-4f4b-8389-ca8fcc8f72ca">
                 <phrases>
                     <phrase begin-time-offset="39592"
                         end-time-offset="42267"
-                        guid="74b3e5b6-1cd8-4aeb-9ade-c83325892edb"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="d98cd856-d0fa-4dec-aca4-94bc956db707"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">ʥanʥaːla manzi ama traːnti bok kamraː niɕisan bok</item>
                         <item lang="en" type="gls">We were inside the room during this fight.</item>
                         <item lang="ur" type="gls">اس جھگڑے میں ہم اندر کمرے میں تھے </item>
@@ -172,12 +172,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="c05919c4-16a2-4e81-a08f-7024a795c63f">
+            <paragraph guid="6c346538-22b0-42ae-8589-0fdd3c64f580">
                 <phrases>
                     <phrase begin-time-offset="42924"
                         end-time-offset="45463"
-                        guid="17371ba0-a49c-473d-a731-ff710fdeafb7"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="0f671833-f509-4c49-8442-59a889ec9841"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">ʥo traːntana abaːs ʥai en ʈɛkura e</item>
                         <item lang="en" type="gls">Inside the room, a boy named Abbas</item>
                         <item lang="ur" type="gls">اندر عباس نامی لڑکے نے</item>
@@ -185,12 +185,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="f445ed7c-0364-4044-be60-3042e3eb6c61">
+            <paragraph guid="4d46843e-bf75-48ee-9d27-18d4ee5d72e9">
                 <phrases>
                     <phrase begin-time-offset="46377"
                         end-time-offset="48964"
-                        guid="0d18b09f-7eb6-4937-9c03-638a25fcf8c2"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="09ab1553-ee17-4f72-9f81-1fa06b79fa21"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">beraːnt ki kʰanʈ ɕaxaːn gaːʂʈi ʥaus ʨi asu ɬiu tobaki</item>
                         <item lang="en" type="gls">He called out in Nuristani language to kill them with Kalashnikov</item>
                         <item lang="ur" type="gls">باہر آواز دی نورستانی زبان میں کہ ان کو کلانشینکوف سے مارے</item>
@@ -198,12 +198,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="0fbf9071-c552-4791-8306-4a802592797a">
+            <paragraph guid="345c0a98-3911-484c-a8fb-d9a3dabd1a7d">
                 <phrases>
                     <phrase begin-time-offset="49149"
                         end-time-offset="49878"
-                        guid="1e2704df-e145-49bd-bfa8-81e591284334"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="97591b8d-d2bd-408e-9e72-7b6a825f3875"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">mo manz lubusai</item>
                         <item lang="en" type="gls">By uniting with me</item>
                         <item lang="ur" type="gls">میرے ساتھ ایک کر کے </item>
@@ -211,12 +211,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="eedb58c1-9516-49ed-9bdf-ce40fe98ed4f">
+            <paragraph guid="b6d25b2e-2a68-42c6-b2be-981064ba3a0c">
                 <phrases>
                     <phrase begin-time-offset="51034"
                         end-time-offset="52673"
-                        guid="b9dfc3e1-7b0d-49e4-b490-568c3d1a4767"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="fe88f53c-a123-4a39-ad7f-fe1b70b5207d"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">te manzi aː̄ iʈiki xudaːi ʥo bas</item>
                         <item lang="en" type="gls">During this time I came forward and God saved us. </item>
                         <item lang="ur" type="gls">اس دوران میں سامنے آ گیا اور خدا نے</item>
@@ -224,12 +224,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="f276f3db-731e-48d9-8c26-0150cc6085c9">
+            <paragraph guid="f2c96c57-2fdd-4174-bdc2-95c985e9dc2d">
                 <phrases>
                     <phrase begin-time-offset="52733"
                         end-time-offset="56999"
-                        guid="0e0d2aaf-e844-4f84-92a5-e30b6488b30d"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="d7ffaf4c-46bc-4d05-8946-36ef493ca471"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">allah paːk e baʨ kerus waːri ki insaːnani qaːbiliat au gila na tʰana</item>
                         <item lang="en" type="gls">Allah[Lord] saved him. Man had no ability in it</item>
                         <item lang="ur" type="gls">اللہ پاک نے بچایا اس میں انسان کی کوئ قابلیت نہ تھی </item>
@@ -237,12 +237,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="32c68981-361d-403b-bdde-2c657903a480">
+            <paragraph guid="3037bbad-78e6-48a0-a02b-7e649e254c2d">
                 <phrases>
                     <phrase begin-time-offset="58417"
                         end-time-offset="61499"
-                        guid="33b606ce-2534-4db5-a6d4-6f593ee91cc6"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="f33edbe2-74d8-41ff-b12c-c367eef148be"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">ʥaːʥara kʰaːum ʥaːʥara kʰaːumaː̄  ki te manzi ɣolaːm fedua</item>
                         <item lang="en" type="gls">I pulled out the barrel of the gun and Ghulam reached instantly. </item>
                         <item lang="ur" type="gls">میں نے بندوق کا جاجر نکالا اس دوران غلام پہنچ گیا </item>
@@ -250,12 +250,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="d4aaa768-b916-4d8c-80d0-62a7c4638fa0">
+            <paragraph guid="743178d7-3ed6-43f5-9a57-f40c5085c958">
                 <phrases>
                     <phrase begin-time-offset="62639"
                         end-time-offset="67523"
-                        guid="a65fdeff-2e9c-4f4c-9b1d-2bae5cc26c61"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="2bbe16c5-d354-4e10-9a0d-97555c8d9345"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">ɣolaːm naː teni ʥi au markoɽana baːʈ e ɬitus xo ɕiki ɬiki ɬitus ʨi tasana</item>
                         <item lang="en" type="gls">Ghulam Lala hit Markor with the butt of a gun and hit him in such a way that </item>
                         <item lang="ur" type="gls">غلام لالا نے مارکوڑ بندوق کے باٹ سے مارا اور ایسا مارا کہ اس کا </item>
@@ -263,12 +263,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="7814faff-5dfd-4339-9b1f-6e66f9a963a4">
+            <paragraph guid="a0488849-79cc-4a81-b1c5-cff2057a4411">
                 <phrases>
                     <phrase begin-time-offset="68226"
                         end-time-offset="71127"
-                        guid="f8880e97-d326-4349-96d5-0da9fd0d9b31"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="20882b1b-7434-44dd-a16f-a1057b8e3fad"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">tasa manzi liwaːli kaʈaːri bui ta ʥaːʥara mui kʰai tangaum</item>
                         <item lang="en" type="gls">He had a big knife and I pulled out the barrel of Kalashnikov of the gun and threw it away. </item>
                         <item lang="ur" type="gls">اس کے پاس  بڑا چاقو تھا اور بنداق کا جاجر نکال کر میں نے پھینک دیا</item>
@@ -276,12 +276,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="c6a9ef93-eaee-4da7-93d4-abd8dc0c1078">
+            <paragraph guid="0400057b-883f-41fc-b9d7-2fddb3992b04">
                 <phrases>
                     <phrase begin-time-offset="71930"
                         end-time-offset="76162"
-                        guid="acc7900a-8276-4a23-98ee-33d04b532384"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="4c97f95d-bc45-4db5-a5c6-2b82f96daff9"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">tangaikana pat ten kaʈaːri e girai moni sa anguɽa mukamal ɕiki ʨʰitaidaːus baja haɖoi mizaːn</item>
                         <item lang="en" type="gls">After throwing, I cut my finger with this knife in such a way that it reaches to the bone.</item>
                         <item lang="ur" type="gls">پھنکنے کے بعد اس چاقو سے میری انگلی اس طرح کٹی کہ ہڈی تک </item>
@@ -289,12 +289,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="7f92ed13-94e0-4509-97fe-86b80e3a2fbe">
+            <paragraph guid="12ef0c95-fa18-4a7a-ae82-991e13fbedf4">
                 <phrases>
                     <phrase begin-time-offset="77598"
                         end-time-offset="81261"
-                        guid="f7f7c6df-932e-4d1f-8128-73d1bb86ece8"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="bf94c99c-527c-41c5-a8ca-4586da79d2a7"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">eni ʥi ɬɪtusaː̄ parat gila bua tasana pat ʥu se kes haː̄ haː̄  haː̄</item>
                         <item lang="en" type="gls">The way he came and beat me in such a way hahaha [Laugh]</item>
                         <item lang="ur" type="gls">اس نے آکر جس طرح مارا تو وہ کیس ہاں ہاں </item>
@@ -302,12 +302,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="4ed484f5-7a9c-4825-a062-d7f14ac2f5fa">
+            <paragraph guid="445e78a0-9270-4164-89ea-ed93d9a53090">
                 <phrases>
                     <phrase begin-time-offset="82312"
                         end-time-offset="83906"
-                        guid="683167b5-ce79-4f63-9525-4e77ef391b0b"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="cf678cfd-3484-4d91-8ac8-6cfb0f786ebb"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">ʥi laka te hadaː̄ aːi ʨi</item>
                         <item lang="en" type="gls">The situation reached to this this point that</item>
                         <item lang="ur" type="gls">اس حد تک آں پہنچی</item>
@@ -315,12 +315,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="2e2f818c-c339-4bf2-a761-bd7744b031af">
+            <paragraph guid="cdaaaf02-6519-4234-aa19-97d710151313">
                 <phrases>
                     <phrase begin-time-offset="84307"
                         end-time-offset="88516"
-                        guid="cee065fa-3019-4d7a-a2c7-69b3b30ea903"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="32e30f2f-d0f4-496a-bfcc-7df878875bcf"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">tasu xalaqani karik time tobaknaːm bote time bikinaːn di time ʥelana rihaː bot</item>
                         <item lang="en" type="gls">The guns of these people were sold and they were also released from jail.</item>
                         <item lang="ur" type="gls">ان لوگوں کی جو بندوقیں وہ بک گئے اور وہ بھی جیل سے رہا ہوئے</item>
@@ -328,12 +328,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="fb99aa46-5cc3-4123-b569-d6bdd7e0e9ec">
+            <paragraph guid="7755f4b1-4ddb-41e3-a957-8110169158e1">
                 <phrases>
                     <phrase begin-time-offset="89377"
                         end-time-offset="91737"
-                        guid="93ada6c8-73b6-4f84-a6f1-3c3b856e5128"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="dfe7ceee-3ce9-454e-b10f-c6056362bbc4"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">moni ʥwanda ʥo bas woi baːti bui</item>
                         <item lang="en" type="gls">This was a story of my life</item>
                         <item lang="ur" type="gls">میری زندگی کا ایک واقعہ یہ تھا </item>
@@ -341,12 +341,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="6ea6b303-6685-45f4-8933-54831c873999">
+            <paragraph guid="1b2b6052-66fc-4af5-9ba0-16287e2e6abe">
                 <phrases>
                     <phrase begin-time-offset="92633"
                         end-time-offset="93888"
-                        guid="c3596428-7cda-43a8-b396-6cb92f83a821"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="8755b2cd-874d-46d8-9edb-2fc24c434d24"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">aʥib peda ter bisan</item>
                         <item lang="en" type="gls">It is weired</item>
                         <item lang="ur" type="gls">عجیب گزرا یے </item>
@@ -354,12 +354,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="88b504c5-cb4f-4dc8-8425-469d930fda61">
+            <paragraph guid="4e162b2e-4afe-47d0-81b0-3ef161a6f38b">
                 <phrases>
                     <phrase begin-time-offset="95046"
                         end-time-offset="99127"
-                        guid="b041de1a-f23a-4058-9455-4bcb387f3970"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="f7fa88e8-a422-49ac-a43b-d360baaca888"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">waːri mona qaumaː̄ ki kara sa baːlimeti sa ʂuɖimeti</item>
                         <item lang="en" type="gls">Besides, who in my nation sees or hears this?</item>
                         <item lang="ur" type="gls">علاوہ ازیں میرے قوم میں اس کو کون دیکھتا ہا سنتا ہے</item>
@@ -367,12 +367,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="33b99011-ef9b-4598-9e8d-8a84a8a96970">
+            <paragraph guid="2121db7d-e463-47a4-8407-5f8ca1ddcd60">
                 <phrases>
                     <phrase begin-time-offset="99772"
                         end-time-offset="104488"
-                        guid="93bb142f-a825-4756-aa67-3c428cb30a72"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="cfb8c14a-1166-4a5a-9430-7cf885971aa2"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">asuaː̄ moni woi darxaːst tʰini ʨi allah paːk e insaːna ratai mehnat ɕart tʰoitus</item>
                         <item lang="en" type="gls">My request to them is that Allah[Lord] has made hard work a condition for human beings.</item>
                         <item lang="ur" type="gls">ان کو میری یہ درخواست ہے کہ اللہ پاک نے انسان پر محنت شرط رکھی ہے</item>
@@ -380,12 +380,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="909e9c44-36f1-4027-a086-ff234ef7a492">
+            <paragraph guid="6bb078a6-74e8-4912-bc47-67ec97306aea">
                 <phrases>
                     <phrase begin-time-offset="105528"
                         end-time-offset="107848"
-                        guid="41c3e3bc-5f60-4e2a-9192-3bc065a1d5c5"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="f0065050-485e-4eed-9be1-ccb6e1b97399"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">mehnat karik tʰini e halaːl bi tʰini haraːm bi tʰini</item>
                         <item lang="en" type="gls">There are two types of hardwork; halal and haram.</item>
                         <item lang="ur" type="gls">محنت حلال حرام دو طرح کی ہوتی ہے</item>
@@ -393,12 +393,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="4b76995b-00e5-419f-b06c-144304735377">
+            <paragraph guid="d3e1abe7-4c9f-40fa-9a23-5247587f4be0">
                 <phrases>
                     <phrase begin-time-offset="107970"
                         end-time-offset="112632"
-                        guid="78e698d4-fb8e-416c-b277-d298feb69391"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="41782868-3097-43aa-a4bc-574303d14980"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">woi noʈa karik likisan na tʰini ʨi woi mehnat haraːm tʰini woi mehnat halaːl tʰini ʥai </item>
                         <item lang="en" type="gls">It is not written that it is haraam, it is halal</item>
                         <item lang="ur" type="gls">یہ کہی لکھی ہوئ نہ ہوتی ہے کہ یہ حرام ہے یہ حلال ہے</item>
@@ -406,12 +406,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="086de038-6f4a-495e-b292-ff784be9b70b">
+            <paragraph guid="e69126cc-ac71-40a5-814e-854f91e0378f">
                 <phrases>
                     <phrase begin-time-offset="113581"
                         end-time-offset="117226"
-                        guid="97b460ed-0c90-4705-974e-7cb59eef8adb"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="3951b6b0-4acb-4ac0-bf42-9bb7c30cdf6a"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">koɕiɕ asa kei mehnat waːri ɬiaːwa na ɬiaːwa xaːundana hasta tʰana</item>
                         <item lang="en" type="gls">Human hard work with dedication and it is up to God either gives the reward or not.</item>
                         <item lang="ur" type="gls">کوشش سے محنت کرنا یے باقی دینا نہ دینا خدا کے ہاتھ میں یے</item>
@@ -419,12 +419,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="4fa11392-e5fc-49fb-aca7-98df60e4f994">
+            <paragraph guid="991e8955-a739-4696-a286-2ef92c3a998e">
                 <phrases>
                     <phrase begin-time-offset="118295"
                         end-time-offset="121307"
-                        guid="5036ad30-e652-4e24-a696-845be5e000b0"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="3175dad5-1247-4102-b58c-f5aee6a11e2a"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">au mehnat keri taːnu mehnata gila na biki</item>
                         <item lang="en" type="gls">By working hard and in your own hard work</item>
                         <item lang="ur" type="gls">محنت کرکے اور اپنی محنت میں </item>
@@ -432,12 +432,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="422537bf-cb96-4bb2-aea8-2d3565731e54">
+            <paragraph guid="5ab4d710-e902-4d8b-825c-8a15668a24e5">
                 <phrases>
                     <phrase begin-time-offset="122279"
                         end-time-offset="126035"
-                        guid="c583c1e8-9081-48fb-b2f4-426426b2c0bb"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="48a3275a-845a-4180-b76e-dd5893b9a90d"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">au ka keron ba lau bai biba su mona bakana salaːm salaːm alaikum</item>
                         <item lang="en" type="gls">And if you do, very good and greetings from me.</item>
                         <item lang="ur" type="gls">اور اگر کیا تو بہت اچھا اور میرے طرف سے سلام </item>
@@ -445,12 +445,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="f340cd5d-bddd-4ddc-a83e-091addd2c479">
+            <paragraph guid="1be95ad8-5a6c-42c7-99ce-6c3cf7f91428">
                 <phrases>
                     <phrase begin-time-offset="126168"
                         end-time-offset="127859"
-                        guid="1714871c-8e77-4c7f-819a-895858ef6cb8"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="7049de41-7794-467e-859d-64c482e67b8d"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">ki naːm tʰana ba ja baːtiana waːr kʰud kemek niaː</item>
                         <item lang="en" type="gls">We are asking of another thing</item>
                         <item lang="ur" type="gls">ایک اور بات کا پوچھ رہے ہیں </item>
@@ -458,12 +458,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="7a77550e-fd77-4cc5-9337-bd1daca327df">
+            <paragraph guid="7d9a81e4-8fd5-49ff-8d99-453d94df71da">
                 <phrases>
                     <phrase begin-time-offset="127931"
                         end-time-offset="131830"
-                        guid="28b26f0c-cf2f-42f6-9411-3812073eb2b2"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="e9de57ec-b6b4-4bad-a898-653eb9df5cb9"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">to manzi karek ʈʰaːna ɕiki waːqia bibua to manzi waːri kara bot xalaq</item>
                         <item lang="en" type="gls">When did this incident took place and who were with you?</item>
                         <item lang="ur" type="gls">یہ واقعہ کہاں پیش آیا آپ کے ساتھ اور کون لوگ تھے </item>
@@ -471,12 +471,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="a81eae1a-6c8f-4fc6-b41b-f7b5bd831fef">
+            <paragraph guid="2f96918e-6dec-45dd-8b05-7cf034dafb5c">
                 <phrases>
                     <phrase begin-time-offset="132011"
                         end-time-offset="134831"
-                        guid="59a291be-3806-4872-bfec-9ae830ac647b"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="6ade0bdb-8ba2-458b-875b-6f4ece56b7a8"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">mo mani ɣolaːm naː bua madakbar naː bua aː̄ bom</item>
                         <item lang="en" type="gls">I was accompanied by Ghulam Lala and Muhammad Akbar.</item>
                         <item lang="ur" type="gls">میرے ساتھ غلام لالا اور محمد اکبر تھے</item>
@@ -484,12 +484,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="b66cf274-0f08-4dc9-a5a7-b1f4d81c828f">
+            <paragraph guid="4687f2fb-9ce1-4d25-b091-cdabe20c66fb">
                 <phrases>
                     <phrase begin-time-offset="138749"
                         end-time-offset="140348"
-                        guid="839484e5-68ee-44a2-a1aa-dc9b27279f4d"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="771cb011-b87a-4366-8699-39a33e12486a"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">kol ɕiki bibua jaːd tʰanaː taːrex</item>
                         <item lang="en" type="gls">When did it happen, do you remember the date/</item>
                         <item lang="ur" type="gls">کب ایسا ہوا تاریخ یاد ہے ؟</item>
@@ -497,25 +497,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="c609c568-c7a0-4fae-859f-945ac472ac2a">
-                <phrases>
-                    <phrase begin-time-offset="138749"
-                        end-time-offset="140348"
-                        guid="786f2859-6b4a-4dad-b62b-9d91de4cb8d3"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
-                        <item lang="gwt-fonipa-x-emic" type="txt">kol ɕiki bibua jaːd tʰanaː taːrex</item>
-                        <item lang="en" type="gls">When did it happen, do you remember the date/</item>
-                        <item lang="ur" type="gls">کب ایسا ہوا تاریخ یاد ہے ؟</item>
-                        <item lang="gwt" type="note">کول شِکی بُبُوہ یاد تھنا تاریخ</item>
-                    </phrase>
-                </phrases>
-            </paragraph>
-            <paragraph guid="511ff986-afe0-4d1f-a797-d6e23b62ba01">
+            <paragraph guid="6f5ab29c-4f19-4581-93e6-4218a3d8949a">
                 <phrases>
                     <phrase begin-time-offset="140698"
                         end-time-offset="143256"
-                        guid="78ae586c-ed04-4678-811e-093a4d9ecacf"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="e2fcd823-4324-4f6a-8453-7628c64fb468"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">nai laː ɕiki ɖeʈa karken jaːdaiton</item>
                         <item lang="en" type="gls">No, I don't remember the date.</item>
                         <item lang="ur" type="gls">نہیں؛ تاریخ یاد نہیں ہے </item>
@@ -523,25 +510,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="29f85209-9f02-4bba-99d6-87126d83611d">
-                <phrases>
-                    <phrase begin-time-offset="140698"
-                        end-time-offset="143256"
-                        guid="75fd54e4-8cbf-488a-a7d4-dc116801676a"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
-                        <item lang="gwt-fonipa-x-emic" type="txt">nai laː ɕiki ɖeʈa karken jaːdaiton</item>
-                        <item lang="en" type="gls">No, I don't remember the date.</item>
-                        <item lang="ur" type="gls">نہیں؛ تاریخ یاد نہیں ہے </item>
-                        <item lang="gwt" type="note">نئ لا شِکی ڈیٹہ کرکین یادئتون</item>
-                    </phrase>
-                </phrases>
-            </paragraph>
-            <paragraph guid="9e3829b5-3176-45e9-9da0-6297baa48083">
+            <paragraph guid="9e5b5789-a12b-412a-84b2-41e98f02abf7">
                 <phrases>
                     <phrase begin-time-offset="143964"
                         end-time-offset="144633"
-                        guid="5e48bdfb-098e-4b9b-a091-681df3fa036d"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
+                        guid="4f7d6d17-527c-4992-b6e9-e2fd074b49fe"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="Nasir">
                         <item lang="gwt-fonipa-x-emic" type="txt">lau mehrabaːni</item>
                         <item lang="en" type="gls">Thanks</item>
                         <item lang="ur" type="gls">شکریہ</item>
@@ -549,38 +523,12 @@
                     </phrase>
                 </phrases>
             </paragraph>
-            <paragraph guid="7981f5bc-4540-4480-8e09-2bb0ffeb6728">
-                <phrases>
-                    <phrase begin-time-offset="143964"
-                        end-time-offset="144633"
-                        guid="53f6e15c-980c-4562-a3b7-98e19642f85d"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
-                        <item lang="gwt-fonipa-x-emic" type="txt">lau mehrabaːni</item>
-                        <item lang="en" type="gls">Thanks</item>
-                        <item lang="ur" type="gls">شکریہ</item>
-                        <item lang="gwt" type="note">لو مِہربانی</item>
-                    </phrase>
-                </phrases>
-            </paragraph>
-            <paragraph guid="6f38e1f6-310e-4586-9cda-bc2409b25356">
+            <paragraph guid="e0e046e7-dc5c-4cfb-84b4-83e8276639c5">
                 <phrases>
                     <phrase begin-time-offset="144744"
                         end-time-offset="150389"
-                        guid="043615ed-bd28-4ba7-8e1f-28c4c34c6040"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="AbdulHakim">
-                        <item lang="gwt-fonipa-x-emic" type="txt">woi woi kanɖak siana fant ʨi faːr baki en kʰuʈa goɽak i ɬi piaːdal dimaːn boti woi tine ʈema woi gila bitana</item>
-                        <item lang="en" type="gls">It is a matter of that time when the pavement from the Afghan side was from Khata Gordak.</item>
-                        <item lang="ur" type="gls">سامنے افغان سائڈ میں کھتہ گوڑک سے جو پیدل راستہ تھا اس وقت کی بات ہے </item>
-                        <item lang="gwt" type="note">وئ وئ کنڈک سینہ فنت چی فاربکے این کُھٹہ گوڑک یے ݪی پیادل دِمان بوتے تِنے ٹیمہ وئ گِلہ بِتنہ</item>
-                    </phrase>
-                </phrases>
-            </paragraph>
-            <paragraph guid="26fa405f-3944-4f59-bbba-8e33edc5d4a1">
-                <phrases>
-                    <phrase begin-time-offset="144744"
-                        end-time-offset="150389"
-                        guid="8c4e3c48-e563-4382-8363-50dfc0c8cb36"
-                        media-file="abde97c3-34ff-4676-b96d-d3e959df183e" speaker="Nasir">
+                        guid="536b57e3-9dfd-4747-ad05-4c5854f75a76"
+                        media-file="954d495a-0a5f-4eba-a7ba-40ba0748e01c" speaker="AbdulHakim">
                         <item lang="gwt-fonipa-x-emic" type="txt">woi woi kanɖak siana fant ʨi faːr baki en kʰuʈa goɽak i ɬi piaːdal dimaːn boti woi tine ʈema woi gila bitana</item>
                         <item lang="en" type="gls">It is a matter of that time when the pavement from the Afghan side was from Khata Gordak.</item>
                         <item lang="ur" type="gls">سامنے افغان سائڈ میں کھتہ گوڑک سے جو پیدل راستہ تھا اس وقت کی بات ہے </item>
@@ -590,7 +538,7 @@
             </paragraph>
         </paragraphs>
         <media-files offset-type="">
-            <media guid="abde97c3-34ff-4676-b96d-d3e959df183e" location="file:///Users/apanova/Desktop/Gawarbati_data/20211010-AbdulHakimLifeStory.wav"/>
+            <media guid="954d495a-0a5f-4eba-a7ba-40ba0748e01c" location="file:///Users/apanova/Desktop/Gawarbati_data/20211010-AbdulHakimLifeStory.wav"/>
         </media-files>
     </interlinear-text>
 </document>
