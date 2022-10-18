@@ -139,8 +139,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -554,7 +555,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-san</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-san</item>
-                    <item type="gls" lang="en">nfin</item>
+                    <item type="gls" lang="en">ptcp</item>
                     <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
@@ -618,8 +619,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -777,8 +779,16 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="348c992e-9b20-446b-9233-b79d1eb98062">
+              <word guid="2a179a72-6eb8-454b-b70e-a45965b5d344">
                 <item type="txt" lang="gwt-fonipa-x-emic">ʨe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">ʨe</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">ʨe</item>
+                    <item type="gls" lang="en">that</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
               </word>
             </words>
             <item type="gls" lang="en">We are asking Alif khan about the Arund's</item>
@@ -930,14 +940,21 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="f581cc00-f340-4a32-842b-778d43f783ad">
+              <word guid="84e2b380-c01d-4c4f-87f5-9ea743888cff">
                 <item type="txt" lang="gwt-fonipa-x-emic">toni</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">toni</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">toni</item>
-                    <item type="gls" lang="en">your(?)</item>
-                    <item type="msa" lang="en">pro</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">ton</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">ton</item>
+                    <item type="gls" lang="en">your</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-i</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-i</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">f</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -1041,8 +1058,22 @@
             <item type="txt" lang="gwt-fonipa-x-emic">saːfe kʰaːena waxta lau ɕukriaː</item>
             <item type="segnum" lang="en">16</item>
             <words>
-              <word guid="cf9f5f70-cb7a-4517-b791-b8fdbdb245d0">
+              <word guid="ca3eb6f1-850d-4c49-8709-b13d07a5af0e">
                 <item type="txt" lang="gwt-fonipa-x-emic">saːfe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">saːf</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">saːf</item>
+                    <item type="gls" lang="en">all</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-e</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-e</item>
+                    <item type="gls" lang="en">erg</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="a120c2d1-0dcd-4681-8f58-c0829e9d91c4">
                 <item type="txt" lang="gwt-fonipa-x-emic">kʰaːena</item>
@@ -1178,6 +1209,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-es</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-es</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
                     <item type="gls" lang="en">3</item>
                     <item type="msa" lang="en">n:Any</item>
                   </morph>
@@ -1360,8 +1392,20 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="3e7a015a-1623-4948-9d2e-dfbd52be829c">
+              <word guid="9be8b2d2-519c-424d-8b20-050974f9b925">
                 <item type="txt" lang="gwt-fonipa-x-emic">jafala</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="gwt-fonipa-x-emic">jafal</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
+                    <item type="gls" lang="en">obl</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="e8ae8f92-ca54-42dd-bc2e-ce0af92666bb">
                 <item type="txt" lang="gwt-fonipa-x-emic">aː</item>
@@ -1498,7 +1542,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -1634,8 +1678,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -1715,8 +1760,29 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="d3facc32-6c06-4412-a68e-243f220e01cd">
+              <word guid="32444bb3-74a7-4fe5-9ea5-db3c219f8c0a">
                 <item type="txt" lang="gwt-fonipa-x-emic">ʥawaːn</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">ʥa</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">ʥa</item>
+                    <item type="gls" lang="en">say</item>
+                    <item type="msa" lang="en">vt</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-w</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-u</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">pst</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
+                    <item type="gls" lang="en">3sg</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="46a7c186-16f5-4fac-9f08-3bd11a017bc5">
                 <item type="txt" lang="gwt-fonipa-x-emic">dimaːn</item>
@@ -1737,7 +1803,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
-                    <item type="gls" lang="en">3.sg</item>
+                    <item type="gls" lang="en">3sg</item>
                     <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
@@ -1748,7 +1814,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -1789,11 +1855,8 @@
               <word guid="59a8db42-dc88-4cb3-aa15-b04e6c9b52ee">
                 <item type="txt" lang="gwt-fonipa-x-emic">tasana</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">tasana</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tasana</item>
-                    <item type="gls" lang="en">their</item>
-                    <item type="msa" lang="en">pro</item>
                   </morph>
                 </morphemes>
               </word>
@@ -1863,7 +1926,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -1929,7 +1992,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -1967,8 +2030,19 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="ed7daa0d-3d48-481e-a7cc-4e3d7f4636fb">
+              <word guid="1848aebd-62a3-4dcf-b9c6-881026225d1f">
                 <item type="txt" lang="gwt-fonipa-x-emic">saːfi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">saːf</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">saːf</item>
+                    <item type="gls" lang="en">all</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="gwt-fonipa-x-emic">-i</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="8ddc8b13-905b-454e-adc5-456dbd4c934d">
                 <item type="txt" lang="gwt-fonipa-x-emic">kʰaːina</item>
@@ -2243,7 +2317,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -2328,7 +2402,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -2493,17 +2567,11 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="7b3660cb-c5f1-458b-896c-9fea515370e7">
+              <word guid="96bbd704-a33d-4a25-8821-baf7e844ab44">
                 <item type="txt" lang="gwt-fonipa-x-emic">ɕahidaːn</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">ɕah</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">ɕax</item>
-                    <item type="gls" lang="en">kill</item>
-                    <item type="msa" lang="en">v</item>
-                  </morph>
                   <morph>
-                    <item type="txt" lang="gwt-fonipa-x-emic">-idaːn</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">ɕahidaːn</item>
                   </morph>
                 </morphemes>
               </word>
@@ -2604,11 +2672,8 @@
               <word guid="59a8db42-dc88-4cb3-aa15-b04e6c9b52ee">
                 <item type="txt" lang="gwt-fonipa-x-emic">tasana</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">tasana</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tasana</item>
-                    <item type="gls" lang="en">their</item>
-                    <item type="msa" lang="en">pro</item>
                   </morph>
                 </morphemes>
               </word>
@@ -2696,7 +2761,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -2780,11 +2845,8 @@
               <word guid="59a8db42-dc88-4cb3-aa15-b04e6c9b52ee">
                 <item type="txt" lang="gwt-fonipa-x-emic">tasana</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">tasana</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tasana</item>
-                    <item type="gls" lang="en">their</item>
-                    <item type="msa" lang="en">pro</item>
                   </morph>
                 </morphemes>
               </word>
@@ -2858,12 +2920,8 @@
               <word guid="7aab725e-94bc-4356-82eb-7d9fc4d849f2">
                 <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
-                    <item type="gls" lang="en">our</item>
-                    <item type="msa" lang="en">pro</item>
                   </morph>
                 </morphemes>
               </word>
@@ -2882,8 +2940,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -2995,8 +3054,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -3054,8 +3114,17 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="31b9b118-e095-43eb-9b4a-8cf6b265256b">
+              <word guid="a3672053-11fd-4686-81cc-51583ab9a43f">
                 <item type="txt" lang="gwt-fonipa-x-emic">tasui</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">tasui</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">tasuī</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">they.erg</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
               </word>
               <word>
                 <item type="punct" lang="gwt-fonipa-x-emic">~</item>
@@ -3564,7 +3633,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -3609,11 +3678,8 @@
               <word guid="22345e32-c7b9-46ef-9f3d-9931bc26fe54">
                 <item type="txt" lang="gwt-fonipa-x-emic">milaːu</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">milaːu</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">milaːu</item>
-                    <item type="gls" lang="en">joint(?)</item>
-                    <item type="msa" lang="en">adj</item>
                   </morph>
                 </morphemes>
               </word>
@@ -3735,7 +3801,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -3743,12 +3809,8 @@
               <word guid="7aab725e-94bc-4356-82eb-7d9fc4d849f2">
                 <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
-                    <item type="gls" lang="en">our</item>
-                    <item type="msa" lang="en">pro</item>
                   </morph>
                 </morphemes>
               </word>
@@ -3771,14 +3833,31 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="9d5a7752-18f7-41b7-8c57-5b7fe713da02">
+              <word guid="58d5494e-9e45-4ffe-a277-3dc4dd7f8f0e">
                 <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="gls" lang="en">like(?)</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="fbf02155-0954-4059-af2c-c699b711f746">
                 <item type="txt" lang="gwt-fonipa-x-emic">bote</item>
               </word>
-              <word guid="31b9b118-e095-43eb-9b4a-8cf6b265256b">
+              <word guid="a3672053-11fd-4686-81cc-51583ab9a43f">
                 <item type="txt" lang="gwt-fonipa-x-emic">tasui</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">tasui</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">tasuī</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">they.erg</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                </morphemes>
               </word>
               <word>
                 <item type="punct" lang="gwt-fonipa-x-emic">~</item>
@@ -3799,7 +3878,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-on</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-on</item>
-                    <item type="gls" lang="en">pst.3pl</item>
+                    <item type="gls" lang="en">3pl</item>
                     <item type="msa" lang="en">vt:Any</item>
                   </morph>
                 </morphemes>
@@ -3868,7 +3947,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -3886,6 +3965,14 @@
             <words>
               <word guid="b32dbece-04b7-4710-b9dc-3776cb19578f">
                 <item type="txt" lang="gwt-fonipa-x-emic">taqriban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">taqriban</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">taqriban</item>
+                    <item type="gls" lang="en">approximately</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="3b490a4e-1141-4941-b174-7650a729d945">
                 <item type="txt" lang="gwt-fonipa-x-emic">fiftiʈi</item>
@@ -3909,17 +3996,11 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="67781b36-9e25-424b-9fce-f541786cd592">
+              <word guid="061c19da-065a-4641-aee5-a79c1dfa8c3a">
                 <item type="txt" lang="gwt-fonipa-x-emic">karik</item>
                 <morphemes>
                   <morph>
-                    <item type="txt" lang="gwt-fonipa-x-emic">kar</item>
-                  </morph>
-                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">-ik</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">-ik</item>
-                    <item type="gls" lang="en">vn</item>
-                    <item type="msa" lang="en">v&gt;n</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">karik</item>
                   </morph>
                 </morphemes>
               </word>
@@ -3953,10 +4034,21 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="75aebd22-008d-43b8-a097-e81146c51766">
+              <word guid="1895e9d8-4b05-4d82-99ff-9ee7551eb47c">
                 <item type="txt" lang="gwt-fonipa-x-emic">ditanet</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="gwt-fonipa-x-emic">ditan</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-et</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-et</item>
+                    <item type="gls" lang="en">3.pl</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
               </word>
-              <word guid="f427aa25-0f49-4e0e-a5b3-c33db892ca08">
+              <word guid="4840e108-8e4c-4fd1-95ff-6e5fd6193bc9">
                 <item type="txt" lang="gwt-fonipa-x-emic">ba</item>
                 <morphemes>
                   <morph>
@@ -4230,7 +4322,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -4261,8 +4354,18 @@
             <item type="txt" lang="gwt-fonipa-x-emic">tasaː~ proper tareqa e ki</item>
             <item type="segnum" lang="en">55</item>
             <words>
-              <word guid="c6167e63-b1e3-42ad-bdfd-85a01d2b165f">
+              <word guid="8a7c27a4-940d-4908-bda2-e4a40df1ca4d">
                 <item type="txt" lang="gwt-fonipa-x-emic">tasaː</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">tasaː</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">tasa</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">that.obl</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
               </word>
               <word>
                 <item type="punct" lang="gwt-fonipa-x-emic">~</item>
@@ -4296,7 +4399,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -4326,11 +4429,8 @@
               <word guid="22345e32-c7b9-46ef-9f3d-9931bc26fe54">
                 <item type="txt" lang="gwt-fonipa-x-emic">milaːu</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">milaːu</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">milaːu</item>
-                    <item type="gls" lang="en">joint(?)</item>
-                    <item type="msa" lang="en">adj</item>
                   </morph>
                 </morphemes>
               </word>
@@ -4350,7 +4450,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -4423,7 +4524,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -4448,7 +4549,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -4499,7 +4600,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -4546,7 +4647,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -4579,7 +4680,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -4643,8 +4744,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -4679,15 +4781,21 @@
             <item type="txt" lang="gwt-fonipa-x-emic">amana te laːmana bi muxtalif gine ʨune xalaq</item>
             <item type="segnum" lang="en">60</item>
             <words>
-              <word guid="7aab725e-94bc-4356-82eb-7d9fc4d849f2">
+              <word guid="872888a6-ca3e-4f29-ac66-aeb8077d5270">
                 <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">aman</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">aman</item>
                     <item type="gls" lang="en">our</item>
-                    <item type="msa" lang="en">pro</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">m</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -4732,8 +4840,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -4796,7 +4905,7 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="9e6bc2f4-24a4-41c4-b5d8-12e0b5afc7e9">
+              <word guid="5920a0f4-f584-41c2-8104-9bdc554e3cc3">
                 <item type="txt" lang="gwt-fonipa-x-emic">levalaː</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
@@ -4805,8 +4914,13 @@
                     <item type="gls" lang="en">level</item>
                     <item type="msa" lang="en">n</item>
                   </morph>
-                  <morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aː</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">obl</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -5057,7 +5171,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -5077,8 +5192,16 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="b32dbece-04b7-4710-b9dc-3776cb19578f">
+              <word guid="d7ce9118-96f9-4624-ba33-e3850a7c95c4">
                 <item type="txt" lang="gwt-fonipa-x-emic">taqriban</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">taqriban</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">taqriban</item>
+                    <item type="gls" lang="en">approximately</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="51c67d1d-8b4b-4aeb-aa20-91fa5f1659b3">
                 <item type="txt" lang="gwt-fonipa-x-emic">das</item>
@@ -5094,7 +5217,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -5127,7 +5250,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -5182,7 +5305,7 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="7f3dbfda-9cb9-481b-a48e-d13687080350">
+              <word guid="45621d53-1aeb-4d5b-b349-ae966b2da306">
                 <item type="txt" lang="gwt-fonipa-x-emic">taːlimana</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
@@ -5191,8 +5314,19 @@
                     <item type="gls" lang="en">education</item>
                     <item type="msa" lang="en">adj</item>
                   </morph>
-                  <morph>
-                    <item type="txt" lang="gwt-fonipa-x-emic">-ana</item>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-an</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-an</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">gen</item>
+                    <item type="msa" lang="en">n:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">m</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -5229,8 +5363,16 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="ade47b64-2644-464e-9b6d-3ee38b7795e4">
+              <word guid="65ef2b92-2c72-4ba8-a632-9c1e1de4fc1c">
                 <item type="txt" lang="gwt-fonipa-x-emic">jafal</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">jafal</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">jafal</item>
+                    <item type="gls" lang="en">some(?)</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="4e2a923a-23c5-4e6b-a181-44d433934520">
                 <item type="txt" lang="gwt-fonipa-x-emic">tauʥu</item>
@@ -5500,8 +5642,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -5544,7 +5687,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
-                    <item type="gls" lang="en">3.sg</item>
+                    <item type="gls" lang="en">3sg</item>
                     <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
@@ -5626,8 +5769,17 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="907f0afd-5066-46cd-ba45-3496ef29ad0e">
+              <word guid="0e470f82-b214-4f75-88ea-88ad02057a36">
                 <item type="txt" lang="gwt-fonipa-x-emic">gilaː</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">gilaː</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">like(?)</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="49cfa1a6-95cb-4e39-aa66-38fc26047d7c">
                 <item type="txt" lang="gwt-fonipa-x-emic">ki</item>
@@ -5648,7 +5800,7 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="01be97c5-a0ab-41c3-8197-7398ff41e85e">
+              <word guid="73eb3891-9a07-4f1d-9927-c9e7dd07eb27">
                 <item type="txt" lang="gwt-fonipa-x-emic">daritanaik</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
@@ -5657,11 +5809,11 @@
                     <item type="gls" lang="en">stay</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">tanaik</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tʰanek</item>
-                    <item type="gls" lang="en">be.prs.1pl</item>
-                    <item type="msa" lang="en">cop</item>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-tanaik</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-tanaik</item>
+                    <item type="gls" lang="en">perfect(?).1pl</item>
+                    <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
               </word>
@@ -5760,7 +5912,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -5800,7 +5952,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-on</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-on</item>
-                    <item type="gls" lang="en">pst.3pl</item>
+                    <item type="gls" lang="en">3pl</item>
                     <item type="msa" lang="en">vt:Any</item>
                   </morph>
                 </morphemes>
@@ -5930,24 +6082,14 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="8588dc28-5cee-4454-b592-d2308c504d4c">
-                <item type="txt" lang="gwt-fonipa-x-emic">ɬam</item>
+              <word guid="63c8338d-9a1b-4994-a3aa-c20a065840b7">
+                <item type="txt" lang="gwt-fonipa-x-emic">ɬam kemet</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">ɬam</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">ɬam</item>
+                  <morph type="phrase" guid="a23b6faa-1052-4f4d-984b-4b338bdaf95f">
+                    <item type="txt" lang="gwt-fonipa-x-emic">ɬam ke</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">ɬam ker</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
                     <item type="gls" lang="en">work</item>
-                    <item type="msa" lang="en">n</item>
-                  </morph>
-                </morphemes>
-              </word>
-              <word guid="4b4e7a9f-8b25-41f3-812c-9f667b075f5f">
-                <item type="txt" lang="gwt-fonipa-x-emic">kemet</item>
-                <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">ke</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">ker</item>
-                    <item type="gls" lang="en">do</item>
                     <item type="msa" lang="en">vt</item>
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
@@ -6073,7 +6215,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -6142,7 +6285,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -6202,8 +6346,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -6248,20 +6393,35 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="74f8a85f-9973-4d9f-8a80-38250c097c62">
+              <word guid="22cca500-c44f-4668-869f-dd1228fcbc1e">
                 <item type="txt" lang="gwt-fonipa-x-emic">aːinda</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">aːinda</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">aːinda</item>
+                    <item type="gls" lang="en">future</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
               </word>
               <word>
                 <item type="punct" lang="gwt-fonipa-x-emic">~</item>
               </word>
-              <word guid="add29367-c10b-4c62-b7e7-84810ae772d1">
+              <word guid="2e530d88-a25e-4856-91d6-579312a88a3a">
                 <item type="txt" lang="gwt-fonipa-x-emic">mustaqbila</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">mustaqbila</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">mustaqbila</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">mustaqbil</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">mustaqbil</item>
                     <item type="gls" lang="en">future(?)</item>
                     <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
+                    <item type="gls" lang="en">obl</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -6309,8 +6469,30 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="4b691df3-ff9d-4f33-86b3-b1e8ab687484">
+              <word guid="edea5088-ba41-406d-a06b-acaae061aa99">
                 <item type="txt" lang="gwt-fonipa-x-emic">tames</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">ta</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">ta</item>
+                    <item type="gls" lang="en">see</item>
+                    <item type="msa" lang="en">vt</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-m</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-m</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">prs</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-es</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-es</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
+                    <item type="gls" lang="en">2sg</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
               </word>
             </words>
             <item type="gls" lang="en">Please tell, how do you see the future of this area?</item>
@@ -6345,8 +6527,13 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="dab8a4b6-f381-45e5-ad54-fbfc2944814a">
+              <word guid="d26a91ec-4f16-442b-8f90-e54c9c071870">
                 <item type="txt" lang="gwt-fonipa-x-emic">bijana</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bijana</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="fcf80cfc-bd4c-4f93-9df8-96666fa25796">
                 <item type="txt" lang="gwt-fonipa-x-emic">tʰana</item>
@@ -6425,12 +6612,8 @@
               <word guid="4c30952e-f244-4624-a9f8-796755cbe233">
                 <item type="txt" lang="gwt-fonipa-x-emic">mutaqbila</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">mutaqbila</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">mustaqbila</item>
-                    <item type="variantTypes" lang="en">+unspec. var. of</item>
-                    <item type="gls" lang="en">future(?)</item>
-                    <item type="msa" lang="en">n</item>
                   </morph>
                 </morphemes>
               </word>
@@ -6495,7 +6678,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">qaum</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">qaum</item>
-                    <item type="gls" lang="en">nation</item>
+                    <item type="gls" lang="en">tribe</item>
                     <item type="msa" lang="en">n</item>
                   </morph>
                 </morphemes>
@@ -6514,6 +6697,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">tʰimaːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">tʰimaːn</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
                     <item type="gls" lang="en">be.pst.ptcp(?)</item>
                     <item type="msa" lang="en">cop</item>
                   </morph>
@@ -6559,17 +6743,28 @@
               <word guid="098ea053-7b55-42e9-8473-6ddcaea5b7c1">
                 <item type="txt" lang="gwt-fonipa-x-emic">ɕinaːxt</item>
               </word>
-              <word guid="b94d75c8-1b7e-4eb6-9b1b-934c483efbde">
+              <word guid="4a845e27-a96a-46cd-900f-58e47c7af986">
                 <item type="txt" lang="gwt-fonipa-x-emic">larimaːn</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">lar</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">lari</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">lar</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
                     <item type="gls" lang="en">have</item>
                     <item type="msa" lang="en">v</item>
                   </morph>
-                  <morph>
-                    <item type="txt" lang="gwt-fonipa-x-emic">-imaːn</item>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-m</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-m</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">prs</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
+                    <item type="gls" lang="en">3sg</item>
+                    <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -6649,7 +6844,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">qaum</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">qaum</item>
-                    <item type="gls" lang="en">nation</item>
+                    <item type="gls" lang="en">tribe</item>
                     <item type="msa" lang="en">n</item>
                   </morph>
                 </morphemes>
@@ -6701,7 +6896,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -6773,7 +6968,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -6829,7 +7024,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -6918,7 +7113,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -7014,7 +7209,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -7106,7 +7301,7 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="f427aa25-0f49-4e0e-a5b3-c33db892ca08">
+              <word guid="4840e108-8e4c-4fd1-95ff-6e5fd6193bc9">
                 <item type="txt" lang="gwt-fonipa-x-emic">ba</item>
                 <morphemes>
                   <morph>
@@ -7194,7 +7389,7 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="1e70f7ad-0ae3-4681-8bb9-45e6d0f87e43">
+              <word guid="c0fc5c59-1e86-43c0-a5d3-b20c8d878812">
                 <item type="txt" lang="gwt-fonipa-x-emic">ditanait</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
@@ -7203,11 +7398,11 @@
                     <item type="gls" lang="en">go</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">tanait</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tʰanet</item>
-                    <item type="gls" lang="en">be.prs.3pl</item>
-                    <item type="msa" lang="en">cop</item>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-tanait</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-tanet</item>
+                    <item type="gls" lang="en">perfect(?).3pl</item>
+                    <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
               </word>
@@ -7250,11 +7445,8 @@
               <word guid="681167c9-c09a-4567-a028-31e429a0c9ba">
                 <item type="txt" lang="gwt-fonipa-x-emic">tusuna</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">tusuna</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tasana</item>
-                    <item type="gls" lang="en">their</item>
-                    <item type="msa" lang="en">pro</item>
                   </morph>
                 </morphemes>
               </word>
@@ -7281,20 +7473,21 @@
               <word guid="e5b39952-23a0-4ad8-b8df-2caf87546881">
                 <item type="txt" lang="gwt-fonipa-x-emic">ʨaːp</item>
               </word>
-              <word guid="679180df-aac3-4165-8da2-ac7b2da406e7">
+              <word guid="7d95a147-13b0-406a-90ba-d895ea4a2c52">
                 <item type="txt" lang="gwt-fonipa-x-emic">bitanet</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">tanet</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tʰanet</item>
-                    <item type="gls" lang="en">be.prs.3pl</item>
-                    <item type="msa" lang="en">cop</item>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-tanet</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-tanet</item>
+                    <item type="gls" lang="en">perfect(?).3pl</item>
+                    <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
               </word>
@@ -7342,14 +7535,14 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="4480cb30-64cd-4376-a967-e827cc13b00a">
+              <word guid="1b996587-08cf-4500-9b01-f396ec412a41">
                 <item type="txt" lang="gwt-fonipa-x-emic">tasuaː</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">tasuaː</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tasu</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">tusuaː̄</item>
                     <item type="variantTypes" lang="en">+unspec. var. of</item>
-                    <item type="gls" lang="en">they.acc</item>
+                    <item type="gls" lang="en">they.dat</item>
                     <item type="msa" lang="en">pro-form</item>
                   </morph>
                 </morphemes>
@@ -7373,7 +7566,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -7387,7 +7581,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
-                    <item type="gls" lang="en">3.sg</item>
+                    <item type="gls" lang="en">3sg</item>
                     <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
@@ -7406,13 +7600,8 @@
               <word guid="65646531-4f07-40bb-9038-9ae8e74f590c">
                 <item type="txt" lang="gwt-fonipa-x-emic">amani</item>
                 <morphemes>
-                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                  <morph>
                     <item type="txt" lang="gwt-fonipa-x-emic">amani</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
-                    <item type="variantTypes" lang="en">+unspec. var. of</item>
-                    <item type="gls" lang="en">our</item>
-                    <item type="msa" lang="en">pro</item>
                   </morph>
                 </morphemes>
               </word>
@@ -7445,6 +7634,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">tʰimaːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">tʰimaːn</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
                     <item type="gls" lang="en">be.pst.ptcp(?)</item>
                     <item type="msa" lang="en">cop</item>
                   </morph>
@@ -7561,8 +7751,16 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="9d5a7752-18f7-41b7-8c57-5b7fe713da02">
+              <word guid="58d5494e-9e45-4ffe-a277-3dc4dd7f8f0e">
                 <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="gls" lang="en">like(?)</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="93004a2b-e4a0-426f-bc14-21af12d90f6f">
                 <item type="txt" lang="gwt-fonipa-x-emic">kerok</item>
@@ -7576,7 +7774,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-ok</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-ok</item>
-                    <item type="gls" lang="en">pfv.1.pl.pst</item>
+                    <item type="gls" lang="en">1pl</item>
                     <item type="msa" lang="en">vt:Any</item>
                   </morph>
                 </morphemes>
@@ -7600,15 +7798,21 @@
             <item type="txt" lang="gwt-fonipa-x-emic">amana ʈraːnslet kei tiniaː~ fedana bimaːn</item>
             <item type="segnum" lang="en">95</item>
             <words>
-              <word guid="7aab725e-94bc-4356-82eb-7d9fc4d849f2">
+              <word guid="872888a6-ca3e-4f29-ac66-aeb8077d5270">
                 <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">aman</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">aman</item>
                     <item type="gls" lang="en">our</item>
-                    <item type="msa" lang="en">pro</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">m</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -7655,7 +7859,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -7669,7 +7874,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
-                    <item type="gls" lang="en">3.sg</item>
+                    <item type="gls" lang="en">3sg</item>
                     <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
@@ -7729,8 +7934,16 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="995b669a-4b61-4714-83f0-b2643d646754">
+              <word guid="9fe73a13-83fa-42d2-aba9-89217a293895">
                 <item type="txt" lang="gwt-fonipa-x-emic">miz</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">miz</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">miz</item>
+                    <item type="gls" lang="en">until</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="bffe3f9f-37ed-4ccb-a14b-3336aa99ff29">
                 <item type="txt" lang="gwt-fonipa-x-emic">kaːfi</item>
@@ -7759,7 +7972,8 @@
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -7773,7 +7987,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
-                    <item type="gls" lang="en">3.sg</item>
+                    <item type="gls" lang="en">3sg</item>
                     <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
@@ -7822,16 +8036,21 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="3e65ddd2-a6d6-46e4-b0cc-a5eaf0f1d4b8">
+              <word guid="4ceec387-8a56-47e6-8d91-cb32f77a7cfd">
                 <item type="txt" lang="gwt-fonipa-x-emic">amani</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">amani</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
-                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">aman</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">aman</item>
                     <item type="gls" lang="en">our</item>
-                    <item type="msa" lang="en">pro</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-i</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-i</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">f</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -7841,7 +8060,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">qaum</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">qaum</item>
-                    <item type="gls" lang="en">nation</item>
+                    <item type="gls" lang="en">tribe</item>
                     <item type="msa" lang="en">n</item>
                   </morph>
                 </morphemes>
@@ -7953,8 +8172,16 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="9d5a7752-18f7-41b7-8c57-5b7fe713da02">
+              <word guid="58d5494e-9e45-4ffe-a277-3dc4dd7f8f0e">
                 <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="gls" lang="en">like(?)</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="1f747e1f-f3bc-4fee-9e68-aae9e920d753">
                 <item type="txt" lang="gwt-fonipa-x-emic">e</item>
@@ -7962,13 +8189,21 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
               </word>
-              <word guid="275819d4-62e4-42fb-89e3-ffaf38cfc485">
+              <word guid="c19ebb8a-3bb1-4d9b-93fa-afe301e34b17">
                 <item type="txt" lang="gwt-fonipa-x-emic">faːr</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">faːr</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">faːr</item>
+                    <item type="gls" lang="en">there(?)</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="494a5ce9-fa0a-40d7-9594-0e8e131cfa53">
                 <item type="txt" lang="gwt-fonipa-x-emic">nori</item>
@@ -8149,7 +8384,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">koɕiɕ</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">koɕiɕ</item>
-                    <item type="gls" lang="en">effort</item>
+                    <item type="gls" lang="en">attempt</item>
                     <item type="msa" lang="en">&lt;Not Sure&gt;</item>
                   </morph>
                 </morphemes>
@@ -8210,7 +8445,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -8230,8 +8465,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -8355,7 +8591,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">behtarin</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">behtarin</item>
-                    <item type="gls" lang="en">best(?)</item>
+                    <item type="gls" lang="en">best</item>
                     <item type="msa" lang="en">adj</item>
                   </morph>
                 </morphemes>
@@ -8530,7 +8766,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -8640,7 +8876,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-ok</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-ok</item>
-                    <item type="gls" lang="en">pfv.1.pl.pst</item>
+                    <item type="gls" lang="en">1pl</item>
                     <item type="msa" lang="en">vt:Any</item>
                   </morph>
                 </morphemes>
@@ -8732,7 +8968,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
-                    <item type="gls" lang="en">3.sg</item>
+                    <item type="gls" lang="en">3sg</item>
                     <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
@@ -8759,8 +8995,16 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="9d5a7752-18f7-41b7-8c57-5b7fe713da02">
+              <word guid="58d5494e-9e45-4ffe-a277-3dc4dd7f8f0e">
                 <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">gila</item>
+                    <item type="gls" lang="en">like(?)</item>
+                    <item type="msa" lang="en">prt</item>
+                  </morph>
+                </morphemes>
               </word>
               <word guid="24072f9e-4a44-4419-8297-e35abf930a7d">
                 <item type="txt" lang="gwt-fonipa-x-emic">kemaːn</item>
@@ -8781,7 +9025,7 @@
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-aːn</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">-aːn</item>
-                    <item type="gls" lang="en">3.sg</item>
+                    <item type="gls" lang="en">3sg</item>
                     <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
@@ -8934,7 +9178,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -8988,7 +9232,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -9090,16 +9334,21 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="65646531-4f07-40bb-9038-9ae8e74f590c">
+              <word guid="67312b45-3cb0-400a-8f21-6fc65cd2310f">
                 <item type="txt" lang="gwt-fonipa-x-emic">amani</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">amani</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">amana</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
-                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">aman</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">aman</item>
                     <item type="gls" lang="en">our</item>
-                    <item type="msa" lang="en">pro</item>
+                    <item type="msa" lang="en">pro-form</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-i</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-i</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">1</item>
+                    <item type="gls" lang="en">f</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -9107,8 +9356,9 @@
                 <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">b</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">b</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">bi</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">3</item>
                     <item type="gls" lang="en">be</item>
                     <item type="msa" lang="en">vi</item>
                   </morph>
@@ -9127,7 +9377,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">koɕiɕ</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">koɕiɕ</item>
-                    <item type="gls" lang="en">effort</item>
+                    <item type="gls" lang="en">attempt</item>
                     <item type="msa" lang="en">&lt;Not Sure&gt;</item>
                   </morph>
                 </morphemes>
@@ -9227,9 +9477,9 @@
                     <item type="msa" lang="en">vt</item>
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="gls" lang="en">fut.1pl(?)</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="gls" lang="en">fut.1pl</item>
                     <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
@@ -9316,23 +9566,14 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="0f3fa179-bbd0-46e5-a27e-69476e8140a0">
+              <word guid="1390ffe3-dbc4-4207-931c-f6ac3def3944">
                 <item type="txt" lang="gwt-fonipa-x-emic">tʰanem</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">tʰan</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">tʰin</item>
-                    <item type="variantTypes" lang="en" />
-                    <item type="gls" lang="en">be.prs</item>
-                    <item type="glsAppend" lang="en">.irr.infl</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">tʰanem</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">tʰanem</item>
+                    <item type="gls" lang="en">be.prs.1sg</item>
                     <item type="msa" lang="en">cop</item>
-                  </morph>
-                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">-em</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">-m</item>
-                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
-                    <item type="gls" lang="en">1.sg</item>
-                    <item type="msa" lang="en">v:Any</item>
                   </morph>
                 </morphemes>
               </word>
@@ -9439,7 +9680,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -9533,7 +9774,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">koɕiɕ</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">koɕiɕ</item>
-                    <item type="gls" lang="en">effort</item>
+                    <item type="gls" lang="en">attempt</item>
                     <item type="msa" lang="en">&lt;Not Sure&gt;</item>
                   </morph>
                 </morphemes>
@@ -9588,7 +9829,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">qaum</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">qaum</item>
-                    <item type="gls" lang="en">nation</item>
+                    <item type="gls" lang="en">tribe</item>
                     <item type="msa" lang="en">n</item>
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
@@ -9708,9 +9949,9 @@
                     <item type="msa" lang="en">vt</item>
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="gls" lang="en">fut.1pl(?)</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="gls" lang="en">fut.1pl</item>
                     <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
@@ -9754,7 +9995,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -9794,9 +10035,9 @@
                     <item type="msa" lang="en">vt</item>
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="gls" lang="en">fut.1pl(?)</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="gls" lang="en">fut.1pl</item>
                     <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
@@ -10039,9 +10280,9 @@
                     <item type="msa" lang="en">vt</item>
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="gls" lang="en">fut.1pl(?)</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="gls" lang="en">fut.1pl</item>
                     <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
@@ -10096,7 +10337,7 @@
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">e</item>
                     <item type="cf" lang="gwt-fonipa-x-emic">e</item>
-                    <item type="gls" lang="en">by/with</item>
+                    <item type="gls" lang="en">erg/ins</item>
                     <item type="msa" lang="en">post</item>
                   </morph>
                 </morphemes>
@@ -10152,8 +10393,8 @@
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="gwt-fonipa-x-emic">-ka</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">-ika</item>
-                    <item type="gls" lang="en">fut.1pl(?)</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-ka</item>
+                    <item type="gls" lang="en">fut.1pl</item>
                     <item type="msa" lang="en">Verb</item>
                   </morph>
                 </morphemes>
@@ -10234,14 +10475,21 @@
                   </morph>
                 </morphemes>
               </word>
-              <word guid="add29367-c10b-4c62-b7e7-84810ae772d1">
+              <word guid="2e530d88-a25e-4856-91d6-579312a88a3a">
                 <item type="txt" lang="gwt-fonipa-x-emic">mustaqbila</item>
                 <morphemes>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
-                    <item type="txt" lang="gwt-fonipa-x-emic">mustaqbila</item>
-                    <item type="cf" lang="gwt-fonipa-x-emic">mustaqbila</item>
+                    <item type="txt" lang="gwt-fonipa-x-emic">mustaqbil</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">mustaqbil</item>
                     <item type="gls" lang="en">future(?)</item>
                     <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="cf" lang="gwt-fonipa-x-emic">-a</item>
+                    <item type="hn" lang="gwt-fonipa-x-emic">2</item>
+                    <item type="gls" lang="en">obl</item>
+                    <item type="msa" lang="en">n:Any</item>
                   </morph>
                 </morphemes>
               </word>
