@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-12-22T17:37:38+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/Desktop/Gawarbati_data/20220409-RafeezUllahDarsolQuran.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20220409-RafeezUllahDarsolQuran.wav"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Users/apanova/Desktop/Gawarbati_data/20220409-RafeezUllahDarsolQuran.wav" MEDIA_URL="file:///Users/apanova/Desktop/Gawarbati_data/20220409-RafeezUllahDarsolQuran.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20220409-RafeezUllahDarsolQuran.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d299ec25-2b34-4df0-94fa-15d7e7ec88b5</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">441</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4043"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7729"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11632"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="14607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="14771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="21822"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="21999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="26551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="27060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="30984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="31072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="35682"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="36969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="44193"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="44805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="50897"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="51009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="58683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="58885"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="73697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="74697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="81244"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="81417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="89519"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="89612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="95091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="95387"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="100550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="100642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="107142"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="107521"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="117040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="117121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="123193"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="123306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="129683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="129784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="139499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="140500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="146623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="146723"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="155274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="158162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="166060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="166254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="173683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="175217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="185622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="186183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="190223"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="190305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="196539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="196703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="204510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="204611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="212621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="212706"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="222020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="222112"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="228367"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="228468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="232917"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="234295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="243560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="247284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="252202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="252417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="257254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="257441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="267244"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="267298"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="273652"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="273927"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="278295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="278437"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="284866"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="285581"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="290336"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="290713"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="300152"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="300643"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="302898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="303091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="311275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="311886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="320121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="322101"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="329550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="330265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="332745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="333358"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="343697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="343848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="347282"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="348848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="354358"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="354452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="367320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="368433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="382320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="382536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="387649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="388008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="394197"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="394697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="395962"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Rafeez" TIER_ID="Rafeez-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>bimillahirahmaːnirahim darsi quraːnani awal ahmiat ta woi tʰini ʨi parzosaː allah tabaːrak wa taːla har insaːna pena raːzi bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ahmiat sani woi tʰini ʨi har insaːn quraːnana har aːjatana mafhum insaːn parzimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>au peɣaːbaraːnana waːqiaːt au har ɕaːi parzosaː namaːzana baːraː zakaːtana baːraː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ʥihaːdana baːraː har maːnuʂ parzosaː xususan peɣaːmbaraːnana waːqiaːt au ɕiki nek xalaqana waːqiaːt quraːna karik ʈʰaːna tazira tʰanet au karik qauma ratai azaːb ʥitini aja tasau insaːn har aːjaːtana mafhum matlaba parzimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ramazaːn ul mubaːrakana lau ahmiat ahaːdis mubaːrakaː thanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>muxtasar baːti woi tʰini ʨi ramazaːn ul mubaːrak karik tʰini ʨi ramazaːn ul mubaːrak karik tʰini e lau barakat waːla mahina tʰana parzosaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>allah tabaːrak wa taːlaː ɕetaːnaːna genʈimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>har insaːna allah tabaːra wa taaːla te rozaːni maːsoia neki keikani taufeq ɬimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>nun sobaːra har maːnuʂ te rozaː darsi quraːn bimaːn baz xalaq ɕila tʰimet ʨi pura kaːl quraːn na ʥamet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ite xalaq darsãː niɕimet ɖagaɖaga niɕimet zuaːnaːn niɕimet </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>woi jak rozaːni barakat tʰanet ʨi maːnuʂ allahni ibaːdaːtãː ki te ʈʰaːnãː ki ʥimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>islahi muaːɕiraː ʂaʦi allah tabaːrak wa taaːlaːe ɖaɖal ɖaɖal suratnaːm te naːzil keitus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>awal sara ɕigaːliana islaːh keika ʂaʦi allah tabaːrak wa taaːlaːe surati nisaː naːzil keitus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>surati alnur ime ɕigaːliani islah ʂaʦi ɕiki lauɽiani islaːh ʂaʦi allah tabaːrak wa taaːlaːe suratnaːma naːzil ketus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>baːjad pakaːr woi tʰana ʨi amana woi muaːɕra karik tʰana ba te anpaɽɽ xalaq bi tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>laka baːz ɕila xalaq bi tʰanet urdu bi na piaːnimet au urdu piaːnimet baːz xalaq xo sahi tasana mafhuma na parzimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ɕilãː ki baːjad zi amãː pakaːr tʰana ʨi ama lau koɕiɕ woi kemek ʨi ama gawargaːʂʈi taːnu zubaːne keika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>au te ki nikanika bi niɕisan tʰimet teki zaif xalaq ɖagaɖaga bi niɕisan tʰimet amani gilaːna xalaq bi niɕisan tʰimet taːlimjaːfata bi niɕisan tʰimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ama pakaːr tʰana ʨi har maːnuʂãː ki tasani zubaːne baːti kewaːn ga ba se zar parzimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ʥo ama bi koɕiɕ kemek ʨi ama taːnu zubaːn gawargaːʂʈi dars kerika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>amana woi karik haranu karik ilaːqa tʰanae niaː te maːɕaː allah te darsi quraːn pura saːl bimaːn </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>sarhadana baːz ilaːqaː darsi quraːn bimaːn darsi tafsir bimaːn parzosaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>nori te ʈema karik tʰinete baːz ulamaːi karaːm nori amana te ɖaɖal madaːris na tʰanet , baːz xalaq sabaq paɽʰau keikãː dimet baz taːnu waːri dunwi taːlima ʂʦi nesisan tʰimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>rozaːni maːsoi karik tʰimaːni ba madaːrise faːr ʨʰuʈɪ tʰimet ʨʰiʈiana baːuʥud ulamaːikaraːm tinena ʥimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>baːz xalaq parzosaː nuŋga nuŋga daura hadisana fariɣ bot ba time xalaq te haranu ʥimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>haranu ʥi time te laːma tʰimet ʥo ʨʰuʈiani maːsoia ɕilãːki te rozaːni maːsoia aːma tʰimet ʥo sa darsi quraːna ɬimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>amani te ʥumaːida ɣair ramazaːna bi dars bimaːn </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>har ʥumaida nai xaːs xaːs karik ʥumaida neɽai mulaːjaːn bot ba mahalaː ki time taːnu taːnu ʥumaːidãːki di dars kemet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>kerimet ɣair ramazaːn bi amana te dars bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>iɕilãː paidaː bot ʨi amana woi ilaːqa musulmaːnaːna ilaːqa tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>dinanai bak xalaqani ɕauq tʰɪni</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>ime taːnu baʨiaːna aksar dinani bak ama ʨi pola pola bokãː toni baːti tʰini ʨi ja mahallaː kine jak haːfiz tʰi </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>jaː mahallaː bi na tʰi waːri ilaːqaːna ʥi amana te gila keret</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>daːwat ʨalai jak zan ga tena masalan karaːʨi piɕaːwar te di hifiz ke aːja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>ten giri tarɣib ɬɪtus tasa tai giri xlaaqe taːnu baʨiaːna ʂaːi au nori maːɕaːllah har mahallaː du ɬe haːfiz xaːmaxaː har aːmaː parzosaː har aːmaː aksar aːmai faːr ulamaː mauʥud tʰanet  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>woi tasu qaːriaːn tasu ulamaːni wagila tʰini taːnu ilaːqaːna baʨiaːna madrasa gaːi tasuni tarbiat kemet au tasuni nigraːni ke tasu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>tasu waɽai hifiz kemet ilmani kors mukamal kemet parzosaː woi tasu xalqani qurbaːnini waʥae ɬɪ </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>nun sobaːra har mahallaː jak haːfiz jaː aːlim au aksar aːmaifaːr parzosaː haːfiz aːlim mauʥud tʰɪmaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Rafeez-txt-gwt-fonipa-x-emic" PARTICIPANT="Rafeez" TIER_ID="Rafeez_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Bismillah al-Haman al-Rahim, the first importance of Dars al-Qur'an is that Allah is pleased with humans</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Rafizullah is with me and today is Saturday April 9, 2022</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>In it, the events of the Prophets are about everything, about prayer, about almsgiving</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Everything about Jihad, especially the events of the Prophets, is mentioned in the Qur'an, and every person knows about the tribes on which the punishment of Allah has come.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>A lot of importance has been explained in the hadiths of Ramadan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>In short, Ramadan is a very blessed month.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Allah binds the devils in this month</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Allah allows people to do good deeds in this month</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Nowadays, everyone sits and listens to the teaching of the Qur'an, but they do not recite the Qur'an throughout the year</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>People, young and old, sit here for Islamaic lessons</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>It is the blessings of Ramadan that people worship Allah.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>For the reformation of a society, Allah has revealed many surahs in the Qur'an</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>First of all, Allah has revealed Surah Nisa for the reformation of women</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Surah Noor was revealed in this way, then Allah has revealed Surahs for the reformation of men.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>This is necessary because there are illiterate people in our society</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Some people do not even understand Urdu and do not know the correct meaning</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>That is why we try to teach in Guarbati language</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Because children, old, young and educated people also sit in our teaching</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>We should teach in our mother tongue so that he can understand easily</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>So we try to teach in Guarbati</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>This is our Arundu area, it is organized here throughout the year</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>In some areas of the border, the teaching of the Qur'an is done, but there is also commentary</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>At the present time, our scholars do not have big madrasahs, but they teach and some even go after their worldly needs.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>In the month of Ramadan, madrasahs have holidays, yet scholars come from far and wide to organize it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>Some of them come to Arundu after completing the Hadith round.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>Coming here to the village, because they have a holiday from the madrassa in Ramadan, they teach the people here.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>In our mosque, there is teaching even normal days apart from Ramadan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>Those scholars who have mosques near their homes teach there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>So we have lessons even outside of Ramadan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>They were born because this area of ours belongs to Muslims.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>They are fond of Islam.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>These people mostly attract their children towards religion and you rightly said that earlier there used to be a Quran memorizer in the whole neighborhood.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Or even in the neighborhood, he used to come from outside and recite the Qur'an</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Then one after another they went to Karachi Peshawar and came back with memorization</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>In this way, this series continued and now there are two or three Hafiz Quran reciters in every neighborhood and most of the houses have scholars.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>These are the efforts of the Qaris and scholars who take these children to Madrasahs and train and supervise them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>So because of the sacrifice of these people, they memorize and acquire knowledge.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>This is the reason why there are hafiz and scholars in most of the houses and neighborhoods</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Rafeez-txt-gwt-fonipa-x-emic" PARTICIPANT="Rafeez" TIER_ID="Rafeez_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>بسم اللہ الر حمان الرحیم درس القرآن کی اول اہمیت تو یہ ہے کہ اللہ  انسانوں سے راضی ہوتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>اہمیت اس یہ ہے کہ ہر انسان قرآن کی ہر آیت کا مفہوم سمجھتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>اس میں پیغمبروں کے واقعات ہر چیز نماز کے بارے میں زکوات کے بارے میں ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>جہاد کے بارے میں مطلب ہر چیز خصوصاً پیغمبروں کے واقعات قرآن میں ان کا تذکرہ ہے اور جن قوموں پر اللہ کا عذاب آیا ہر انسان ان کے بارے میں اگاہ ہوتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>رمضان المبارک کے احادیث میں بہت سارے اہمیت بیان ہو چکے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>مختصر یہ کہ رمضان المبارک بہت برکت والا مہینہ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>اللہ شیاطین کو باندھتا ہے اس مہینہ میں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>اللہ انسانوں کو اس مہینہ نیکیاں کرنے کا توفیق عطا کرتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>آج کل ہر شخص چونکہ قرآن کا درس ہوتا ہے بیٹھ کر سنتے ہیں وہ لوگ پورہ سال قرآن کی تلاوت نہیں کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>یہاں لوگ درس کیلئے بیٹھتے ہیں جوان بوڑھے سب </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>یہ رمضان کے برکات ہیں کہ لوگ اللہ کی عبادات کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ایک معاشرے کی اصلاح کیلئے اللہ نے قرآن میں بڑی بڑی سورتیں نازل کی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>سب سے پہلے عورتوں کی اصلاح کیلئے اللہ نے سورہ نساء نازل کیا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>سورت نور اسطرح نازل کیا پھر مردوں کی اصلاح کیلئے اللہ نے سورتیں نازل کی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>ضروری یہ ہے چونکہ ہمارے معاشرے میں ناخوا ندہ لوگ بھی ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>بعض لوگ اردو بھی نہیں سمجھتے ہیں صحی طور مفہوم نہیں جانتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>اسلیئے ہماری کوشش یہ ہوتی ہے کہ ہم گوارباتی زبان میں درس دیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>کیونکہ ہماری درس میں بچے بوڑھے جوان اور تعلیم یافتہ لوگ بھی بیٹھتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>ہمیں یہ چاہیے کہ ہم اپنی مادری زبان میں درس دیں تاکہ وہ آسانی سے سمجھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>تو ہماری یہ کوشش ہوتی ہے کہ ہم گوارباتی میں درس دینگے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>ہمارا یہ ارندو جو علاقہ ہے یہاںماشاللہ پورا سال اس کا اہتمام ہوتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>سرحد کے کچھ علاقوں میں درس القرآں ہوتا ہے بلکہ تفسیر بھی ہوتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>موجودہ وقت میں ہمارے علماء کرام کے پاس بڑے مدارس نہیں ہیں باوجود اس کے وہ پڑھاتے ہیں اور کچھ اپنی دنیاوی ضروریات کے پیچھے بھی چلے جاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>رمضان کے مہینے میں مدارس میں چھٹیاں ہیں اس کے باوجود علماء دور دور سے آتے ہیں اس کے اہتمام کے لئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>بعض نئے نئے دورہ حدیث سے فارغ ہوکر ارندو آتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>یہاں گاؤں آ کر کیونکہ مدرسہ سے رمضان میں ان کی چھٹی ہوتی ہے وہ یہاں لوگوں کو درس دیتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>ہماری مسجد میں تو غیر رمضان میں بھی درس ہوتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>جن جن علماء کے گھروں کے نزدیک مسجد ہوتے ہیں وہ وہاں درس دیتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>تو ہمارے ہاں غیر رمضان میں بھی درس ہوتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>اس لئے پیدا ہوئے کہ ہمارا یہ جو علاقہ ہے یہ مسلمانوں کا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>دین اسلام کا شوق رکھتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>یہ لوگ ذیادہ تر اپنے بچوں کو دین کی طرف راغب کرتے ہیں اور آپ نے بجا فرمایا کہ پہلے پورے محلے میں ایک قرآن حافظ ہوتا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>یا محلہ میں بھی نہ ہوتا تھا باہر سے آ کر قرآن سناتا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>پھر یک کے بعد دیگر کراچی پشاور چلے گئے اور حفظ کر کے آئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>اس طرح ایک یہ سلسلہ جاری رہا اور اب ہر محلہ میں دو تین حافظ قرآن ہے  اکثر گھروں میں علماء موجود ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>یہ ان قاریوں اور علماء کی کاوش ہیں جو ان بچوں کو مدارس میں لے جا کر ان کی تربیت اور نگرانی کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>تو ان لوگوں کی قربانی کی وجہ سے وہ حفظ کرتے ہیں علم حاصل کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>یہی وجہ ہے کہ اکثر گھروں اور محلوں میں حافظ اور عالم موجود ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Rafeez-txt-gwt-fonipa-x-emic" PARTICIPANT="Rafeez" TIER_ID="Rafeez-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>بسم اللہ الرحمان الرحیم درسِ قراننی اول اہمیت تہ وئ تِھنی چی پرزوسا اللہ تبارک و تعالا ہر انسانَ پینہ راضی بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>اہمیت اسنی وئ تِھنی چی ہر انسان قراننہ ہر آیتنہ مفہوم انسان پرزِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>او پیغمبراننہ واقعات او ہر شئ پرزوسا نمازنہ بارا زکاتنہ بارا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>جہادنہ بارا ہر مانُوݭ پرزوسا خصوصاً پیغمبراننہ واقعات او شِکی نیک خلقنہ واقعات قرانَ کریک ٹھانَ تذکرہ تھنیت او کریک قومَ رتئ عذاب جِتِنی ایا تسُو ہر انسان آیتنہ مفہومَ مطلبَ پرزِمان     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>رمضان المبارکنہ لو اہمیت احادیث مبارکَ تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>مختصر باتی وئ تِھنی چی رمضان المبارک کرِک تِھنی لو برکت والا مہینہ تھنہ پرزوسا   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>اللہ تبارک وتعالا شیطانانَ گینٹِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ہر انسانَ اللہ تبارک و تعالا تے روزانی ماسوئَ نیکی کیکنی توفیق ݪِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>نون سوبارہ ہر مانُوݭ تے روزا درسِ قران بِمان بعض خلق شِلہ تھنیت چی پورہ کال قران نہ جمیت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>اتے خلق درساں نِشِمیت ڈگہ ڈگہ نِشِمیت زوانان نِشِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>وئ یک روزانی برکت تھنیت چی مانُوݭ اللہنی عبادتاں کی تے ٹھاناں کی جمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>اِصلاح معاشرا ݭڅی اللہ تبارک و تعالا یے ڈڈل ڈڈل سورتنام تے نازِل کیتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>اول سرہ شِگالینہ اصلاح کییِکہ ݭڅی اللہ تبارک و تعالا یے سورت نِساء نازِل کیتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>سورت النُور اِمے شِگالینی اصلاح ݭڅی شِکی لوڑینی اصلاح ݭڅی اللہ تبارک و تعالا یے سورتنام نازِل کیتُوس </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>باید پکار وئ تھنہ چی امنہ وئ معاشرہ کریک تھنہ بہ تے انپڑھ خلق بھی تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>لکہ بعض شِلہ خلق بھی تھنیت اردُو بھی نہ پیانمیت او اردو پیانِمی بعض خلق خو صحیح تسنہ مفہومَ نہ پرزِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>شِلاں کی باید زے اماں پکار تھنہ چی امہ لو کوشِش وئ کیمیک چی امہ گوَرگاݭٹی تانُو زبانے کییِکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>او تے کی نِکہ نِکہ بھی نِشِسن تِھمیت تے کی ضعیف خلق ڈگہ ڈگہ بھی نِشِسن تِھمیت امنی گِلانہ خلق بھی نِشِسن تِھمیت تعلیمیافتہ بھی نِشِسن تِھمیت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>امہ پکار تھنہ چی ہر مانُوݭاں کی تسنی زبان یے باتی کیوان گہ بہ زر پرزِمان </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>جو امہ بھی کوشِش کیمیک چی امہ تانُو زبان گوَرگاݭٹی درس کیرِکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>امنہ وئ کریک ہرَنُو کریک علاقہ تھنہ یے نیا تے ماشاءاللہ تے درسِ قران پورہ سال بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>سرحدنہ بعض علاقا درسِ قران بِمان درسِ تفسیر بِمان پرزوسا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>نوری تے ٹیمَ کریک تھنیتے بعض علماء کرام نوری امنہ تے ڈڈل مدارِس نہ تھنیت ، بعض خلق سبق پڑھاو کیکاں دِمیت بعض تانُو واری دُنیاوی تعلیمَ ݭڅی نیسِسن تِھمیت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>روزانی ماسوئ کریک تِھانی بہ مدارسے فار چُھٹی تِھمیت چُھٹینہ باوجود علماء کرام تِنینہ جِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>بعض خلق پرزوسا نونگہ نونگہ دورہ حدیثنہ فارغ بوت بہ تِمے خلق تے ہرَنُو جِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>ہرَنُو جی تِمے تے لامَ تِھمیت جو چُھٹینی ماسوئَ شِلاں کی تے روزانی ماسوئَ آما تِھمیت جو سہ درسِ قرانَ ݪِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>امنی تے جمائدَ غیر رمضانَ بھی درس بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>ہر جمائدَ نئ خاص خاص جمائدَ نیڑئ ملایان بوت بہ محلا کی تِمے تانُو تانُو جمائداں کی دی درس ݪِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>کیریمیت غیر رمضانَ بھی امنہ تے درس بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>اشلاں پیدا بوت چی امنہ وئ علاقہ مسلمانانَ علاقہ تھنہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>دیننہ بک خلقنی شوق تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>اِمے تانُو بچیانَ اکثر دیننی بک امہ چی پولہ پولہ بوکاں تونی باتی تِھنی چی یہ محّلا کِنے یک حافظ تِھی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>یا محّلا بھی نہ تِھی واری علاقانہ جی امنہ تے گلا کیریت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>دعوت چلئ یک زن گہ تینہ مثلاً کراچی پشاور تے دی حفظ کیی آیہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>تین گِری ترغیب ݪِتُوس تسہ تئ گِری خلقے تانُو بچیانَ ݭئ او نوری ماشاءاللہ ہر محّلا دو ݪے حافِظ خامخا ہر آما پرزوسا ہر آما اکثر آمئ فار علماء موجود تھنیت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>وئ تسُو قاریان تسُو علماءنی وگِلہ تِھنی تانُو علاقانہ بچیانَ مدارسَ گایی تسُونی تربیت کیمیت او تسونی نگرانی کیی تسو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>تسو وڑئ حفظ کیمیت علمنی کورس مکمل کیمیت پرزوسا وئ تسُو خلقنی قربانینی وجہ یے ݪی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>نون سوبارہ ہر محلا یک حافِظ یا عالم او اکثر آمئ فار پرزوسا حافظ عالم موجود تِھمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="txt" TIER_ID="interlinear-text-title-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>20220409-RafeezUllahDarsolQuran</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Nasir" TIER_ID="Nasir-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>woi jak viɖiu rikaːrɖiŋg tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ãː naːsir asa rikaːrɖiŋg kerimem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ama pahaːɽi masʥida te wuʈ bisan tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>haranua dama </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ama manzi rafizullah tʰana , nun haftaːni des tʰini nau aprel do hazaːr bais</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ama rafizullah pena ʨunki woi ramazaːnalmubaːrkani maːsoi tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ama asana darsulquraːn kemaːn ate xalaq niɕisan tʰimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ama asa pena asa kʰudamek darsulquraːnani ahmiat amãː bajaːn kewa rafizullah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>xa ʨunki woi ramazaːnulmubaːrakani maːsoi tʰini ramazaːnulmubaːrakani ki saːda alfaːze asani ahmiat bajaːn kera</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a242" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>aʨʰa darsul quraːna madi nazar saːti ja muaːɕiraːni islaːha ʂaʦi zaruri ki ɕai tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>quraːna pudami tʰoi laka tuĩ ja misaːl ɪitu ba ja bai muaːɕiraːni islaʰ ki rawani keraːn dimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>aʨʰa tu darsulquraːn gawar gaːʂʈi kemes ʨunki jak maːɕraːni amani zabaːn karik maːdri zabaːn tʰini gawarbaːti tʰini allah taaːlaːni ɬisan zabaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>woi kata zaruri tʰana laka taːnu zabaːne dars ɬiwaːwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>dars ul quraːn ɕuro keri kata waxt bimaːn au aksar ama tamek zi ramazaːn ul mubaːrakani maːsoia dars ɬimet ulamaːi karaːm warai ʈema asaãː ki zor na ɬɪmet asana ki waʥa tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>xaː to pena aːxiri suwaːl woi tʰɪni pudama laka ama polelika taik laːma kine jak aːlimi din tʰi pora laːma nori har aːmaː paidaː bitanet </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>ɕigaːli bi paidaː bitanet lauɽi bi paidaː bitanet nijaː din islaːmana ulamaːi karaːm asana ki waʥa tʰana lau ziaːt kiãː paidaː bot te kam waxtana manzi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>lau mehrabaːni</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a222">
+                <ANNOTATION_VALUE>This is a video recording</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a223">
+                <ANNOTATION_VALUE>I am Nasir making this recording.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a224">
+                <ANNOTATION_VALUE>We are in front of the hilli Mosque. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a225">
+                <ANNOTATION_VALUE>In Daam Arundu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a226">
+                <ANNOTATION_VALUE>Rafizullah is with me and today is Saturday April 9, two thousand and twenty two</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a227">
+                <ANNOTATION_VALUE>Since this is the month of Ramadan, we will from Rafizullah </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a228">
+                <ANNOTATION_VALUE>He teaches the Qur'an to the people, people sit to listen to his teaching</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a229">
+                <ANNOTATION_VALUE>We want to hear from them about the importance of Dars al-Qur'an</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>Well, this is the month of Ramadan, explain its importance in simple words.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a242">
+                <ANNOTATION_VALUE>What is necessary for the reformation of a person keeping in mind the good lessons of the Qur'an?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>If you give an example by keeping the Qur'an in front of you, how can a good society be reformed?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a247">
+                <ANNOTATION_VALUE>One of the languages given by Allah is Guarbati, you also teach in Guarbati here.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a248">
+                <ANNOTATION_VALUE>So how important is it to teach in your mother tongue?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a255">
+                <ANNOTATION_VALUE>Since when did Dars al-Qur'an start and also that we often see that the scholars emphasize it in Ramadan as compared to non-Ramadan, what is the reason?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>The last question to you is that during our childhood, there was a religious scholar in the whole village, now every house has been born.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a266">
+                <ANNOTATION_VALUE>So, in a short period of time, men and women were born scholars of Islam, what is the reason for this?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a276">
+                <ANNOTATION_VALUE>Thanks</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a222">
+                <ANNOTATION_VALUE>یہ ایک ویڈیو ریکاڈنگ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a223">
+                <ANNOTATION_VALUE>میں ناصر یہ ریکاڈنگ کر رہا ہوں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a224">
+                <ANNOTATION_VALUE>ہم پہاڑی مسجد میں کھڑے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a225">
+                <ANNOTATION_VALUE>دم ارندو میں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a226">
+                <ANNOTATION_VALUE>میرے ساتھ رفیض اللہ ہے اور آج ہفتے کا دن نو اپریل دو ہزار بائیس ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a227">
+                <ANNOTATION_VALUE>ہم رفیض اللہ سے چونکہ یہ رمضان المبارک کا مہینہ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a228">
+                <ANNOTATION_VALUE>یہ درس القرآن کا درس لوگوں کو دیتا ہے لوگ ان کی درس سننے کیلئے بیٹھتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a229">
+                <ANNOTATION_VALUE>ہم ان سے درس القرآن کی اہمیت کے بارے میں سننا چاہتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>اچھا یہ رمضان المبارک کا مہینہ ہے اس کی سادہ الفاظ میں اہمیت بیان کرو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a242">
+                <ANNOTATION_VALUE>اچھا درس القرآن کو مد نظر رکھ کر ایک شخص کی اصلاح کیلئے ضروری کیا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>قرآن کو سامنے رکھ کر اگر آپ مثال دے تو ایک اچھے معاشرے کی اصلاح کس طرح کی جاتی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a247">
+                <ANNOTATION_VALUE>اللہ کی دی ہوئی زبانوں میں ایک گوارباتی بھی ہے آپ بھی یہاں گوارباتی میں درس دیتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a248">
+                <ANNOTATION_VALUE>تو اپنی مادری زبان میں درس دینا کتنا ضروری ہوتا ہے ؟</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a255">
+                <ANNOTATION_VALUE>درس القرآن کب سے شروع کیا ہے اور یہ بھی کہ اکثر ہم دیکھتے ہیں کہ رمضان میں علماءکرام اس پر زور دیتے ہیں بہ نسبت غیر رمضان وجہ کیا ہے ؟ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>آخری سوال آپ سے یہ ہے کہ ہمارا جو بچپن تھا اس وقت پورے گاؤں میں ایک عالم دین ہوتا تھا اب گھر گھر پیدا ہو چکے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a376" ANNOTATION_REF="a266">
+                <ANNOTATION_VALUE>تو کم وقت میں گھر گھر مرد عورتیں دین اسلام کے علماء پیدا ہوئے اس کی کیا وجہ ہے ؟ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a386" ANNOTATION_REF="a276">
+                <ANNOTATION_VALUE>شکریہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a387" ANNOTATION_REF="a222">
+                <ANNOTATION_VALUE>وئ یک وڈیو ریکارڈنگ تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a388" ANNOTATION_REF="a223">
+                <ANNOTATION_VALUE>آں ناصِر اسہ ریکارڈنگ کیریمیم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a389" ANNOTATION_REF="a224">
+                <ANNOTATION_VALUE>امہ پہاڑی مسجدَ تے وُٹ بِسن تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a390" ANNOTATION_REF="a225">
+                <ANNOTATION_VALUE>ہرَنُوہ دمَ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a391" ANNOTATION_REF="a226">
+                <ANNOTATION_VALUE>امہ منزی رفیض اللہ تھنہ ، نون ہفتانی دیس تِھنی نو اپریل دو ہزار بئیس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a392" ANNOTATION_REF="a227">
+                <ANNOTATION_VALUE>امہ رفیض اللہ پینہ چونکہ وئ رمضان المبارکنی ماسوئ تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a393" ANNOTATION_REF="a228">
+                <ANNOTATION_VALUE>امہ اسنہ درس القران کیمان اتے خلق نشِسن تِھمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a394" ANNOTATION_REF="a229">
+                <ANNOTATION_VALUE>امہ اسہ پینہ اسہ کُھدَمیک درس القراننی اہمیت اماں بیان کیوہ رفیض اللہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a399" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>خا چونکہ وئ رمضان المبارکنی ماسوئ تِھنی رمضان المبارکنی کی سادہ الفاظے اسنی اہمیت بیان کیرہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a407" ANNOTATION_REF="a242">
+                <ANNOTATION_VALUE>اچھا درس القرانَ مدِّ نظر ساتی یہ معاشانی اصلاحَ ݭڅی ضروری کی شئ تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a408" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>قرانَ پُدمے تھویی لکہ توئیں یہ مثال ݪِتُو بہ یک بئ معاشرانی اصلاح کی رونہ کیران دِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a412" ANNOTATION_REF="a247">
+                <ANNOTATION_VALUE>اچھا تُو درس القران گوَرگاݭٹی کیمیس چونکہ یک معاشرانی امنی زبان کریک مادری زبان تِھنی گوَرباتی تحنی اللہ تعالانی ݪِسن زبان </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a413" ANNOTATION_REF="a248">
+                <ANNOTATION_VALUE>وئ کتہ ضروری تھنہ لکہ تانُو زبانے درس ݪواوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a420" ANNOTATION_REF="a255">
+                <ANNOTATION_VALUE>درس القران شُروع کیری کتہ وخت بِمان او اکثر امہ تمیک زی رمضان المبارکنی ماسوئَ درس ݪِمیت علماء کرام واری ٹیمَ اساں کی زور نہ ݪِمیت کی وجہ تھنہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a430" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>خا تو پینہ آخری سوال وئ تِھنی پُدمہ لکہ امہ پولیلِکہ تئیک لامَ کِنے یک عالمِ دین تِھی پورہ لامَ نوری ہر آما پیدا بِتنئیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a431" ANNOTATION_REF="a266">
+                <ANNOTATION_VALUE>شِگالی بھی پیدا بِتنیت لوڑی بھی پیدا بِتنئیت نیا دین اسلامنہ علمائے کرام اسنہ کی وجہ تھنہ لو زیات کیاں پیدا بوت تے کم وختَنہ منزے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a441" ANNOTATION_REF="a276">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="txt" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="en" LANG_ID="en" LANG_LABEL="en"/>
+    <LANGUAGE LANG_DEF="gwt-x-Orthographic" LANG_ID="gwt-x-Orthographic" LANG_LABEL="gwt-x-Orthographic"/>
+    <LANGUAGE LANG_DEF="ur" LANG_ID="ur" LANG_LABEL="ur"/>
+    <LANGUAGE LANG_DEF="gwt-fonipa-x-emic" LANG_ID="gwt-fonipa-x-emic" LANG_LABEL="gwt-fonipa-x-emic"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

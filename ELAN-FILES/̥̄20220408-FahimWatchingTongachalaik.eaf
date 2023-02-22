@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-12-21T18:48:18+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/Desktop/Gawarbati_data/20220408-FahimWatchingTongachalik.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20220408-FahimWatchingTongachalik.wav"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Users/apanova/Desktop/Gawarbati_data/20220408-FahimWatchingTongachalik.wav" MEDIA_URL="file:///Users/apanova/Desktop/Gawarbati_data/20220408-FahimWatchingTongachalik.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20220408-FahimWatchingTongachalik.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d206a9c9-fcfc-42b9-98fa-4c2bbd24bfe2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">449</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1713"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10792"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11421"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="13621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="14314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="18392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="22550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="23621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="28999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="29092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="30984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="44592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="46692"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="52185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="58935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="59206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="65756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="66064"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="70299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="71006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="75442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="75820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="81420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="82200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="88200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="88807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="95600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="96042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="102142"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="102285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="108606"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="109185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="115463"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="115852"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="119899"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="120280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="125551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="125728"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="131292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="131484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="133577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="134427"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="138499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="138845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="140052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="140999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="143863"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="144106"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="145070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="145884"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="151649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="151707"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="152342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="153270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="157642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="157985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="162435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="162735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="164514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="164542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="166771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="166857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="167757"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="167799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="168049"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="168209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="168781"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="169150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="174135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="177764"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="183556"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="183642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="188257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="189616"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="196478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="196584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="198034"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="199366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="202338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="202365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="207200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="207267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="207582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="209278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="211528"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="211714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="216378"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="216685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="217860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="217890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="220314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="220449"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="221791"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="226181"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="228960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="229328"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="232892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="235480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="237223"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="237329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="238265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="238627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="240327"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="240435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="244906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="246813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="250056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="250628"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="252871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="252999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="257699"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Fahim" TIER_ID="Fahim-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ʈoŋga asana aːʈʰ ʈonga tʰimet ʨaubis waʈuki tʰimet ɬe ɬe ʈoŋgaː ki talaisan tʰimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>awal jak zan ɕuro kemaːn hãː xaːli ʈoŋga ʥimaːn pudamãː se aːuʈ bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>dujam giri sejak ʨalamaːn sejak bi ʥi giri genʈi se jak aːuʈ bimaːn </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>giri aːuʈ bot ba haː̃ giri ʨalamet geʈimet zini ʈʰaːnãː ʥi aːuʈ bimet zini geʈimet zini ʈʰaːnãː ʥi genʈimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>hãː giri sejak ʨalai giri se bi genʈimaːn aːxera se kʰel xatam bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>xatam bui ba giri ɕuro kemet sarana giri sarana ɕuro keron ba haː̃hã ɕiki ʨalamet ʨalamet ja ʈʰaːnãː ʥi auʈ bimaːn </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>auʈ bua ba giri sejak ʨalamaːn sejak geʈimaːn giri auʈ bimaːn sejak giri ʨalamaːn </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>jaːsir giri ʨalamaːn inaːm auʈ bua ba jaːsir ʨalamaːn jaːsir ʨalai jaː jak jaː du daːna maːjaː genʈimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>genʈus ba giri se auʈ bimaːn giri inaːm ʨalamaːn inaːm bi ɕiki genʈi genʈi hãː giri inaːm auʈ bimaːn </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>giri jaːsir ʨalamaːn jaːsir giri se kʰel xata na bamaːn ʥamaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>giri jaː jaːsira du ʈoŋgãː niʂamaːn ja inaːma jaːsir niʂaːn du ʈoŋgãː ki </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>giri hãː ʨalamet se giri inaːm jaː ʈoŋgaː azaːd ke bamaːn ja na bamaːn jaː se ʨur bimaːn giri</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>giri luʨ bimaːn giri kʰel xatam bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>enbak tenbak ʨaːr ʨaːr </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>ɬe ɬe </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>asu waːʈikia ama bumana , buma tʰimet tasu ʈopalamek ʨaubis waːʈiki tʰimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>nai nai ʈʰaːnʈʰaːnana ʈopalai gila kemek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>ʐupamek nai ki rawani waːʈuki bi hastãː aːjat ba tasu giri goi muɕimek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>kine ʈʰaːn suria muɕimese ʦʰaːilata muɕimese kine muʂos ba muɕi bames </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>xaːli du zan mi lagimet au</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>ateki lagimaːn ɕiki lau waxt lagimaːn laː kol ʨi ʨur bik miz waxt lagimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>gila das mineʈ ɕiki lagimaːntiba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>jaːsire bi ja maːja geʈitus inaːme bi jak</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>asana baːd giri </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>auʈ jak waːʈikia ʨalamaːn aːxira ja xaːli ʈoŋga ʥimaːn pudamãː tine ʥi auʈ bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>nai nai se nika karik ʈʰaːna auʈ bibua ba tasana pudamana ʨalamaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Fahim-txt-gwt-fonipa-x-emic" PARTICIPANT="Fahim" TIER_ID="Fahim_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>In this game, there are eight small pits on both sides and twenty-four pebbles are three in each pit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>First, a man runs and when he comes to an empty pit while running, he gets out.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Then the other person shouts and while shouting, he also goes into the empty pit and gets out.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>And the pit in which there are two pebbles while driving and the third pebble is thrown, that pit is won.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>After running like this, this turn ends.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Then it happens in the second turn as well and by winning more pebbles, the pits of the opponent are also closed from the other side.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Thus one gets out and the other runs</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Sometimes Yasir runs, sometimes the Inam, then the one who wins the most, the pits of the opponent are also closed.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Even if he wins, he is eventually out, thus the Inam is out.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Then Yasir runs and the game does not end quickly.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Then they close the pits of one of the opponents, that is, each other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>By winning more pebbles, you can free your closed pit again.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Finally the game can be won by closing all the pits of the opponent</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Four on both sides</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Three Three</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>They lie on the ground and we collect them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>No, collect from everywhere</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>They don't make it, but they get it ready</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>You can play anywhere in the sun or in the shade</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Only two can play</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Yes, sometimes more sometimes less</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Both have won one pit</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>after this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Pebbles should also end up in an empty pit</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>No, where the first one goes out, the second one runs right in front of him</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Fahim-txt-gwt-fonipa-x-emic" PARTICIPANT="Fahim" TIER_ID="Fahim_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>اس کھیل میں دونوں طرف آٹھ چھوٹے گڑھے ہوتے ہیں اور چوبیس کنکریاں ہر گڑھے میں تین تین ہوتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>پہلے ایک بندہ چلاتا ہے اور چلانے کے دوران خالی گڑھا آنے پر وہ آوٹ ہو جاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>پھر دوسرا بندہ چلاتا ہے اور چلاتے چلاتے وہ بھی خالی گڑھے میں جا کر باہر ہو جاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>اور جس گڑھے میں چلاتے وقت دو کنکریاں ہو اور تیسری کنکری پھینگ کر وہ  گڑھا جیتا جاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>اس طرح چلاتے چلاتے آخر یہ باری ختم ہو جاتی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>پھر دوسری باری میں بھی اس طرح ہوتا ہے اور کنکریاں ذیادہ  جیتنے سے مخالف کے گڑھے بھی دوسری طرف سے بند ہو جاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>اسطرح ایک آوٹ ہو جاتا ہے دوسرا چلاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>کبھی یاصر چلاتا ہے کبھی انعام پھر جو ذیادہ جیتا ہے مخالف کے گڑھے بھی ساتھ ساتھ بند ہو جاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>جیتنے پر بھی آخر وہ آوٹ ہو جاتا ہے اسطرح پھر انعام آوٹ ہو جاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>پھر یاصر چلاتا ہے اور یہ کھیل جلدی ختم نہیں ہو جاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>پھر ان میں سے ایک مخالف کے یعنی ایک دوسرے کے گڑھے بند کر دیتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ذیادہ کنکریاں جیت کر دوبارہ اپنے بند گڑھے کو آذاد بھی کیا جا سکتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>آخر کار مخالف کے تمام گڑھے بند کر کے کھیل جیتا جا سکتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>دونوں طرف چار چار </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>تین تین </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>ہاں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>یہ زمین پر پڑے ہوتے ہیں اور ہم اکھٹا کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>نہیں ہر جگہ سے اکھٹا کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>ہاں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>بناتے نہیں ہیں بلکہ تیار مل جاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>کہی بھی دھوپ میں چھاؤں میں جہاں بھی کھیل سکتے ہو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>صرف دو بندے کھیل سکتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>ہاں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>ہاں لگ جاتا ہے کبھی ذیادہ کبھی کم </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>تقریباً دس منٹ لگ ہی جاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>ایک ایک گڑھا جیتا ہے دونوں نے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>اس کے بعد </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>کنکریاں بھی ہاتھ میں ختم ہو جائے کسی خالی گڑھے پر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>نہیں پہلا والا جہاں جا کر آوٹ ہو جاتا ہے وہ دوسرا ٹھیک اس کے آگے سے چلاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Fahim-txt-gwt-fonipa-x-emic" PARTICIPANT="Fahim" TIER_ID="Fahim-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>ٹونگہ اسنہ آٹھ ٹونگہ تِھمیت چوبیس واٹوکی تِھمیت ݪے ݪے ٹونگا کی تلئیسن تِھمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>اول یک زن شُروع کیمان ہاں خالی ٹونگہ جِمان پُدماں سے اوٹ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>دویم گِری سے یک چلَمان سے یک بھی جی گِری گینٹی سے یک آوٹ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>گِری آوٹ بوت بہ ہاں گِری چلَمیت گیٹِمیت زنی ٹھاناں جی آوٹ بِمیت زنی گیٹِمیت زنی ٹھاناں جی گینٹِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>ہاں گِری سے یک چلئ گِری سے بھی گینٹِمان آخرَ سے کھیل ختم بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>ختم بُوئ بہ گِری شُروع کیمیت سرنہ ، گِری سرنہ شُروع کیرون بہ گِری ہاں شِکی چلَمیت چلَمیت یہ ٹھاناں جی آوٹبِمان </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>آوٹ بُوہ بہ گِری سے یک چلَمان سے یک گیٹِمان گِری آوٹ بِمان سے یک گِری چلَمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>یاسِر گِری چلَمان انعام آوٹ بُوہ بہ یاسِر چلَمان یاسر چلئ یا یک یا دُو دانہ مایا گینٹِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>گینٹُوس بہ گِری سے آوٹ بِمان گِری انعام چلَمان انعام بھی شِکی گینٹی ہاں گِری انعام آوٹ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>گِری یاسِر چلَمان یاسِر گِری سے کھیل ختم نہ بَمان </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>گِری یا یاسِرَ دُو ٹونگاں نِݭمان یا انعام یاسِرَ نِݭَمان دُو ٹونگاں کی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>گِری ہاں چلَمیت سے گِری انعام یا ٹونگا اذاد کیی بَمان یا نہ بَمان یا سے چُور بِمان گِری</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>گِری لُچ بِمان گِری کھیل ختم بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>اینبک تینبک چار چار</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>ݪے ݪے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>اے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>اسُو واٹِکیَ امہ بُومنہ ،بُومَ تِھمیت تسُو ٹوپَلَمیک چوبیس واٹِکی تِھمیت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>نئ نئ ٹھان ٹھاننہ ٹوپلئ گِلہ کیمیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>اے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>ݫُوپَمیک نئ کی رونی واٹوکی بھی ہستاں آیت بہ تسُو گِری گوئ مُشِمیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>کِنے ٹھان سوریَ مُشِمیسے څھائلتَ مُشِمیسے کِنے مُݭوس بہ مُشی بمیس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>خالی دُو زن می لگِمیت او </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>اے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>شِکی لگِمان شِکی لو وخت لگِمان لا کول چی چُور بِک مِز وخت لگِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>کتہ وخت لگِمان گِلہ دس مِنٹ شِکی لگِمانتِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>یاسرے بھی یہ مایہ گیٹِتوس انعامے بھی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>اسنہ بعد گِری </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>آوٹ یک واٹِکیَ چلَمان آخرَ یہ خالی ٹونگہ جِمان پُدماں تِنے جی آوٹ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>نئ نئ سے نِکہ کریک ٹھانَ آوٹ بِبُوہ بہ تسنہ پُدمنہ چلَمان </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="txt" TIER_ID="interlinear-text-title-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>20220408-FahimWatchingTongachalaik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Nasir" TIER_ID="Nasir-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>woi jak viɖio rikaːrɖiŋg tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ama dam haranua niɕisan tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a232" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>amana sa rikaːrɖiŋgana mauzu tʰana ʈoŋgaʨalaik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ãː naːːsir asa rikaːrɖiŋga kemem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ite ʈonŋga ʨalamet inaːmullah bi malak jaːsir bi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ama baːlimek zi ime ki rawana asa kʰela muʂimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>nun ʂukuwaːrani des tʰini aːʈʰ aprel do hazaːr baisani</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ama dam haranua niɕisan tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a238" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>fahim ate bakãː ki ʥa baten ate ʈʰaːna niʂ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>woi fahim tʰana fahima pena kʰudamek jani ʈoŋga ʨalamet ki rawana asana ki tareqaikaːr tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>xaː asa ʥaː baten kata ʈoŋga tʰimet ʥau enbak tenbak</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>waːʈiki har ʈoŋgaː kata daːna tʰimet awal sara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>tasana baːd laka ʨur bot ba au saːf xaːli ʈoŋgãː ki niʂot ba tasãːki  ja geʈimaːn ja haːr bimaːn ɕiki tʰanaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a257" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>asa ʥaːbaten asu waʈikinaːma me kinena aːnimaːniu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>xaː tajaːr tʰimetaː xo nai ki kerana bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a261" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>ʐupamaːniu bijaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>ki ɕaie ɬi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>asa ʥaː baten woi ki xaːs sezan jaː xaːs ʈʰaːn tʰimaːnaː asa muʂika ʂaʦi xo nai har ʈʰaːna har sezana bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>asa laka waːri bi laka ɕiki xaːs ʦur ʦur panʦpanʦ zan bimetaː xo du zan mi lagimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a269" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>au asana baːd laka me te du zan ɕilami faːriɣ niɕisan bo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a270" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>laka ime gila bot ba kʰel xatam bui ba giri meni nambar ʥiba ɕila tʰanaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a272" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>kola paːɬi intizaːra kata waxt lagimaːn ite</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a274" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>kata waxt lagimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>das mineʈ ateki lagimaːnaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>woi nori ki ɕai kerimaːn tine baːla karken kata geʈiton ʥaːbaten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>xaː asana baːd giri ki biba </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a280" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>woi aːuʈ ki rawana bimaːn maːnuʂ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>tine giri xaːli ʈoŋga aːja ba se aːuʈ bimaːn giri tasajakani nambar tʰimaːnaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>se giri karik ʈʰaːnana ʨalai bamaːnaː xo nai</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a230">
+                <ANNOTATION_VALUE>This is a video recording</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a231">
+                <ANNOTATION_VALUE>We are in Dam Arundu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a232">
+                <ANNOTATION_VALUE>The topic for taday's recording is local games.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a233">
+                <ANNOTATION_VALUE>I am Nasir, recording this event</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>Inamullah and Malik Yasir play this game here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a235">
+                <ANNOTATION_VALUE>We'll see how it plays out</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a236">
+                <ANNOTATION_VALUE>Today is Friday and April 8, 2022.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a237">
+                <ANNOTATION_VALUE>unduWe are in Daam Ari</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a238">
+                <ANNOTATION_VALUE>Faheem come and sit in front</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a239">
+                <ANNOTATION_VALUE>This is Faheem amd we ask questions about this game.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a251">
+                <ANNOTATION_VALUE>Well, tell me how many pits there are on both sides</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a253">
+                <ANNOTATION_VALUE>How many pebbles are in each pit?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a255">
+                <ANNOTATION_VALUE>After that all the game can be won by winning pebbles</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a257">
+                <ANNOTATION_VALUE>Well, tell me where these pebbles are brought from</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a259">
+                <ANNOTATION_VALUE>Are made or have to be made</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a261">
+                <ANNOTATION_VALUE>Make it also</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a263">
+                <ANNOTATION_VALUE>From what</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>Well, tell me there is a special season or a special place for this game or every season is available everywhere?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a267">
+                <ANNOTATION_VALUE>In this game, four, four or even five men are involved or focused on two only.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a269">
+                <ANNOTATION_VALUE>Two are sitting idle there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a270">
+                <ANNOTATION_VALUE>My turn will come after ending of this game.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a272">
+                <ANNOTATION_VALUE>How long have you been waiting for this game?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a274">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a275">
+                <ANNOTATION_VALUE>It takes almost ten minutes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a276">
+                <ANNOTATION_VALUE>Where is this game going? See who has won how much?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a278">
+                <ANNOTATION_VALUE>what will happen next</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a280">
+                <ANNOTATION_VALUE>how one becomes out?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a282">
+                <ANNOTATION_VALUE>After that, it is the turn of the other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a283">
+                <ANNOTATION_VALUE>Then where does he run from?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a230">
+                <ANNOTATION_VALUE>یہ ایک ویڈیو ریکاڈنگ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a231">
+                <ANNOTATION_VALUE>ہم دم ارندو میں ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a232">
+                <ANNOTATION_VALUE>ہماری اس ریکاڈنگ کا موضوع ہے علاقائی کھیل گڑھے چلانا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a233">
+                <ANNOTATION_VALUE>میں ناصر اس کی ریکاڈنگ کر رہا ہوں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>یہاں یہ کھیل کھیلتے ہیں انعام اللہ اور ملک یاصر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a235">
+                <ANNOTATION_VALUE>ہم دیکھ رہے ہیں یہ کس طرح کھیلتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a236">
+                <ANNOTATION_VALUE>آج جمعہ آٹھ اپریل دو ہزار بائیس ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a237">
+                <ANNOTATION_VALUE>ہم دم ارندو میں ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a238">
+                <ANNOTATION_VALUE>فہیم یہاں آ کر سامنے بیٹھو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a239">
+                <ANNOTATION_VALUE>یہ فہیم ہے ہم ان اس کھیل کے متعلق سوالات کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a361" ANNOTATION_REF="a251">
+                <ANNOTATION_VALUE>اچھا یہ بتاؤ دونوں طرف کتنے گڑھے ہوتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a363" ANNOTATION_REF="a253">
+                <ANNOTATION_VALUE>ہر گڑھے میں کتنی کنکریاں ہوتی ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a255">
+                <ANNOTATION_VALUE>اس کے بعد کنکریاں جیت کر تمام گیم جیتا جا سکتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a257">
+                <ANNOTATION_VALUE>اچھا یہ بتاؤ یہ کنکریاں کہاں سے لاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a259">
+                <ANNOTATION_VALUE>تیار ہوتے ہیں یا  بنانے پڑتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a371" ANNOTATION_REF="a261">
+                <ANNOTATION_VALUE>بناتے بھی ہیں ؟</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a263">
+                <ANNOTATION_VALUE>کس چیز سے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>اچھا یہ بتاؤ اس کھیل کیلئے خاص سیزن یا خاص جگہ ہوتا ہے یا ہر سیزن ہر جگہ میسر ہوتا ہے ؟</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a377" ANNOTATION_REF="a267">
+                <ANNOTATION_VALUE>اس کھیل میں چار چار یا پانچ پانچ آدمی بھی لگ جاتے ہیں یادو پر ہی اکتفا کیا جاتا ہے ؟</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a379" ANNOTATION_REF="a269">
+                <ANNOTATION_VALUE>آپ دو ادھر فارغ بیٹھے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a380" ANNOTATION_REF="a270">
+                <ANNOTATION_VALUE>تو یہ کھیل ختم ہونے کے بعد آپ لوگوں کی باری آئیں گی؟</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a382" ANNOTATION_REF="a272">
+                <ANNOTATION_VALUE>کب سے انتظار کر رہے ہو کتنا وقت لگتا ہے اس کھیل میں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a384" ANNOTATION_REF="a274">
+                <ANNOTATION_VALUE>تقریباً دس منٹ لگ ہی جاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a385" ANNOTATION_REF="a275">
+                <ANNOTATION_VALUE>اچھا دس منٹ اس میں لگ جاتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a386" ANNOTATION_REF="a276">
+                <ANNOTATION_VALUE>یہ کھیل کس طرف گامزن ہے دیکھو وہاں کس نے کتنا جیتا ہے ؟</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a388" ANNOTATION_REF="a278">
+                <ANNOTATION_VALUE>اچھا اس کے بعد پھر کیا ہو گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a390" ANNOTATION_REF="a280">
+                <ANNOTATION_VALUE>یہاں آوٹ کس طرح ہو جاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a392" ANNOTATION_REF="a282">
+                <ANNOTATION_VALUE>اس کے بعد پھر دوسرے کی باری آ جا تی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a393" ANNOTATION_REF="a283">
+                <ANNOTATION_VALUE>پھر وہ کہاں سے چلاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a395" ANNOTATION_REF="a230">
+                <ANNOTATION_VALUE>وئ یک ویڈیو ریکارڈنگ تِھنی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a396" ANNOTATION_REF="a231">
+                <ANNOTATION_VALUE>امہ دم ہرَنُوہ نِشِسن تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a397" ANNOTATION_REF="a232">
+                <ANNOTATION_VALUE>امنہ سہ ریکارڈنگنہ موضوع تھنہ ٹونگہ چلئیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a398" ANNOTATION_REF="a233">
+                <ANNOTATION_VALUE>آں ناصِر اسہ ریکارڈنگَ کیرمیم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a399" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>اتے ٹونگہ چلَمیت انعام اللہ بی ملک یاصر بھی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a400" ANNOTATION_REF="a235">
+                <ANNOTATION_VALUE>امہ بالِمیک زی اِمے کی روَنہ اسہ کھیلَ مُݭِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a401" ANNOTATION_REF="a236">
+                <ANNOTATION_VALUE>نون ݭُکوارنی دیس تِھنی آٹھ اپریل دو ہزار بیسنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a402" ANNOTATION_REF="a237">
+                <ANNOTATION_VALUE>امہ دم ہرَنُوہ نِشِسن تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a403" ANNOTATION_REF="a238">
+                <ANNOTATION_VALUE>فہیم اتے بکاں کی جہ بتین اتے نِݭ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a404" ANNOTATION_REF="a239">
+                <ANNOTATION_VALUE>وئ فہیم تھنہ فہیمَ پینہ کُھدَمیک یعنی ٹونگہ چلَمیت کی رونہ اسنہ کی طریقہ کار تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a416" ANNOTATION_REF="a251">
+                <ANNOTATION_VALUE>خا اسہ جا بتین کتہ ٹونگہ تِھمیت جوُ اینبک تینبک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a418" ANNOTATION_REF="a253">
+                <ANNOTATION_VALUE>واٹِکی ہر ٹونگا کتہ دانہ تِھمیت اول سرَ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a420" ANNOTATION_REF="a255">
+                <ANNOTATION_VALUE>تسنہ بعد لکہ چُور بوت بہ او ساف خالی ٹونگاں کی نِݭوت بہ تساں کی یہ گینٹِمان یہ ہار بِمان شِکی تھنا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a422" ANNOTATION_REF="a257">
+                <ANNOTATION_VALUE>اسہ جا بتین اسُو واٹِکی نامَ مے کِنینہ آنِمانِو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a424" ANNOTATION_REF="a259">
+                <ANNOTATION_VALUE>خا تیار تِھمیتا خو کی کیرنہ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a426" ANNOTATION_REF="a261">
+                <ANNOTATION_VALUE>ݫُوپَمانِو بِیا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a428" ANNOTATION_REF="a263">
+                <ANNOTATION_VALUE>کی شئے ݪی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a430" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>اسہ جا بتین وئ کی خاص سیزن یا خاص ٹھان تِھمانا اسہ مُݭِکَ ݭڅی خو نئ ہر ٹھانَ ہر سیزنَ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a432" ANNOTATION_REF="a267">
+                <ANNOTATION_VALUE>اسہ لکہ واری بھی لکہ شِکی خاص څُور څُور پنڅ پنڅ زن بِمیتا خو دُو زن می لگِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a434" ANNOTATION_REF="a269">
+                <ANNOTATION_VALUE>او اسنہ بعد لکہ مے تے دُو زن شِلَمی فارغ نشِسن بو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a435" ANNOTATION_REF="a270">
+                <ANNOTATION_VALUE>لکہ اِمے گِلہ بوت بہ کھیل ختم بُوئ بہ گِری مینی نمبر جِبہ شِلہ تھنا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a437" ANNOTATION_REF="a272">
+                <ANNOTATION_VALUE>کولَ پاݪی انتظار کتہ وخت لگِمان اتے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a439" ANNOTATION_REF="a274">
+                <ANNOTATION_VALUE>کتہ وخت لگِمان گِلہ دس مِنٹ شِکی لگِمانتِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a440" ANNOTATION_REF="a275">
+                <ANNOTATION_VALUE>دس مِنٹ اتیکی لگِمانا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a441" ANNOTATION_REF="a276">
+                <ANNOTATION_VALUE>وئ نوری کی شئ کیرِمان تِنے بالہ کرکین کتہ گیٹِتون جا بتین</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a443" ANNOTATION_REF="a278">
+                <ANNOTATION_VALUE>خا اسنہ بعد گِری کی بِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a445" ANNOTATION_REF="a280">
+                <ANNOTATION_VALUE>وئ آوٹ کی روَنہ بِمان مانُوݭ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a447" ANNOTATION_REF="a282">
+                <ANNOTATION_VALUE>تِنے گِری خالی ٹونگہ آیہ بہ سے آوٹ بِمان گِری تسہ یکنی نمبر جِمانا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a448" ANNOTATION_REF="a283">
+                <ANNOTATION_VALUE>سے گِری کریک ٹھاننہ چلئ بمانا خو نئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="txt" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="en" LANG_ID="en" LANG_LABEL="en"/>
+    <LANGUAGE LANG_DEF="gwt-x-Orthographic" LANG_ID="gwt-x-Orthographic" LANG_LABEL="gwt-x-Orthographic"/>
+    <LANGUAGE LANG_DEF="ur" LANG_ID="ur" LANG_LABEL="ur"/>
+    <LANGUAGE LANG_DEF="gwt-fonipa-x-emic" LANG_ID="gwt-fonipa-x-emic" LANG_LABEL="gwt-fonipa-x-emic"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
