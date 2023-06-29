@@ -20,13 +20,32 @@ def get_all_verbs_from_flextext (corpus_file):
 
 
         #if the word contains at least one morpheme annotated as verb (v, vt, vi, cop), this word is taken to the df
-        for morph in word_info.findall("morphemes/morph/item[@type='msa']"):  
+        for morph in word_info.findall("morphemes/morph/item[@type='msa']"):            
             if morph.text == "v" or morph.text == "vt" or morph.text == "vi" or morph.text == "cop" or morph.text == "com.pred" :
                 for morph in word_info.findall("morphemes/morph/item[@type='txt']"):
                     word += morph.text
                 #print(word)
                 for morph in word_info.findall("morphemes/morph/item[@type='gls']"):
-                    word_gls += morph.text + "-"
+                    morph_text = morph.text
+                    
+                    morph_text = morph_text.replace(".afraid", "_afraid")
+                    morph_text = morph_text.replace(".away", "_away")
+                    morph_text = morph_text.replace(".birth", "_birth")
+                    morph_text = morph_text.replace(".caus", "_caus")
+                    morph_text = morph_text.replace(".down", "_down")
+                    morph_text = morph_text.replace(".in", "_in")
+                    morph_text = morph_text.replace(".injured", "_injured")
+                    morph_text = morph_text.replace(".into", "_into")
+                    morph_text = morph_text.replace(".off", "_off")
+                    morph_text = morph_text.replace(".out", "_out")
+                    morph_text = morph_text.replace(".sth", "_sth")
+                    morph_text = morph_text.replace(".the.night", "_the_night")
+                    morph_text = morph_text.replace(".tired", "_tired")
+                    morph_text = morph_text.replace(".up", "_up")
+
+                    
+                    
+                    word_gls += morph_text + "-"
                 #print(word_gls)
                 
                 df.loc[len(df.index)] = [word, word_gls.strip("-")] 
@@ -47,7 +66,6 @@ def edit_light_verbs (tree):
             morph.find("item[@type='gls']").text = 'give.' + morph.find("item[@type='gls']").text
         if lvc.split(' ')[1] == "foʈa":
             morph.find("item[@type='gls']").text = 'break.' + morph.find("item[@type='gls']").text
-            morph.find("item[@type='gls']").text = 'give.' + morph.find("item[@type='gls']").text
         if lvc.split(' ')[1] == "dar":
             morph.find("item[@type='gls']").text = 'stay.' + morph.find("item[@type='gls']").text
                 
@@ -64,8 +82,8 @@ def identify_stem_and_inflection_in_glosses (df):
 
     #unite entries for polysemious verbs
     df = df.replace('hit','give', regex=True)
-    df = df.replace('take.out','pull.out', regex=True)
-    df = df.replace('give.birth','pull.out', regex=True)
+    df = df.replace('take_out','pull_out', regex=True)
+    df = df.replace('give_birth','pull_out', regex=True)
     
     df['stem'] = df['gls'].str.split('[-.]').str[0] #the first element of gloss is copied to the column 'stem'
     df['affixes'] = df['gls'].str.split('[-.]').str[1:] #the rest elements found in the gloss are copied to the column 'inflection' as lists

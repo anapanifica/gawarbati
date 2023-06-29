@@ -12,9 +12,9 @@
 10,ʈapala-ika,collect-fut.1pl,collect,"fut, 1pl",
 11,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 12,ʥa-wus-e,say-pst.3sg,say,"pst, 3sg",
-13,kʰaː-i,pull.out-cv,pull,"out, cv",cv
-14,kʰaː-i,pull.out-cv,pull,"out, cv",cv
-15,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+13,kʰaː-i,pull_out-cv,pull_out,cv,cv
+14,kʰaː-i,pull_out-cv,pull_out,cv,cv
+15,kʰaː-i,pull_out-cv,pull_out,cv,cv
 16,ɬi-ka,give-fut.1pl,give,"fut, 1pl",
 17,ɬi-towa,give,give,,
 18,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
@@ -46,7 +46,7 @@
 44,ʥa-i,say-cv,say,cv,cv
 45,go-i,take-cv,take,cv,cv
 46,gait,go.pst.3pl,go,"pst, 3pl",
-47,nesi,come.out.cv,come,"out, cv",cv
+47,nesi,come_out.cv,come_out,cv,cv
 48,gait,go.pst.3pl,go,"pst, 3pl",
 49,gait,go.pst.3pl,go,"pst, 3pl",
 50,gait,go.pst.3pl,go,"pst, 3pl",
@@ -62,7 +62,7 @@
 60,ʥa-mes,say-prs.2sg,say,"prs, 2sg",
 61,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 62,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
-63,naŋg-a-i,get.off-imp.sg,get,"off, imp, sg",
+63,naŋg-a-i,get_off-imp.sg,get_off,"imp, sg",
 64,lubɽa-u,roll-imp.pl,roll,"imp, pl",
 65,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 66,ʈakaʦ-ui,fall-pst.3f.sg,fall,"pst, 3f, sg",
@@ -70,7 +70,7 @@
 68,lik-iu,pull-opt,pull,opt,
 69,ʥa-ue,say,say,,
 70,bi-ba,be-fut.3sg,be,"fut, 3sg",
-71,naŋg-i,get.off-cv,get,"off, cv",cv
+71,naŋg-i,get_off-cv,get_off,cv,cv
 72,leɽa-us,show-pst.3sg,show,"pst, 3sg",
 73,naŋga-i,throw-cv,throw,cv,cv
 74,lubɽa-won-ãː,roll-pst.3pl-dat,roll,"pst, 3pl, dat",
@@ -84,15 +84,15 @@
 82,lik-on-ãː,pull-pst.3pl-dat,pull,"pst, 3pl, dat",
 83,naŋga-i,throw-cv,throw,cv,cv
 84,baːl-on-ãː,look-pst.3pl-dat,look,"pst, 3pl, dat",
-85,nes-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
+85,nes-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
 86,baːl-on-ãː,look-pst.3pl-dat,look,"pst, 3pl, dat",
 87,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 88,naŋga-i,throw-cv,throw,cv,cv
-89,naŋg-i,get.off-cv,get,"off, cv",cv
+89,naŋg-i,get_off-cv,get_off,cv,cv
 90,gait,go.pst.3pl,go,"pst, 3pl",
 91,gait-ãː,go.pst.3pl-dat,go,"pst, 3pl, dat",
 92,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-93,ɬenʨ-i,get.into-cv,get,"into, cv",cv
+93,ɬenʨ-i,get_into-cv,get_into,cv,cv
 94,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 95,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 96,ɬi,give.cv,give,cv,cv
@@ -139,10 +139,10 @@
 137,lama-um,hang-pst.1sg,hang,"pst, 1sg",
 138,lama-um-ãː,hang-pst.1sg-dat,hang,"pst, 1sg, dat",
 139,ʥi,come.cv,come,cv,cv
-140,baka-i,throw.away-cv,throw,"away, cv",cv
+140,baka-i,throw_away-cv,throw_away,cv,cv
 141,lama-us,hang-pst.3sg,hang,"pst, 3sg",
 142,lama-us-ãː,hang-pst.3sg-dat,hang,"pst, 3sg, dat",
-143,ɖe-ji,run.away-cv,run,"away, cv",cv
+143,ɖe-ji,run_away-cv,run_away,cv,cv
 144,gait,go.pst.3pl,go,"pst, 3pl",
 145,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 146,ʥa-u,say-pst.2sg,say,"pst, 2sg",
@@ -159,8 +159,8 @@
 157,paʦa-i,cook-cv,cook,cv,cv
 158,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 159,ɬi,give.cv,give,cv,cv
-160,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
-161,nes-i,come.out-cv,come,"out, cv",cv
+160,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
+161,nes-i,come_out-cv,come_out,cv,cv
 162,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 163,niɕ-ibot,sit-dist.pst.3pl,sit,"dist, pst, 3pl",
 164,fed-ui,arrive-pst.3f.sg,arrive,"pst, 3f, sg",
@@ -191,13 +191,13 @@
 189,di,go.cv,go,cv,cv
 190,lik-us,pull-pst.3sg,pull,"pst, 3sg",
 191,lik-us-ãː,write-pst.3sg-dat,write,"pst, 3sg, dat",
-192,nes-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
-193,nes-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
+192,nes-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
+193,nes-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
 194,naŋga-i,throw-cv,throw,cv,cv
-195,naŋg-ui,get.off-pst.3f.sg,get,"off, pst, 3f, sg",
-196,naŋg-ui-ãː,get.off-pst.3f.sg-dat,get,"off, pst, 3f, sg, dat",
+195,naŋg-ui,get_off-pst.3f.sg,get_off,"pst, 3f, sg",
+196,naŋg-ui-ãː,get_off-pst.3f.sg-dat,get_off,"pst, 3f, sg, dat",
 197,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-198,naŋg-i,get.off-cv,get,"off, cv",cv
+198,naŋg-i,get_off-cv,get_off,cv,cv
 199,ga-i-jãː,go-cv-dat,go,"cv, dat",cv
 200,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 201,bui,be.pst.3f.sg,be,"pst, 3f, sg",
@@ -216,8 +216,8 @@
 214,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 215,dal-ui,split-pst.3f.sg,split,"pst, 3f, sg",
 216,di,go.cv,go,cv,cv
-217,ɬenʈʂ-ui,get.into-pst.3f.sg,get,"into, pst, 3f, sg",
-218,ɬenʨ-i,get.into-cv,get,"into, cv",cv
+217,ɬenʈʂ-ui,get_into-pst.3f.sg,get_into,"pst, 3f, sg",
+218,ɬenʨ-i,get_into-cv,get_into,cv,cv
 219,aːjat,come.pst.3pl,come,"pst, 3pl",
 220,ʥi,come.cv,come,cv,cv
 221,fed-ot,arrive-pst.3pl,arrive,"pst, 3pl",
@@ -228,14 +228,14 @@
 226,ʑa-us,eat-pst.3sg,eat,"pst, 3sg",
 227,ʑu-itu,eat-prf.2sg,eat,"prf, 2sg",
 228,ʑa-us,eat-pst.3sg,eat,"pst, 3sg",
-229,led-i,put.in.the.stove-cv,put,"in, the, stove, cv",cv
+229,led-i,put_in.the.stove-cv,put_in,"the, stove, cv",cv
 230,di-tanek,go-prf.1pl,go,"prf, 1pl",
 231,ʑa-us,eat-pst.3sg,eat,"pst, 3sg",
 232,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 233,ʑu-itu-a,eat-prf.2sg,eat,"prf, 2sg",
 234,baːl-a,look-imp.sg,look,"imp, sg",
 235,tʰi-ba,be,be,,
-236,kʰaː-won,pull.out-pst.3pl,pull,"out, pst, 3pl",
+236,kʰaː-won,pull_out-pst.3pl,pull_out,"pst, 3pl",
 237,ʑu-i,eat-cv,eat,cv,cv
 238,gaː-i,carry-cv,carry,cv,cv
 239,taŋga-won,throw-pst.3pl,throw,"pst, 3pl",
@@ -243,19 +243,19 @@
 241,ke,do.cv,do,cv,cv
 242,tʰo-ji,put-cv,put,cv,cv
 243,ʥi,come.cv,come,cv,cv
-244,baːg-ot,spend.the.night-pst.3pl,spend,"the, night, pst, 3pl",
-245,baːg-i,spend.the.night-cv,spend,"the, night, cv",cv
+244,baːg-ot,spend_the_night-pst.3pl,spend_the_night,"pst, 3pl",
+245,baːg-i,spend_the_night-cv,spend_the_night,cv,cv
 246,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 247,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-248,led-i,put.in.the.stove-cv,put,"in, the, stove, cv",cv
-249,nes-i,come.out-cv,come,"out, cv",cv
+248,led-i,put_in.the.stove-cv,put_in,"the, stove, cv",cv
+249,nes-i,come_out-cv,come_out,cv,cv
 250,gait,go.pst.3pl,go,"pst, 3pl",
-251,nes-i,come.out-cv,come,"out, cv",cv
+251,nes-i,come_out-cv,come_out,cv,cv
 252,gait,go.pst.3pl,go,"pst, 3pl",
 253,di-i,go-cv,go,cv,cv
 254,paʦ-ik-an-i,cook-vn-gen-f,cook,"vn, gen, f",vn
-255,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
-256,nesi,come.out.cv,come,"out, cv",cv
+255,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
+256,nesi,come_out.cv,come_out,cv,cv
 257,ʑu-nus,eat-pst.3sg,eat,"pst, 3sg",
 258,ʑu-i,eat-cv,eat,cv,cv
 259,ke,do.cv,do,cv,cv
@@ -287,17 +287,17 @@
 285,ʦʰin-i,cut-cv,cut,cv,cv
 286,ke,do.cv,do,cv,cv
 287,por-i,fill-cv,fill,cv,cv
-288,led-i,put.in.the.stove-cv,put,"in, the, stove, cv",cv
-289,niaʂ-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
+288,led-i,put_in.the.stove-cv,put_in,"the, stove, cv",cv
+289,niaʂ-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
 290,niʂ-ua,sit-pst.3m.sg,sit,"pst, 3m, sg",
 291,di,go.cv,go,cv,cv
 292,fed-ui-ãː,arrive-pst.3f.sg-dat,arrive,"pst, 3f, sg, dat",
-293,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
-294,nesi,come.out.cv,come,"out, cv",cv
+293,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
+294,nesi,come_out.cv,come_out,cv,cv
 295,baːl-us-ãː,look-pst.3sg-dat,look,"pst, 3sg, dat",
 296,niɕ-isan,sit-ptcp.pf,sit,"ptcp, pf",
 297,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-298,nes-us,come.out-pst.3sg,come,"out, pst, 3sg",
+298,nes-us,come_out-pst.3sg,come_out,"pst, 3sg",
 299,ʥa-i,say-cv,say,cv,cv
 300,niɕ-isan,sit-ptcp.pf,sit,"ptcp, pf",
 301,bua-ãː,be.pst.3m.sg-dat,be,"pst, 3m, sg, dat",
@@ -333,7 +333,7 @@
 331,di,go.cv,go,cv,cv
 332,fed-ui-ãː,arrive-pst.3f.sg-dat,arrive,"pst, 3f, sg, dat",
 333,paʦ-ik-an-i,cook-vn-gen-f,cook,"vn, gen, f",vn
-334,nes-imaːn,come.out-prs.3sg,come,"out, prs, 3sg",
+334,nes-imaːn,come_out-prs.3sg,come_out,"prs, 3sg",
 335,tʰanes-aː,be.prs.2sg,be,"prs, 2sg",
 336,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 337,tʰanem,be.prs.1m.sg,be,"prs, 1m, sg",
@@ -395,7 +395,7 @@
 393,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 394,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 395,di,go.cv,go,cv,cv
-396,niʂa-i,sit.caus-cv,sit,"caus, cv",cv
+396,niʂa-i,sit_caus-cv,sit_caus,cv,cv
 397,kʰuda-met,ask-prs.3pl,ask,"prs, 3pl",
 398,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 399,ʥa-us,say-pst.3sg,say,"pst, 3sg",
@@ -431,7 +431,7 @@
 429,ʥa-idaːwon,say-dist.pst.3pl,say,"dist, pst, 3pl",
 430,bib-ui,happen-pst.3f.sg,happen,"pst, 3f, sg",
 431,lama-idaːus-ãː,hang-dist.pst.3sg-dat,hang,"dist, pst, 3sg, dat",
-432,nesi,come.out.cv,come,"out, cv",cv
+432,nesi,come_out.cv,come_out,cv,cv
 433,lama-idaːwon,hang-dist.pst.3pl,hang,"dist, pst, 3pl",
 434,ʥi-bot,come-dist.pst.3pl,come,"dist, pst, 3pl",
 435,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
@@ -454,8 +454,8 @@
 452,ʈakaʦ-ui,fall-pst.3f.sg,fall,"pst, 3f, sg",
 453,di-sa,go-fut.2pl,go,"fut, 2pl",
 454,ʈakaʦ-uiba,fall-pst.3f.sg-irr,fall,"pst, 3f, sg, irr",
-455,kʰaː-u,pull.out-imp.pl,pull,"out, imp, pl",
-456,nes-iba,come.out-fut.3sg,come,"out, fut, 3sg",
+455,kʰaː-u,pull_out-imp.pl,pull_out,"imp, pl",
+456,nes-iba,come_out-fut.3sg,come_out,"fut, 3sg",
 457,guʂa-inaaŋga-i,hole-cv-throw-cv,hole,"cv, throw, cv",cv
 458,di-sa,go-fut.2pl,go,"fut, 2pl",
 459,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
@@ -467,8 +467,8 @@
 465,ʈakaʦ-ui,fall-pst.3f.sg,fall,"pst, 3f, sg",
 466,ʈakaʦ-ui-ãː,fall-pst.3f.sg-dat,fall,"pst, 3f, sg, dat",
 467,lik-i,pull-cv,pull,cv,cv
-468,kʰaː-um-ãː,pull.out-pst.1sg-dat,pull,"out, pst, 1sg, dat",
-469,nes-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
+468,kʰaː-um-ãː,pull_out-pst.1sg-dat,pull_out,"pst, 1sg, dat",
+469,nes-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
 470,baːl-um-ãː,look-pst.1sg-dat,look,"pst, 1sg, dat",
 471,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 472,aːjim,come.pst.1sg,come,"pst, 1sg",
@@ -478,7 +478,7 @@
 476,ʥa-i,say-cv,say,cv,cv
 477,tʰɪni,be.prs.3f.sg,be,"prs, 3f, sg",
 478,ʥa-i,say-cv,say,cv,cv
-479,nes-ok,come.out-pst.1pl,come,"out, pst, 1pl",
+479,nes-ok,come_out-pst.1pl,come_out,"pst, 1pl",
 480,ʥa-i,say-cv,say,cv,cv
 481,ke-jik-i,do-vn,do,vn,vn
 482,bot,be.pst.3pl,be,"pst, 3pl",
@@ -532,7 +532,7 @@
 530,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 531,kejema,do-fut.1sg,do,"fut, 1sg",
 532,ʥa-i,say-cv,say,cv,cv
-533,uʂʈ-i,get.up-cv,get,"up, cv",cv
+533,uʂʈ-i,get_up-cv,get_up,cv,cv
 534,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 535,ga-i,go-cv,go,cv,cv
 536,bui,be.pst.3f.sg,be,"pst, 3f, sg",
@@ -601,8 +601,8 @@
 599,fed-ui,arrive-pst.3f.sg,arrive,"pst, 3f, sg",
 600,fed-i,arrive-cv,arrive,cv,cv
 601,tala-i,put-cv,put,cv,cv
-602,led-us,put.in.the.stove-pst.3sg,put,"in, the, stove, pst, 3sg",
-603,led-us-a,put.in.the.stove-pst.3sg,put,"in, the, stove, pst, 3sg",
+602,led-us,put_in.the.stove-pst.3sg,put_in,"the, stove, pst, 3sg",
+603,led-us-a,put_in.the.stove-pst.3sg,put_in,"the, stove, pst, 3sg",
 604,paʦ-iba,cook-fut.3sg,cook,"fut, 3sg",
 605,ʥi-k-an-i,come-vn-gen-f,come,"vn, gen, f",vn
 606,bui,be.pst.3f.sg,be,"pst, 3f, sg",
@@ -631,15 +631,15 @@
 629,baːl-imem,look-prs.1sg,look,"prs, 1sg",
 630,ʥa-i,say-cv,say,cv,cv
 631,tala-i,put-cv,put,cv,cv
-632,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+632,kʰaː-i,pull_out-cv,pull_out,cv,cv
 633,ʑu-jau,eat,eat,,
-634,nes-i-i,come.out-cv,come,"out, cv",cv
+634,nes-i-i,come_out-cv,come_out,cv,cv
 635,bi-men,be-ptcp.ipf,be,"ptcp, ipf",
 636,ga-i,go-cv,go,cv,cv
 637,ʥa-won,say-pst.3pl,say,"pst, 3pl",
 638,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 639,saːti-mek,raise-prs.1pl,raise,"prs, 1pl",
-640,nes-i,come.out-cv,come,"out, cv",cv
+640,nes-i,come_out-cv,come_out,cv,cv
 641,bi-men,be-ptcp.ipf,be,"ptcp, ipf",
 642,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 643,ʥi-met-aː,come-prs.3pl-q,come,"prs, 3pl, q",
@@ -663,10 +663,10 @@
 661,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 662,baːl-us-ãː,look-pst.3sg-dat,look,"pst, 3sg, dat",
 663,tal-idaːus,put-dist.pst.3sg,put,"dist, pst, 3sg",
-664,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+664,kʰaː-i,pull_out-cv,pull_out,cv,cv
 665,ʑu-i,eat-cv,eat,cv,cv
 666,daːm-ituaː,catch,catch,,
-667,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+667,kʰaː-i,pull_out-cv,pull_out,cv,cv
 668,ʑu-itus,eat-prf.3sg,eat,"prf, 3sg",
 669,naŋga-i,throw-cv,throw,cv,cv
 670,tala-i,put-cv,put,cv,cv
@@ -707,7 +707,7 @@
 705,kej,do.cv,do,cv,cv
 706,wai-tum,make-prf.1sg,make,"prf, 1sg",
 707,iʈik,jump,jump,,
-708,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+708,kʰaː-i,pull_out-cv,pull_out,cv,cv
 709,baːl-on-ãː,look-pst.3pl-dat,look,"pst, 3pl, dat",
 710,go-idaːus,take-dist.pst.3sg,take,"dist, pst, 3sg",
 711,fed-ui,arrive-pst.3f.sg,arrive,"pst, 3f, sg",
@@ -718,9 +718,9 @@
 716,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 717,taŋg,lie,lie,,
 718,bu-sa-a,become-fut.2pl,become,"fut, 2pl",
-719,baka-itu,throw.away-prf.2sg,throw,"away, prf, 2sg",
+719,baka-itu,throw_away-prf.2sg,throw_away,"prf, 2sg",
 720,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
-721,baka-itum,throw.away-prf.1sg,throw,"away, prf, 1sg",
+721,baka-itum,throw_away-prf.1sg,throw_away,"prf, 1sg",
 722,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 723,ta-idaːon,see-dist.pst.3pl,see,"dist, pst, 3pl",
 724,go-iditanet,take-cv-go,take,"cv, go",cv
@@ -731,13 +731,13 @@
 729,woi-tum,make-prf.1sg,make,"prf, 1sg",
 730,woi-tum,make-prf.1sg,make,"prf, 1sg",
 731,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
-732,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+732,kʰaː-i,pull_out-cv,pull_out,cv,cv
 733,ɬ-a,give-imp.sg,give,"imp, sg",
 734,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 735,ɬi,give.cv,give,cv,cv
-736,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+736,kʰaː-i,pull_out-cv,pull_out,cv,cv
 737,iʈik-ui,jump-pst.3f.sg,jump,"pst, 3f, sg",
-738,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+738,kʰaː-i,pull_out-cv,pull_out,cv,cv
 739,iʈik-i,jump-cv,jump,cv,cv
 740,ɬi,give.cv,give,cv,cv
 741,di,go.cv,go,cv,cv
@@ -745,7 +745,7 @@
 743,naŋga-inaŋa-inaŋga-inaŋa-i,throw-cv-throw-cv-throw-cv-throw-cv,throw,"cv, throw, cv, throw, cv, throw, cv",cv
 744,di,go.cv,go,cv,cv
 745,ɬi,give.cv,give,cv,cv
-746,nes-i,come.out-cv,come,"out, cv",cv
+746,nes-i,come_out-cv,come_out,cv,cv
 747,tala-i,put-cv,put,cv,cv
 748,tala-i,put-cv,put,cv,cv
 749,tala-i,put-cv,put,cv,cv
@@ -754,7 +754,7 @@
 752,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 753,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 754,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-755,wuʈa-i,stand.caus-cv,stand,"caus, cv",cv
+755,wuʈa-i,stand_caus-cv,stand_caus,cv,cv
 756,di-mek,go-prs.1pl,go,"prs, 1pl",
 757,baːl-a,look-imp.sg,look,"imp, sg",
 758,tala-asa,put-fut.2pl,put,"fut, 2pl",
@@ -802,7 +802,7 @@
 800,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 801,ʥa,say,say,,
 802,di,go.cv,go,cv,cv
-803,nesi,come.out.cv,come,"out, cv",cv
+803,nesi,come_out.cv,come_out,cv,cv
 804,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 805,bui-ãː,be.pst.3f.sg-dat,be,"pst, 3f, sg, dat",
 806,niɕ-isan,sit-ptcp.pf,sit,"ptcp, pf",
@@ -826,12 +826,12 @@
 824,baːn-a,cry-obl,cry,obl,
 825,ke-ji,do-cv,do,cv,cv
 826,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
-827,uʂʈ-i,get.up-f,get,"up, f",
+827,uʂʈ-i,get_up-f,get_up,f,
 828,gait,go.pst.3pl,go,"pst, 3pl",
 829,gait,go.pst.3pl,go,"pst, 3pl",
 830,di,go.cv,go,cv,cv
-831,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
-832,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
+831,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
+832,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
 833,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 834,ke-us,do-pst.3sg,do,"pst, 3sg",
 835,ʥa-us,say-pst.3sg,say,"pst, 3sg",
@@ -846,7 +846,7 @@
 844,dal-uwa,split-pst.3m.sg,split,"pst, 3m, sg",
 845,naŋga-i,throw-cv,throw,cv,cv
 846,dal-ua,split-pst.3m.sg,split,"pst, 3m, sg",
-847,ɬeʨ-i,get.into-cv,get,"into, cv",cv
+847,ɬeʨ-i,get_into-cv,get_into,cv,cv
 848,niɕ-i,sit-cv,sit,cv,cv
 849,niɕ-i-i,sit-cv,sit,cv,cv
 850,ʥa-maːn,say-prs.3sg,say,"prs, 3sg",
@@ -873,8 +873,8 @@
 871,feda-maːniu,reach-prs.2pl,reach,"prs, 2pl",
 872,ʥa-i,say-cv,say,cv,cv
 873,ke-us,do-pst.3sg,do,"pst, 3sg",
-874,nes-i,come.out-cv,come,"out, cv",cv
-875,ɖe-wot,run.away-pst.3pl,run,"away, pst, 3pl",
+874,nes-i,come_out-cv,come_out,cv,cv
+875,ɖe-wot,run_away-pst.3pl,run_away,"pst, 3pl",
 876,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 877,gait,go.pst.3pl,go,"pst, 3pl",
 878,di,go.cv,go,cv,cv
@@ -889,8 +889,8 @@
 887,ʥa-i,say-cv,say,cv,cv
 888,aːj-i,come-cv,come,cv,cv
 889,ʥa-won-ãː,say-pst.3pl-dat,say,"pst, 3pl, dat",
-890,uʂʈ-ua,get.up-pst.3m.sg,get,"up, pst, 3m, sg",
-891,uʂʈ-i,get.up-cv,get,"up, cv",cv
+890,uʂʈ-ua,get_up-pst.3m.sg,get_up,"pst, 3m, sg",
+891,uʂʈ-i,get_up-cv,get_up,cv,cv
 892,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 893,ke-maːniu,do-prs.2pl,do,"prs, 2pl",
 894,ʥi-u,come-imp.pl,come,"imp, pl",
@@ -904,9 +904,9 @@
 902,baːl-i,look-cv,look,cv,cv
 903,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 904,ʦʰɪn-imek,cut-prs.1pl,cut,"prs, 1pl",
-905,ʂaʦ-imaːn,get.injured-ptcp.ipf,get,"injured, ptcp, ipf",
+905,ʂaʦ-imaːn,get_injured-ptcp.ipf,get_injured,"ptcp, ipf",
 906,tʰinis,be.prs.2f.sg,be,"prs, 2f, sg",
-907,nes,come.out,come,out,
+907,nes,come_out,come_out,,
 908,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 909,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 910,tʰinim,be.prs.1f.sg,be,"prs, 1f, sg",
@@ -915,15 +915,15 @@
 913,tʰo-us,put-pst.3sg,put,"pst, 3sg",
 914,tʰo-us,put-pst.3sg,put,"pst, 3sg",
 915,tʰo-ji,put-cv,put,cv,cv
-916,nes,come.out,come,out,
+916,nes,come_out,come_out,,
 917,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-918,nes-i,come.out-cv,come,"out, cv",cv
+918,nes-i,come_out-cv,come_out,cv,cv
 919,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 920,baːl-a,look-imp.sg,look,"imp, sg",
 921,tʰo-itum,put-prf.1sg,put,"prf, 1sg",
 922,tʰo-itum,put-prf.1sg,put,"prf, 1sg",
 923,tʰo-i,put-cv,put,cv,cv
-924,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
+924,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
 925,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 926,ʂa-i,send-cv,send,cv,cv
 927,go-i,take-cv,take,cv,cv
@@ -945,8 +945,8 @@
 943,gaː-wa,take,take,,
 944,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 945,ket-us,do-pst.3sg,do,"pst, 3sg",
-946,genʈa-us,tie.caus-pst.3sg,tie,"caus, pst, 3sg",
-947,genʈa-i,tie.caus-cv,tie,"caus, cv",cv
+946,genʈa-us,tie_caus-pst.3sg,tie_caus,"pst, 3sg",
+947,genʈa-i,tie_caus-cv,tie_caus,cv,cv
 948,bot,be.pst.3pl,be,"pst, 3pl",
 949,ke-us,do-pst.3sg,do,"pst, 3sg",
 950,ke-us-ãː,do-pst.3sg-dat,do,"pst, 3sg, dat",
@@ -961,7 +961,7 @@
 959,aːn-i,bring-cv,bring,cv,cv
 960,ɬi-a-won,give-pst.3pl,give,"pst, 3pl",
 961,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
-962,nes-itinim,come.out-prf.1f.sg,come,"out, prf, 1f, sg",
+962,nes-itinim,come_out-prf.1f.sg,come_out,"prf, 1f, sg",
 963,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 964,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 965,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
@@ -978,7 +978,7 @@
 976,ke-us,do-pst.3sg,do,"pst, 3sg",
 977,ke-ma,do-fut.1sg,do,"fut, 1sg",
 978,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
-979,lenʈʂ-ua,get.into-pst.3m.sg,get,"into, pst, 3m, sg",
+979,lenʈʂ-ua,get_into-pst.3m.sg,get_into,"pst, 3m, sg",
 980,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 981,bitanet,be,be,,
 982,ʥa-us,say-pst.3sg,say,"pst, 3sg",
@@ -1002,7 +1002,7 @@
 1000,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 1001,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1002,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-1003,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+1003,kʰaː-i,pull_out-cv,pull_out,cv,cv
 1004,hawat-i,starving-cv,starving,cv,cv
 1005,ʥi,come.cv,come,cv,cv
 1006,ʑot,eat.pst.3pl,eat,"pst, 3pl",
@@ -1035,7 +1035,7 @@
 1033,go-iga,take,take,,
 1034,gaː-us,carry-pst.3sg,carry,"pst, 3sg",
 1035,gaː-i,carry-cv,carry,cv,cv
-1036,niʂa-i,sit.caus-cv,sit,"caus, cv",cv
+1036,niʂa-i,sit_caus-cv,sit_caus,cv,cv
 1037,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 1038,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 1039,ker-us,do-pst.3sg,do,"pst, 3sg",
@@ -1047,10 +1047,10 @@
 1045,ʥa-won-ãː,say-pst.3pl-dat,say,"pst, 3pl, dat",
 1046,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1047,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-1048,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+1048,kʰaː-i,pull_out-cv,pull_out,cv,cv
 1049,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 1050,gait,go.pst.3pl,go,"pst, 3pl",
-1051,nes-ot,come.out-pst.3pl,come,"out, pst, 3pl",
+1051,nes-ot,come_out-pst.3pl,come_out,"pst, 3pl",
 1052,gait,go.pst.3pl,go,"pst, 3pl",
 1053,gait,go.pst.3pl,go,"pst, 3pl",
 1054,dar-ui,stay-pst.3f.sg,stay,"pst, 3f, sg",
@@ -1074,11 +1074,11 @@
 1072,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 1073,aːja,come.pst.3sg,come,"pst, 3sg",
 1074,aːja-ãː,come.pst.3sg-dat,come,"pst, 3sg, dat",
-1075,baːg-ot,spend.the.night-pst.3pl,spend,"the, night, pst, 3pl",
-1076,baːg-i,spend.the.night-cv,spend,"the, night, cv",cv
+1075,baːg-ot,spend_the_night-pst.3pl,spend_the_night,"pst, 3pl",
+1076,baːg-i,spend_the_night-cv,spend_the_night,cv,cv
 1077,bui-ãː,be.pst.3f.sg-dat,be,"pst, 3f, sg, dat",
 1078,baːl-us-ãː,look-pst.3sg-dat,look,"pst, 3sg, dat",
-1079,uʂʈ-i,get.up-cv,get,"up, cv",cv
+1079,uʂʈ-i,get_up-cv,get_up,cv,cv
 1080,aːja,come.pst.3sg,come,"pst, 3sg",
 1081,pe-u,sleep-imp.pl,sleep,"imp, pl",
 1082,ʥa-i,say-cv,say,cv,cv
@@ -1112,8 +1112,8 @@
 1110,ɬi,give.cv,give,cv,cv
 1111,maːr-us,kill-pst.3sg,kill,"pst, 3sg",
 1112,maːr-i,kill-cv,kill,cv,cv
-1113,uʂʈ-i,get.up-cv,get,"up, cv",cv
-1114,ɖe-ji,run.away-cv,run,"away, cv",cv
+1113,uʂʈ-i,get_up-cv,get_up,cv,cv
+1114,ɖe-ji,run_away-cv,run_away,cv,cv
 1115,di-jau,go-opt,go,opt,
 1116,go-i,take-cv,take,cv,cv
 1117,bo,be.pst.2pl,be,"pst, 2pl",
@@ -1131,7 +1131,7 @@
 1129,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 1130,ta-itum,see-prf.1sg,see,"prf, 1sg",
 1131,ʥa-i,say-cv,say,cv,cv
-1132,nes-i,come.out-cv,come,"out, cv",cv
+1132,nes-i,come_out-cv,come_out,cv,cv
 1133,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 1134,aːja,come.pst.3sg,come,"pst, 3sg",
 1135,aːjat-ãː,come.pst.3pl-dat,come,"pst, 3pl, dat",
@@ -1150,7 +1150,7 @@
 1148,ʥa-i,say-cv,say,cv,cv
 1149,daːm-us,catch-pst.3sg,catch,"pst, 3sg",
 1150,ʥa-um,say-pst.1sg,say,"pst, 1sg",
-1151,uʂʈ-i,get.up-cv,get,"up, cv",cv
+1151,uʂʈ-i,get_up-cv,get_up,cv,cv
 1152,ʥi-tinim,come-prf.1f.sg,come,"prf, 1f, sg",
 1153,pe-mem,sleep-prs.1sg,sleep,"prs, 1sg",
 1154,ʥa-um-ãː,say-pst.1sg-dat,say,"pst, 1sg, dat",
@@ -1195,7 +1195,7 @@
 1193,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 1194,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1195,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-1196,kʰaː-us,pull.out-pst.3sg,pull,"out, pst, 3sg",
+1196,kʰaː-us,pull_out-pst.3sg,pull_out,"pst, 3sg",
 1197,ʥa-i,say-cv,say,cv,cv
 1198,ker-i,do-cv,do,cv,cv
 1199,ʥa-us,say-pst.3sg,say,"pst, 3sg",
@@ -1206,7 +1206,7 @@
 1204,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 1205,rikaːrɖ,record,record,,
 1206,di-i,go-cv,go,cv,cv
-1207,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+1207,kʰaː-i,pull_out-cv,pull_out,cv,cv
 1208,geʈ-us,earn-pst.3sg,earn,"pst, 3sg",
 1209,geʈ-i,earn-cv,earn,cv,cv
 1210,aːja,come.pst.3sg,come,"pst, 3sg",
@@ -1286,7 +1286,7 @@
 1284,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 1285,bua-ã,be.pst.3m.sg-dat,be,"pst, 3m, sg, dat",
 1286,di-maːn,go-prs.3sg,go,"prs, 3sg",
-1287,naŋg-i,get.off-cv,get,"off, cv",cv
+1287,naŋg-i,get_off-cv,get_off,cv,cv
 1288,aːja,come.pst.3sg,come,"pst, 3sg",
 1289,aːja,come.pst.3sg,come,"pst, 3sg",
 1290,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -1305,7 +1305,7 @@
 1303,di,go.cv,go,cv,cv
 1304,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 1305,di-maːnti,go,go,,
-1306,audas foʈa-mem,give.break.defecate(?)-prs.1sg,give,"break, defecate(?), prs, 1sg",
+1306,audas foʈa-mem,break.defecate(?)-prs.1sg,break,"defecate(?), prs, 1sg",
 1307,ke-maːn,do-prs.3sg,do,"prs, 3sg",
 1308,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1309,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -1313,7 +1313,7 @@
 1311,niɕ-i,sit-cv,sit,cv,cv
 1312,niɕ-i,sit-cv,sit,cv,cv
 1313,wal-ua,hide-pst.3m.sg,hide,"pst, 3m, sg",
-1314,audas foʈa-ani,give.break.defecate(?),give,"break, defecate(?)",
+1314,audas foʈa-ani,break.defecate(?),break,defecate(?),
 1315,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 1316,ke-maːn,do-ptcp.ipf,do,"ptcp, ipf",
 1317,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -1325,7 +1325,7 @@
 1323,bot,be.pst.3pl,be,"pst, 3pl",
 1324,di,go.cv,go,cv,cv
 1325,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-1326,audas faʈa-ani,give.break.defecate(?),give,"break, defecate(?)",
+1326,audas faʈa-ani,break.defecate(?),break,defecate(?),
 1327,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 1328,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 1329,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -1342,7 +1342,7 @@
 1340,niɕ-isan,sit-ptcp.pf,sit,"ptcp, pf",
 1341,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1342,tʰanet,be.prs.3pl,be,"prs, 3pl",
-1343,kʰaː-imet,pull.out-prs.3pl,pull,"out, prs, 3pl",
+1343,kʰaː-imet,pull_out-prs.3pl,pull_out,"prs, 3pl",
 1344,tʰo-itus,put-prf.3sg,put,"prf, 3sg",
 1345,baːl-us-ãː,look-pst.3sg-dat,look,"pst, 3sg, dat",
 1346,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -1360,8 +1360,8 @@
 1358,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 1359,ʂunɖ-i,hear-cv,hear,cv,cv
 1360,ʥitanem,come,come,,
-1361,kʰaː-imaːnbos,pull.out-ptcp.ipf-cop.pst.2m.sg,pull,"out, ptcp, ipf, cop, pst, 2m, sg",
-1362,kʰaː-imaːnboskʰaː-imaːnbos,pull.out-ptcp.ipf-cop.pst.2m.sg-pull.out-ptcp.ipf-cop.pst.2m.sg,pull,"out, ptcp, ipf, cop, pst, 2m, sg, pull, out, ptcp, ipf, cop, pst, 2m, sg",
+1361,kʰaː-imaːnbos,pull_out-ptcp.ipf-cop.pst.2m.sg,pull_out,"ptcp, ipf, cop, pst, 2m, sg",
+1362,kʰaː-imaːnboskʰaː-imaːnbos,pull_out-ptcp.ipf-cop.pst.2m.sg-pull_out-ptcp.ipf-cop.pst.2m.sg,pull_out,"ptcp, ipf, cop, pst, 2m, sg, pull_out, ptcp, ipf, cop, pst, 2m, sg",
 1363,tʰo-imaːn,put-ptcp.ipf,put,"ptcp, ipf",
 1364,bom,be.pst.1sg,be,"pst, 1sg",
 1365,tʰanes,be.prs.2sg,be,"prs, 2sg",
@@ -1372,7 +1372,7 @@
 1370,ke-ji,do-cv,do,cv,cv
 1371,ke-ji,do-cv,do,cv,cv
 1372,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-1373,kʰaː-u,pull.out-imp.pl,pull,"out, imp, pl",
+1373,kʰaː-u,pull_out-imp.pl,pull_out,"imp, pl",
 1374,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1375,piaːn-imet,know-prs.3pl,know,"prs, 3pl",
 1376,ta-iton,see-prf.3pl,see,"prf, 3pl",
@@ -1390,9 +1390,9 @@
 1388,go-i,take-cv,take,cv,cv
 1389,ke-us-ãː,do-pst.3sg-dat,do,"pst, 3sg, dat",
 1390,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-1391,ɬenʈʂ,get.into,get,into,
+1391,ɬenʈʂ,get_into,get_into,,
 1392,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-1393,ɬenʈʂ,get.into,get,into,
+1393,ɬenʈʂ,get_into,get_into,,
 1394,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 1395,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 1396,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
@@ -1416,7 +1416,7 @@
 1414,ke-us,do-pst.3sg,do,"pst, 3sg",
 1415,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 1416,ker-a,do-imp.sg,do,"imp, sg",
-1417,baːg-isa,spend.the.night-fut.2sg,spend,"the, night, fut, 2sg",
+1417,baːg-isa,spend_the_night-fut.2sg,spend_the_night,"fut, 2sg",
 1418,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 1419,ke-mem,do-prs.1sg,do,"prs, 1sg",
 1420,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -1435,7 +1435,7 @@
 1433,mi-ruwa,die-pst.3m.sg,die,"pst, 3m, sg",
 1434,tʰi-ba,be,be,,
 1435,ʂa-i,send-cv,send,cv,cv
-1436,baːna-maːn,cry.caus-prs.3sg,cry,"caus, prs, 3sg",
+1436,baːna-maːn,cry_caus-prs.3sg,cry_caus,"prs, 3sg",
 1437,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 1438,baːn-imaːn,cry-prs.3sg,cry,"prs, 3sg",
 1439,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -1444,7 +1444,7 @@
 1442,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 1443,ʥa-maːn,say-prs.3sg,say,"prs, 3sg",
 1444,pe-mem,sleep-prs.1sg,sleep,"prs, 1sg",
-1445,kʰasar-isan,get.tired-ptcp.pf,get,"tired, ptcp, pf",
+1445,kʰasar-isan,get_tired-ptcp.pf,get_tired,"ptcp, pf",
 1446,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 1447,ke,do.cv,do,cv,cv
 1448,ʥi-bua,come-dist.pst.3m.sg,come,"dist, pst, 3m, sg",
@@ -1460,7 +1460,7 @@
 1458,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 1459,ke-us,do-pst.3sg,do,"pst, 3sg",
 1460,ʥa-i,say-cv,say,cv,cv
-1461,uʂʈ-i,get.up-cv,get,"up, cv",cv
+1461,uʂʈ-i,get_up-cv,get_up,cv,cv
 1462,di,go.cv,go,cv,cv
 1463,di,go.cv,go,cv,cv
 1464,ke,do.cv,do,cv,cv
@@ -1471,8 +1471,8 @@
 1469,ke,do,do,,
 1470,ʥi-k-e,come-vn,come,vn,vn
 1471,ke-us,do-pst.3sg,do,"pst, 3sg",
-1472,uʂʈ-imaːntiba,get.up-debit.3sg,get,"up, debit, 3sg",
-1473,uʂʈ-imaːntiba,get.up-debit.3sg,get,"up, debit, 3sg",
+1472,uʂʈ-imaːntiba,get_up-debit.3sg,get_up,"debit, 3sg",
+1473,uʂʈ-imaːntiba,get_up-debit.3sg,get_up,"debit, 3sg",
 1474,ʥa-i,say-cv,say,cv,cv
 1475,ke-i,do-cv,do,cv,cv
 1476,baːl-imaːn,look-prs.3sg,look,"prs, 3sg",
@@ -1571,7 +1571,7 @@
 1569,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1570,tʰo-ji,put-cv,put,cv,cv
 1571,parz-os-aː,understand-pst.2sg-q,understand,"pst, 2sg, q",
-1572,nes-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
+1572,nes-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
 1573,ɬam ke-daːus,do.work-dist.pst.3sg,do,"work, dist, pst, 3sg",
 1574,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 1575,ke-ijau,do-opt,do,opt,
@@ -1599,7 +1599,7 @@
 1597,ʥupa-i,make-cv,make,cv,cv
 1598,tanga-isan,put-ptcp.pf,put,"ptcp, pf",
 1599,tʰinait-e,be.prs.3pl,be,"prs, 3pl",
-1600,nanga-i,put.down-cv,put,"down, cv",cv
+1600,nanga-i,put_down-cv,put_down,cv,cv
 1601,tanga-i,put-cv,put,cv,cv
 1602,paʦa-mek,cook-prs.1pl,cook,"prs, 1pl",
 1603,paʦa-mek-e,cook-prs.1pl,cook,"prs, 1pl",
@@ -1669,7 +1669,7 @@
 1667,parz-os-aː,understand-pst.2sg-q,understand,"pst, 2sg, q",
 1668,ʥa-won,say-pst.3pl,say,"pst, 3pl",
 1669,ɬi-mek,give-prs.1pl,give,"prs, 1pl",
-1670,nes-itana,come.out-prf.3m.sg,come,"out, prf, 3m, sg",
+1670,nes-itana,come_out-prf.3m.sg,come_out,"prf, 3m, sg",
 1671,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 1672,ɬi-ton,give-prf.3pl,give,"prf, 3pl",
 1673,ʐupa-ika,make-fut.1pl,make,"fut, 1pl",
@@ -1708,7 +1708,7 @@
 1706,tala-um,put-pst.1sg,put,"pst, 1sg",
 1707,tala-i,put-cv,put,cv,cv
 1708,aːn-i,bring-cv,bring,cv,cv
-1709,ʂuka-i,dry.caus-cv,dry,"caus, cv",cv
+1709,ʂuka-i,dry_caus-cv,dry_caus,cv,cv
 1710,parz-os-aː,understand-pst.2sg-q,understand,"pst, 2sg, q",
 1711,bot-e,be.pst.3pl,be,"pst, 3pl",
 1712,ga-i,take-cv,take,cv,cv
@@ -1750,9 +1750,9 @@
 1748,aːn-i,bring-cv,bring,cv,cv
 1749,tʰo-itum,put-prf.1sg,put,"prf, 1sg",
 1750,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-1751,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
+1751,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
 1752,parz-us-aː,understand-pst.3sg-q,understand,"pst, 3sg, q",
-1753,ʂuka-i,dry.caus-cv,dry,"caus, cv",cv
+1753,ʂuka-i,dry_caus-cv,dry_caus,cv,cv
 1754,ke-i,do-cv,do,cv,cv
 1755,tʰo-ika,put-fut.1pl,put,"fut, 1pl",
 1756,tʰo-i,put-cv,put,cv,cv
@@ -1770,8 +1770,8 @@
 1768,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 1769,paʦa-i,cook-cv,cook,cv,cv
 1770,parz-us-aː,understand-pst.3sg-q,understand,"pst, 3sg, q",
-1771,angasa-won,climb.caus-pst.3pl,climb,"caus, pst, 3pl",
-1772,angasa-won,climb.caus-pst.3pl,climb,"caus, pst, 3pl",
+1771,angasa-won,climb_caus-pst.3pl,climb_caus,"pst, 3pl",
+1772,angasa-won,climb_caus-pst.3pl,climb_caus,"pst, 3pl",
 1773,aːn-i,bring-cv,bring,cv,cv
 1774,ɬi,give.cv,give,cv,cv
 1775,bui,be.pst.3f.sg,be,"pst, 3f, sg",
@@ -1794,7 +1794,7 @@
 1792,tʰanet,be.prs.3pl,be,"prs, 3pl",
 1793,ke-met,do-prs.3pl,do,"prs, 3pl",
 1794,pe-met,sleep-prs.3pl,sleep,"prs, 3pl",
-1795,uʂʈ-imet-e,get.up-prs.3pl,get,"up, prs, 3pl",
+1795,uʂʈ-imet-e,get_up-prs.3pl,get_up,"prs, 3pl",
 1796,tʰi-maːn,be-prs.3sg,be,"prs, 3sg",
 1797,parz-us-aː,understand-pst.3sg-q,understand,"pst, 3sg, q",
 1798,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -1831,7 +1831,7 @@
 1829,ke-s,do-pst.2sg,do,"pst, 2sg",
 1830,tʰi,be.cv,be,cv,cv
 1831,parz-ua-a,understand-pst.3m.sg-q,understand,"pst, 3m, sg, q",
-1832,uʂʈa-i,wake.up-cv,wake,"up, cv",cv
+1832,uʂʈa-i,wake_up-cv,wake_up,cv,cv
 1833,ke-tum,do-prf.1sg,do,"prf, 1sg",
 1834,di-i,go-cv,go,cv,cv
 1835,di,go.cv,go,cv,cv
@@ -1840,10 +1840,10 @@
 1838,di,go.cv,go,cv,cv
 1839,ʥa-ik,say-vn,say,vn,vn
 1840,tala-i,put-cv,put,cv,cv
-1841,uʂʈ-i,get.up-cv,get,"up, cv",cv
+1841,uʂʈ-i,get_up-cv,get_up,cv,cv
 1842,di,go.cv,go,cv,cv
 1843,ʥa-at,say-pst.3pl,say,"pst, 3pl",
-1844,nes-itanet,come.out-prf.3pl,come,"out, prf, 3pl",
+1844,nes-itanet,come_out-prf.3pl,come_out,"prf, 3pl",
 1845,parz-us-aː,understand-pst.3sg-q,understand,"pst, 3sg, q",
 1846,ʥaː,say.imp,say,imp,
 1847,ʥa,say.imp,say,imp,
@@ -1945,8 +1945,8 @@
 1943,ʥa-mek,say-prs.1pl,say,"prs, 1pl",
 1944,laga-ik,install-vn,install,vn,vn
 1945,ke-ik,do-vn,do,vn,vn
-1946,nes-itanet,come.out-prf.3pl,come,"out, prf, 3pl",
-1947,nes-itanet,come.out-prf.3pl,come,"out, prf, 3pl",
+1946,nes-itanet,come_out-prf.3pl,come_out,"prf, 3pl",
+1947,nes-itanet,come_out-prf.3pl,come_out,"prf, 3pl",
 1948,ɬam ke-met,do.work-prs.3pl,do,"work, prs, 3pl",
 1949,bi-tanaik,be-prf.1pl,be,"prf, 1pl",
 1950,ke-itua,do,do,,
@@ -2056,10 +2056,10 @@
 2054,bajaːn ke-mem,do.tell-prs.1sg,do,"tell, prs, 1sg",
 2055,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 2056,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-2057,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
-2058,ʂaʦ-ui-aː,get.injured-pst.3f.sg-dat,get,"injured, pst, 3f, sg, dat",
+2057,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
+2058,ʂaʦ-ui-aː,get_injured-pst.3f.sg-dat,get_injured,"pst, 3f, sg, dat",
 2059,ʥi,come.cv,come,cv,cv
-2060,nanga-i,put.down-cv,put,"down, cv",cv
+2060,nanga-i,put_down-cv,put_down,cv,cv
 2061,lis-ibui,fall-dist.pst.3f.sg,fall,"dist, pst, 3f, sg",
 2062,lis-ik-an-a,fall-vn-gen-m,fall,"vn, gen, m",vn
 2063,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -2071,8 +2071,8 @@
 2069,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 2070,di-maːn,go-prs.3sg,go,"prs, 3sg",
 2071,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-2072,kʰaː-i,pull.out-cv,pull,"out, cv",cv
-2073,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
+2072,kʰaː-i,pull_out-cv,pull_out,cv,cv
+2073,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
 2074,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 2075,bom,be.pst.1sg,be,"pst, 1sg",
 2076,wal-ibom,hide-dist.pst.1sg,hide,"dist, pst, 1sg",
@@ -2082,16 +2082,16 @@
 2080,ɬap-i,run-cv,run,cv,cv
 2081,ɬap-i,run-cv,run,cv,cv
 2082,aːjam-aː,come.pst.1sg-dat,come,"pst, 1sg, dat",
-2083,ʂaʦ-ibui,get.injured-dist.pst.3f.sg,get,"injured, dist, pst, 3f, sg",
+2083,ʂaʦ-ibui,get_injured-dist.pst.3f.sg,get_injured,"dist, pst, 3f, sg",
 2084,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 2085,ʥi-maːn,come-ptcp.ipf,come,"ptcp, ipf",
 2086,bot,be.pst.3pl,be,"pst, 3pl",
 2087,nang-i,descend-cv,descend,cv,cv
 2088,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 2089,ʥi,come.cv,come,cv,cv
-2090,rat ke-ua,do.take.away-pst.3m.sg,do,"take, away, pst, 3m, sg",
-2091,rat ke-ua-aː,do.take.away-pst.3m.sg-dat,do,"take, away, pst, 3m, sg, dat",
-2092,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+2090,rat ke-ua,do.take_away-pst.3m.sg,do,"take_away, pst, 3m, sg",
+2091,rat ke-ua-aː,do.take_away-pst.3m.sg-dat,do,"take_away, pst, 3m, sg, dat",
+2092,kʰaː-i,pull_out-cv,pull_out,cv,cv
 2093,ke-maːn,do-ptcp.ipf,do,"ptcp, ipf",
 2094,bot,be.pst.3pl,be,"pst, 3pl",
 2095,fed-ok-a,arrive-pst.1pl-dat,arrive,"pst, 1pl, dat",
@@ -2100,7 +2100,7 @@
 2098,ʥa-i,say-cv,say,cv,cv
 2099,mi-tana,die-prf.3m.sg,die,"prf, 3m, sg",
 2100,aːn-i,bring-cv,bring,cv,cv
-2101,nanga-ua,put.down-pst.3m.sg,put,"down, pst, 3m, sg",
+2101,nanga-ua,put_down-pst.3m.sg,put_down,"pst, 3m, sg",
 2102,aːn-i,bring-cv,bring,cv,cv
 2103,ba-maːn,can-ptcp.ipf,can,"ptcp, ipf",
 2104,bok,be.pst.1pl,be,"pst, 1pl",
@@ -2112,19 +2112,19 @@
 2110,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 2111,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 2112,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-2113,ʂaʦ-i,get.injured-cv,get,"injured, cv",cv
+2113,ʂaʦ-i,get_injured-cv,get_injured,cv,cv
 2114,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-2115,ʂaʦ-i,get.injured-cv,get,"injured, cv",cv
+2115,ʂaʦ-i,get_injured-cv,get_injured,cv,cv
 2116,bot,be.pst.3pl,be,"pst, 3pl",
-2117,ʂaʦ-i,get.injured-cv,get,"injured, cv",cv
+2117,ʂaʦ-i,get_injured-cv,get_injured,cv,cv
 2118,bot,be.pst.3pl,be,"pst, 3pl",
 2119,bib-ui,happen-pst.3f.sg,happen,"pst, 3f, sg",
 2120,bib-ua,happen-pst.3m.sg,happen,"pst, 3m, sg",
 2121,bib-ua,happen-pst.3m.sg,happen,"pst, 3m, sg",
 2122,bib-ua,happen-pst.3m.sg,happen,"pst, 3m, sg",
-2123,ʂaʦ-i,get.injured-cv,get,"injured, cv",cv
+2123,ʂaʦ-i,get_injured-cv,get_injured,cv,cv
 2124,bot,be.pst.3pl,be,"pst, 3pl",
-2125,ʂaʦ-i,get.injured-cv,get,"injured, cv",cv
+2125,ʂaʦ-i,get_injured-cv,get_injured,cv,cv
 2126,bot,be.pst.3pl,be,"pst, 3pl",
 2127,bib-ui,happen-pst.3f.sg,happen,"pst, 3f, sg",
 2128,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -2136,23 +2136,23 @@
 2134,ke-maːn,do-ptcp.ipf,do,"ptcp, ipf",
 2135,bot,be.pst.3pl,be,"pst, 3pl",
 2136,ʥi,come.cv,come,cv,cv
-2137,kʰaː-iana,pull.out,pull,out,
+2137,kʰaː-iana,pull_out,pull_out,,
 2138,ʥa-i,say-cv,say,cv,cv
 2139,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-2140,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+2140,kʰaː-i,pull_out-cv,pull_out,cv,cv
 2141,ke-met,do-prs.3pl,do,"prs, 3pl",
 2142,ʥa-i,say-cv,say,cv,cv
 2143,bib-ui,happen-pst.3f.sg,happen,"pst, 3f, sg",
-2144,ʂaʦ-ibui,get.injured-dist.pst.3f.sg,get,"injured, dist, pst, 3f, sg",
+2144,ʂaʦ-ibui,get_injured-dist.pst.3f.sg,get_injured,"dist, pst, 3f, sg",
 2145,ɬi-daːwon,give-dist.pst.3pl,give,"dist, pst, 3pl",
-2146,kʰa-imaːn,pull.out-ptcp.ipf,pull,"out, ptcp, ipf",
+2146,kʰa-imaːn,pull_out-ptcp.ipf,pull_out,"ptcp, ipf",
 2147,bot,be.pst.3pl,be,"pst, 3pl",
 2148,ɬi-maːniu,give-prs.2pl,give,"prs, 2pl",
 2149,di-met,go-prs.3pl,go,"prs, 3pl",
 2150,ʥa-i,say-cv,say,cv,cv
 2151,bi-met,be-prs.3pl,be,"prs, 3pl",
 2152,ke-mem,do-prs.1sg,do,"prs, 1sg",
-2153,kʰaː-wana,pull.out,pull,out,
+2153,kʰaː-wana,pull_out,pull_out,,
 2154,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 2155,tʰi-maːn,be-prs.3sg,be,"prs, 3sg",
 2156,feda-ika,reach-fut.1pl,reach,"fut, 1pl",
@@ -2185,7 +2185,7 @@
 2183,ke-maːn,do-prs.3sg,do,"prs, 3sg",
 2184,ʥa-i,say-cv,say,cv,cv
 2185,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-2186,uʂʈa-us,wake.up-pst.3sg,wake,"up, pst, 3sg",
+2186,uʂʈa-us,wake_up-pst.3sg,wake_up,"pst, 3sg",
 2187,ker-us,do-pst.3sg,do,"pst, 3sg",
 2188,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 2189,ke-ji,do-cv,do,cv,cv
@@ -2336,17 +2336,17 @@
 2334,iʈik-i,jump-cv,jump,cv,cv
 2335,ker-us,do-pst.3sg,do,"pst, 3sg",
 2336,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-2337,kʰaː-um,pull.out-pst.1sg,pull,"out, pst, 1sg",
+2337,kʰaː-um,pull_out-pst.1sg,pull_out,"pst, 1sg",
 2338,fed-ua,arrive-pst.3m.sg,arrive,"pst, 3m, sg",
 2339,ʥi,come.cv,come,cv,cv
 2340,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 2341,ɬi-k-i,give-vn,give,vn,vn
 2342,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 2343,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-2344,kʰa-i,pull.out-cv,pull,"out, cv",cv
+2344,kʰa-i,pull_out-cv,pull_out,cv,cv
 2345,tanga-um,throw-pst.1sg,throw,"pst, 1sg",
 2346,tanga-ik-an-a,throw-vn-gen-m,throw,"vn, gen, m",vn
-2347,gira-i,turn.sth-cv,turn,"sth, cv",cv
+2347,gira-i,turn_sth-cv,turn_sth,cv,cv
 2348,ʥi,come.cv,come,cv,cv
 2349,ɬi-tus-aː̄,give-prf.3sg-dat,give,"prf, 3sg, dat",
 2350,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -2443,7 +2443,7 @@
 2441,aːn-imek,bring-prs.1pl,bring,"prs, 1pl",
 2442,laga-itu,install-prf.2sg,install,"prf, 2sg",
 2443,ke-mek,do-prs.1pl,do,"prs, 1pl",
-2444,nanga-mek,put.down-prs.1pl,put,"down, prs, 1pl",
+2444,nanga-mek,put_down-prs.1pl,put_down,"prs, 1pl",
 2445,aːn-isa,bring-fut.2sg,bring,"fut, 2sg",
 2446,aːn-imet,bring-prs.3pl,bring,"prs, 3pl",
 2447,ʨal-imet-aː,sell-prs.3pl-obl,sell,"prs, 3pl, obl",
@@ -2508,7 +2508,7 @@
 2506,gaː-i-i,carry-cv,carry,cv,cv
 2507,aːn-et,bring-pst.3pl,bring,"pst, 3pl",
 2508,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-2509,kʰaː-et,pull.out-pst.3pl,pull,"out, pst, 3pl",
+2509,kʰaː-et,pull_out-pst.3pl,pull_out,"pst, 3pl",
 2510,bi-tini,be,be,,
 2511,bi-tini,be,be,,
 2512,di-tana,go-prf.3m.sg,go,"prf, 3m, sg",
@@ -2555,7 +2555,7 @@
 2553,ga-ik,go-vn,go,vn,vn
 2554,ke-men,do-prs.3sg,do,"prs, 3sg",
 2555,ga-ik,go-vn,go,vn,vn
-2556,ɖe-jiau,run.away,run,away,
+2556,ɖe-jiau,run_away,run_away,,
 2557,gait,go.pst.3pl,go,"pst, 3pl",
 2558,mir-ua,die-pst.3m.sg,die,"pst, 3m, sg",
 2559,bot,be.pst.3pl,be,"pst, 3pl",
@@ -2670,7 +2670,7 @@
 2668,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 2669,ʥi,come.cv,come,cv,cv
 2670,ba-ik-i,can-pst.1pl,can,"pst, 1pl",
-2671,de-ji,run.away-cv,run,"away, cv",cv
+2671,de-ji,run_away-cv,run_away,cv,cv
 2672,gaik,go.pst.1pl,go,"pst, 1pl",
 2673,di,go.cv,go,cv,cv
 2674,fed-ok,arrive-pst.1pl,arrive,"pst, 1pl",
@@ -2711,13 +2711,13 @@
 2709,gaː-on,carry-pst.3pl,carry,"pst, 3pl",
 2710,ʥi,come.cv,come,cv,cv
 2711,ba-ik-i,can-pst.1pl,can,"pst, 1pl",
-2712,kʰaː-ok,pull.out-pst.1pl,pull,"out, pst, 1pl",
-2713,kʰaː-ji,pull.out-cv,pull,"out, cv",cv
+2712,kʰaː-ok,pull_out-pst.1pl,pull_out,"pst, 1pl",
+2713,kʰaː-ji,pull_out-cv,pull_out,cv,cv
 2714,aːjak,come.pst.1pl,come,"pst, 1pl",
 2715,ajak-aː̄,come.pst.1pl-dat,come,"pst, 1pl, dat",
 2716,tanga-isan,throw-ptcp.pf,throw,"ptcp, pf",
 2717,bot,be.pst.3pl,be,"pst, 3pl",
-2718,rat ke-daːon,do.take.away-dist.pst.3pl,do,"take, away, dist, pst, 3pl",
+2718,rat ke-daːon,do.take_away-dist.pst.3pl,do,"take_away, dist, pst, 3pl",
 2719,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 2720,ke,do.cv,do,cv,cv
 2721,fed-ok,arrive-pst.1pl,arrive,"pst, 1pl",
@@ -2746,7 +2746,7 @@
 2744,bot,be.pst.3pl,be,"pst, 3pl",
 2745,ʈopala-i,collect-cv,collect,cv,cv
 2746,aːn-i-i,bring-cv,bring,cv,cv
-2747,kʰaː-ik,pull.out-pst.1pl,pull,"out, pst, 1pl",
+2747,kʰaː-ik,pull_out-pst.1pl,pull_out,"pst, 1pl",
 2748,ʨal-i,run-cv,run,cv,cv
 2749,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 2750,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
@@ -2797,7 +2797,7 @@
 2795,ke-t,do-pst.3pl,do,"pst, 3pl",
 2796,tʰi,be.cv,be,cv,cv
 2797,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-2798,uʂʈ-i,get.up-cv,get,"up, cv",cv
+2798,uʂʈ-i,get_up-cv,get_up,cv,cv
 2799,bom,be.pst.1sg,be,"pst, 1sg",
 2800,ʥi,come.cv,come,cv,cv
 2801,ʥi,come.cv,come,cv,cv
@@ -2812,7 +2812,7 @@
 2810,ʥa-i,say-cv,say,cv,cv
 2811,ta-i,see-cv,see,cv,cv
 2812,bib-ui,happen-pst.3f.sg,happen,"pst, 3f, sg",
-2813,uʂʈ-i,get.up-cv,get,"up, cv",cv
+2813,uʂʈ-i,get_up-cv,get_up,cv,cv
 2814,gaim,go.pst.1sg,go,"pst, 1sg",
 2815,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 2816,bi-tini,be-prf.3f.sg,be,"prf, 3f, sg",
@@ -2841,7 +2841,7 @@
 2839,ʥa-i,say-cv,say,cv,cv
 2840,bi-tanet,be-prf.3pl,be,"prf, 3pl",
 2841,ke-itum,do-prf.1sg,do,"prf, 1sg",
-2842,nanga-i,put.down-cv,put,"down, cv",cv
+2842,nanga-i,put_down-cv,put_down,cv,cv
 2843,nang-i-i,descend-cv,descend,cv,cv
 2844,gir-itanem,travel-prf.1m.sg,travel,"prf, 1m, sg",
 2845,ke-i,do-cv,do,cv,cv
@@ -2871,11 +2871,11 @@
 2869,niɕ-isan,sit-ptcp.pf,sit,"ptcp, pf",
 2870,tʰanek,be.prs.1pl,be,"prs, 1pl",
 2871,thini,be.prs.3f.sg,be,"prs, 3f, sg",
-2872,nes-tini,come.out-prf.3f.sg,come,"out, prf, 3f, sg",
+2872,nes-tini,come_out-prf.3f.sg,come_out,"prf, 3f, sg",
 2873,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 2874,ga-mek,take-prs.1pl,take,"prs, 1pl",
 2875,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
-2876,kʰaː-ena,pull.out,pull,out,
+2876,kʰaː-ena,pull_out,pull_out,,
 2877,ga-mes,take-prs.2sg,take,"prs, 2sg",
 2878,tʰanet,be.prs.3pl,be,"prs, 3pl",
 2879,ga-iʥema,take-cv-come.fut.1sg,take,"cv, come, fut, 1sg",cv
@@ -3179,16 +3179,16 @@
 3177,ʥi-au,come-opt,come,opt,
 3178,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 3179,tʰanek,be.prs.1pl,be,"prs, 1pl",
-3180,kʰaː-ik-a,pull.out-vn-obl,pull,"out, vn, obl",vn
+3180,kʰaː-ik-a,pull_out-vn-obl,pull_out,"vn, obl",vn
 3181,di-maːn,go-prs.3sg,go,"prs, 3sg",
 3182,di,go.cv,go,cv,cv
-3183,kʰaː-imek,pull.out-prs.1pl,pull,"out, prs, 1pl",
+3183,kʰaː-imek,pull_out-prs.1pl,pull_out,"prs, 1pl",
 3184,ʥi-mek,come-prs.1pl,come,"prs, 1pl",
 3185,tʰanet,be.prs.3pl,be,"prs, 3pl",
 3186,ke-mem,do-prs.1sg,do,"prs, 1sg",
 3187,thaneu,be.prs.2pl,be,"prs, 2pl",
 3188,ke-mem,do-prs.1sg,do,"prs, 1sg",
-3189,kʰaː-jiu,pull.out-opt,pull,"out, opt",
+3189,kʰaː-jiu,pull_out-opt,pull_out,opt,
 3190,ke-mem,do-prs.1sg,do,"prs, 1sg",
 3191,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 3192,waːzeh ker-a,do.explain-imp.sg,do,"explain, imp, sg",
@@ -3271,7 +3271,7 @@
 3269,ke-met,do-prs.3pl,do,"prs, 3pl",
 3270,ke-met,do-prs.3pl,do,"prs, 3pl",
 3271,bui-aː,be.pst.3f.sg-dat,be,"pst, 3f, sg, dat",
-3272,uʂʈ-om-aː,get.up-pst.1sg-dat,get,"up, pst, 1sg, dat",
+3272,uʂʈ-om-aː,get_up-pst.1sg-dat,get_up,"pst, 1sg, dat",
 3273,ga-ma-a,go-fut.1sg-dat,go,"fut, 1sg, dat",
 3274,daːm-u-a,catch-pst.2sg-q,catch,"pst, 2sg, q",
 3275,daːm-u,catch-pst.2sg,catch,"pst, 2sg",
@@ -3314,7 +3314,7 @@
 3312,dar-itanet-aː,stay-prf.3pl-q,stay,"prf, 3pl, q",
 3313,dar-itanet,stay-prf.3pl,stay,"prf, 3pl",
 3314,ʥa-um,say-pst.1sg,say,"pst, 1sg",
-3315,nanga-mek,put.down-prs.1pl,put,"down, prs, 1pl",
+3315,nanga-mek,put_down-prs.1pl,put_down,"prs, 1pl",
 3316,angas-i,climb-cv,climb,cv,cv
 3317,baːl-imem,look-prs.1sg,look,"prs, 1sg",
 3318,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -3348,8 +3348,8 @@
 3346,lis-ua-aː,fall-pst.3m.sg-dat,fall,"pst, 3m, sg, dat",
 3347,piʈ-um,close-pst.1sg,close,"pst, 1sg",
 3348,ʥa-um,say-pst.1sg,say,"pst, 1sg",
-3349,nes-imaːn,come.out-prs.3sg,come,"out, prs, 3sg",
-3350,nes-imaːn,come.out-prs.3sg,come,"out, prs, 3sg",
+3349,nes-imaːn,come_out-prs.3sg,come_out,"prs, 3sg",
+3350,nes-imaːn,come_out-prs.3sg,come_out,"prs, 3sg",
 3351,baʨ ke-us,do.save-pst.3sg,do,"save, pst, 3sg",
 3352,baʨ ke,do.save,do,save,
 3353,lada-um,lift-pst.1sg,lift,"pst, 1sg",
@@ -3376,7 +3376,7 @@
 3374,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 3375,ʥi,come.cv,come,cv,cv
 3376,bot-aː,be.pst.3pl-dat,be,"pst, 3pl, dat",
-3377,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+3377,kʰaː-i,pull_out-cv,pull_out,cv,cv
 3378,ɬi-tum,give-prf.1sg,give,"prf, 1sg",
 3379,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 3380,ʥa-um,say-pst.1sg,say,"pst, 1sg",
@@ -3426,7 +3426,7 @@
 3424,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 3425,ʥa-um,say-pst.1sg,say,"pst, 1sg",
 3426,baːn-i,cry-cv,cry,cv,cv
-3427,nanga-i,put.down-cv,put,"down, cv",cv
+3427,nanga-i,put_down-cv,put_down,cv,cv
 3428,tala-i,put-cv,put,cv,cv
 3429,ʥi-i,come-cv,come,cv,cv
 3430,fed-i,arrive-cv,arrive,cv,cv
@@ -3443,10 +3443,10 @@
 3441,dara-us,leave-pst.3sg,leave,"pst, 3sg",
 3442,gaː-us-aː,carry-pst.3sg-dat,carry,"pst, 3sg, dat",
 3443,naːʈ-i,dance-cv,dance,cv,cv
-3444,uʂʈ-i,get.up-cv,get,"up, cv",cv
+3444,uʂʈ-i,get_up-cv,get_up,cv,cv
 3445,ga,go,go,,
 3446,naːʈ-i,dance-cv,dance,cv,cv
-3447,uʂʈ-i,get.up-cv,get,"up, cv",cv
+3447,uʂʈ-i,get_up-cv,get_up,cv,cv
 3448,ga,go,go,,
 3449,ʥa-um,say-pst.1sg,say,"pst, 1sg",
 3450,ʥa-um,say-pst.1sg,say,"pst, 1sg",
@@ -3507,7 +3507,7 @@
 3505,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 3506,baːn-i,cry-cv,cry,cv,cv
 3507,koʦ-imes,ask-prs.2sg,ask,"prs, 2sg",
-3508,uʂʈ-i,get.up-cv,get,"up, cv",cv
+3508,uʂʈ-i,get_up-cv,get_up,cv,cv
 3509,di,go.cv,go,cv,cv
 3510,ke,do.cv,do,cv,cv
 3511,di,go.cv,go,cv,cv
@@ -3517,14 +3517,14 @@
 3515,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 3516,aːja,come.pst.3sg,come,"pst, 3sg",
 3517,ke,do.cv,do,cv,cv
-3518,nes-i,come.out-cv,come,"out, cv",cv
+3518,nes-i,come_out-cv,come_out,cv,cv
 3519,ɖaɖa ʂa-um,rest-pst.1sg,rest,"pst, 1sg",
 3520,ɖaɖa ʂa-ik-e,rest-vn-erg/ins,rest,"vn, erg/ins",vn
-3521,nes-om,come.out-pst.1sg,come,"out, pst, 1sg",
-3522,nes-om-aː,come.out-pst.1sg-dat,come,"out, pst, 1sg, dat",
+3521,nes-om,come_out-pst.1sg,come_out,"pst, 1sg",
+3522,nes-om-aː,come_out-pst.1sg-dat,come_out,"pst, 1sg, dat",
 3523,bib-ua-aː,happen-pst.3m.sg-dat,happen,"pst, 3m, sg, dat",
-3524,nes-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
-3525,nes-i,come.out-cv,come,"out, cv",cv
+3524,nes-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
+3525,nes-i,come_out-cv,come_out,cv,cv
 3526,aːja,come.pst.3sg,come,"pst, 3sg",
 3527,ʥa,say,say,,
 3528,ʥa-um,say-pst.1sg,say,"pst, 1sg",
@@ -3540,7 +3540,7 @@
 3538,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 3539,go-i,take-cv,take,cv,cv
 3540,di,go.cv,go,cv,cv
-3541,kʰaː-um,pull.out-pst.1sg,pull,"out, pst, 1sg",
+3541,kʰaː-um,pull_out-pst.1sg,pull_out,"pst, 1sg",
 3542,gu-tum,buy-prf.1sg,buy,"prf, 1sg",
 3543,gu-tum,buy-prf.1sg,buy,"prf, 1sg",
 3544,gu-tum,buy-prf.1sg,buy,"prf, 1sg",
@@ -3549,7 +3549,7 @@
 3547,aːjam,come.pst.1sg,come,"pst, 1sg",
 3548,ʥi,come.cv,come,cv,cv
 3549,nang-i,descend-cv,descend,cv,cv
-3550,nes-om,come.out-pst.1sg,come,"out, pst, 1sg",
+3550,nes-om,come_out-pst.1sg,come_out,"pst, 1sg",
 3551,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 3552,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 3553,bi,be.cv,be,cv,cv
@@ -3587,9 +3587,9 @@
 3585,ʥa-won,say-pst.3pl,say,"pst, 3pl",
 3586,tanga-u,throw-pst.2sg,throw,"pst, 2sg",
 3587,ɬi-ka,give-fut.1pl,give,"fut, 1pl",
-3588,tara-wu,cross.the.river.caus-pst.2sg,cross,"the, river, caus, pst, 2sg",
+3588,tara-wu,cross.the.river_caus-pst.2sg,cross,"the, river_caus, pst, 2sg",
 3589,ʥa-um,say-pst.1sg,say,"pst, 1sg",
-3590,tara-i,cross.the.river.caus-cv,cross,"the, river, caus, cv",cv
+3590,tara-i,cross.the.river_caus-cv,cross,"the, river_caus, cv",cv
 3591,ba-maːniu-aː,can-prs.2pl-q,can,"prs, 2pl, q",
 3592,ʥa-on,say-pst.3pl,say,"pst, 3pl",
 3593,daːm-i,catch-cv,catch,cv,cv
@@ -3599,7 +3599,7 @@
 3597,bom,be.pst.1sg,be,"pst, 1sg",
 3598,ʥa-um,say-pst.1sg,say,"pst, 1sg",
 3599,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-3600,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+3600,kʰaː-i,pull_out-cv,pull_out,cv,cv
 3601,tanga-i,throw-cv,throw,cv,cv
 3602,tʰo-i,put-cv,put,cv,cv
 3603,tar-i,swim-cv,swim,cv,cv
@@ -3609,7 +3609,7 @@
 3607,feda-um,reach-pst.1sg,reach,"pst, 1sg",
 3608,ʥi,come.cv,come,cv,cv
 3609,tar-i,swim-cv,swim,cv,cv
-3610,tara-i,cross.the.river.caus-cv,cross,"the, river, caus, cv",cv
+3610,tara-i,cross.the.river_caus-cv,cross,"the, river_caus, cv",cv
 3611,ga-i,go-cv,go,cv,cv
 3612,ʥi,come.cv,come,cv,cv
 3613,ʥa-us,say-pst.3sg,say,"pst, 3sg",
@@ -3625,9 +3625,9 @@
 3623,ʥa-um-aː,say-pst.1sg-dat,say,"pst, 1sg, dat",
 3624,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 3625,ʥa-maːn,say-prs.3sg,say,"prs, 3sg",
-3626,tara-a,cross.the.river.caus-imp.sg,cross,"the, river, caus, imp, sg",
-3627,tara-a,cross.the.river.caus-imp.sg,cross,"the, river, caus, imp, sg",
-3628,tara-ik-a,cross.the.river.caus-vn-obl,cross,"the, river, caus, vn, obl",vn
+3626,tara-a,cross.the.river_caus-imp.sg,cross,"the, river_caus, imp, sg",
+3627,tara-a,cross.the.river_caus-imp.sg,cross,"the, river_caus, imp, sg",
+3628,tara-ik-a,cross.the.river_caus-vn-obl,cross,"the, river_caus, vn, obl",vn
 3629,ɕuro ke-um,do.start-pst.1sg,do,"start, pst, 1sg",
 3630,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 3631,bi-maːn,be-ptcp.ipf,be,"ptcp, ipf",
@@ -3721,7 +3721,7 @@
 3719,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 3720,ʨala-ik,drive-pst.1pl,drive,"pst, 1pl",
 3721,aːn-i,bring-cv,bring,cv,cv
-3722,nanga-ik,put.down-pst.1pl,put,"down, pst, 1pl",
+3722,nanga-ik,put_down-pst.1pl,put_down,"pst, 1pl",
 3723,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 3724,ke-t,do-pst.3pl,do,"pst, 3pl",
 3725,gaː-et,carry-pst.3pl,carry,"pst, 3pl",
@@ -3834,7 +3834,7 @@
 3832,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 3833,ta-i,see-cv,see,cv,cv
 3834,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-3835,kʰa-us,pull.out-pst.3sg,pull,"out, pst, 3sg",
+3835,kʰa-us,pull_out-pst.3sg,pull_out,"pst, 3sg",
 3836,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 3837,ʥa-um,say-pst.1sg,say,"pst, 1sg",
 3838,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -3927,9 +3927,9 @@
 3925,niʂ-ot,sit-pst.3pl,sit,"pst, 3pl",
 3926,niʂ-ot-aː,sit-pst.3pl-dat,sit,"pst, 3pl, dat",
 3927,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-3928,niʂa-on,sit.caus-pst.3pl,sit,"caus, pst, 3pl",
+3928,niʂa-on,sit_caus-pst.3pl,sit_caus,"pst, 3pl",
 3929,niʂ-om-aː,sit-pst.1sg-dat,sit,"pst, 1sg, dat",
-3930,nes-ok,come.out-pst.1pl,come,"out, pst, 1pl",
+3930,nes-ok,come_out-pst.1pl,come_out,"pst, 1pl",
 3931,go-an,take,take,,
 3932,go-an,take,take,,
 3933,ker-um,do-pst.1sg,do,"pst, 1sg",
@@ -4137,7 +4137,7 @@
 4135,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4136,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4137,ʥa-asa,say-fut.2pl,say,"fut, 2pl",
-4138,angasa-ama,climb.caus-fut.1sg,climb,"caus, fut, 1sg",
+4138,angasa-ama,climb_caus-fut.1sg,climb_caus,"fut, 1sg",
 4139,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4140,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4141,giri-maːn,travel-prs.3sg,travel,"prs, 3sg",
@@ -4239,7 +4239,7 @@
 4237,aːj-au,come-pst.2pl,come,"pst, 2pl",
 4238,lubus-i,meet-cv,meet,cv,cv
 4239,ker-ok,do-pst.1pl,do,"pst, 1pl",
-4240,nes-ot,come.out-pst.3pl,come,"out, pst, 3pl",
+4240,nes-ot,come_out-pst.3pl,come_out,"pst, 3pl",
 4241,bot,be.pst.3pl,be,"pst, 3pl",
 4242,tʰanem,be.prs.1m.sg,be,"prs, 1m, sg",
 4243,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
@@ -4419,7 +4419,7 @@
 4417,ɬet,give.pst.3pl,give,"pst, 3pl",
 4418,di-t,go-pst.3pl,go,"pst, 3pl",
 4419,tʰanet,be.prs.3pl,be,"prs, 3pl",
-4420,nes-itanet,come.out-prf.3pl,come,"out, prf, 3pl",
+4420,nes-itanet,come_out-prf.3pl,come_out,"prf, 3pl",
 4421,ke-met,do-prs.3pl,do,"prs, 3pl",
 4422,ke-mek,do-prs.1pl,do,"prs, 1pl",
 4423,ʂunɖ-au,hear-opt,hear,opt,
@@ -4431,9 +4431,9 @@
 4429,ke-ma,do-fut.1sg,do,"fut, 1sg",
 4430,ʂunɖ-itanaiu,hear-prf.2pl,hear,"prf, 2pl",
 4431,ʥa-u,say-pst.2sg,say,"pst, 2sg",
-4432,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
+4432,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
 4433,ʐup-itini,become-prf.3f.sg,become,"prf, 3f, sg",
-4434,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
+4434,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
 4435,ʐup-itini,become-prf.3f.sg,become,"prf, 3f, sg",
 4436,tʰi-maːn,be-ptcp.ipf,be,"ptcp, ipf",
 4437,tʰi-man,be-prs.3sg,be,"prs, 3sg",
@@ -4459,7 +4459,7 @@
 4457,tʰi-ma-ãː,be-fut.1sg-dat,be,"fut, 1sg, dat",
 4458,ɬi-tus,give-prf.3sg,give,"prf, 3sg",
 4459,ʐup-itini,become-prf.3f.sg,become,"prf, 3f, sg",
-4460,nes-ui,come.out-pst.3f.sg,come,"out, pst, 3f, sg",
+4460,nes-ui,come_out-pst.3f.sg,come_out,"pst, 3f, sg",
 4461,ʐup-itini,become-prf.3f.sg,become,"prf, 3f, sg",
 4462,lik-aːn,write,write,,
 4463,di-maːn,go-prs.3sg,go,"prs, 3sg",
@@ -4483,7 +4483,7 @@
 4481,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4482,paʦa-met,cook-prs.3pl,cook,"prs, 3pl",
 4483,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-4484,nes-imaːn,come.out-prs.3sg,come,"out, prs, 3sg",
+4484,nes-imaːn,come_out-prs.3sg,come_out,"prs, 3sg",
 4485,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 4486,ʥi-met,come-prs.3pl,come,"prs, 3pl",
 4487,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
@@ -4497,7 +4497,7 @@
 4495,ʥa-u,say-pst.2sg,say,"pst, 2sg",
 4496,ke-met,do-prs.3pl,do,"prs, 3pl",
 4497,aːn-imet,bring-prs.3pl,bring,"prs, 3pl",
-4498,nes-maːn,come.out-prs.3sg,come,"out, prs, 3sg",
+4498,nes-maːn,come_out-prs.3sg,come_out,"prs, 3sg",
 4499,dar-imaːn,stay-prs.3sg,stay,"prs, 3sg",
 4500,dar-imaːn,stay-prs.3sg,stay,"prs, 3sg",
 4501,kʰai-mem,save(?)-prs.1sg,save(?),"prs, 1sg",
@@ -4748,11 +4748,11 @@
 4746,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 4747,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 4748,ʨal-i,spin-cv,spin,cv,cv
-4749,gira-maːn,turn.sth-prs.3sg,turn,"sth, prs, 3sg",
+4749,gira-maːn,turn_sth-prs.3sg,turn_sth,"prs, 3sg",
 4750,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-4751,ɬenʨ-imek,get.into-prs.1pl,get,"into, prs, 1pl",
+4751,ɬenʨ-imek,get_into-prs.1pl,get_into,"prs, 1pl",
 4752,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
-4753,ɬenʈʂ-ok,get.into-pst.1pl,get,"into, pst, 1pl",
+4753,ɬenʈʂ-ok,get_into-pst.1pl,get_into,"pst, 1pl",
 4754,ʨal-imaːn,spin-prs.3sg,spin,"prs, 3sg",
 4755,ʐup-itini,become-prf.3f.sg,become,"prf, 3f, sg",
 4756,ʥa-i,say-cv,say,cv,cv
@@ -4767,7 +4767,7 @@
 4765,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4766,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 4767,di,go.cv,go,cv,cv
-4768,lisa-maːn,fall.caus-prs.3sg,fall,"caus, prs, 3sg",
+4768,lisa-maːn,fall_caus-prs.3sg,fall_caus,"prs, 3sg",
 4769,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4770,naŋga-i,throw-cv,throw,cv,cv
 4771,di-maːn,go-prs.3sg,go,"prs, 3sg",
@@ -4851,7 +4851,7 @@
 4849,ga,go,go,,
 4850,parz-os-aː,understand-pst.2sg-q,understand,"pst, 2sg, q",
 4851,tʰanet,be.prs.3pl,be,"prs, 3pl",
-4852,parza-ata,understand.caus,understand,caus,
+4852,parza-ata,understand_caus,understand_caus,,
 4853,bot,be.pst.3pl,be,"pst, 3pl",
 4854,dar-itan,stay-prf.3m.sg,stay,"prf, 3m, sg",
 4855,bot,be.pst.3pl,be,"pst, 3pl",
@@ -4899,7 +4899,7 @@
 4897,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 4898,kaɽ-i,suffer-cv,suffer,cv,cv
 4899,mi-rot,die-pst.3pl,die,"pst, 3pl",
-4900,nes-ot,come.out-pst.3pl,come,"out, pst, 3pl",
+4900,nes-ot,come_out-pst.3pl,come_out,"pst, 3pl",
 4901,ta-mes,see-prs.2sg,see,"prs, 2sg",
 4902,tʰanes,be.prs.2sg,be,"prs, 2sg",
 4903,tʰo-i,put-cv,put,cv,cv
@@ -4919,7 +4919,7 @@
 4917,fed-ita,arrive-fut.3pl,arrive,"fut, 3pl",
 4918,bi-ba,be-fut.3sg,be,"fut, 3sg",
 4919,tʰanet,be.prs.3pl,be,"prs, 3pl",
-4920,ɖe-jita,run.away-fut.3pl,run,"away, fut, 3pl",
+4920,ɖe-jita,run_away-fut.3pl,run_away,"fut, 3pl",
 4921,ker-ua,do-pst.3m.sg,do,"pst, 3m, sg",
 4922,pe-jita,sleep-fut.3pl,sleep,"fut, 3pl",
 4923,ʥi-k-e,come-vn,come,vn,vn
@@ -4941,7 +4941,7 @@
 4939,tʰi-ba,be-fut.3sg,be,"fut, 3sg",
 4940,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 4941,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-4942,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
+4942,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
 4943,fuk,blow,blow,,
 4944,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 4945,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
@@ -4953,9 +4953,9 @@
 4951,mi-met,die-prs.3pl,die,"prs, 3pl",
 4952,bambaːr,bomb,bomb,,
 4953,ʥi-met,come-prs.3pl,come,"prs, 3pl",
-4954,gira-met,turn.sth-prs.3pl,turn,"sth, prs, 3pl",
+4954,gira-met,turn_sth-prs.3pl,turn_sth,"prs, 3pl",
 4955,ʥa-met,say-prs.3pl,say,"prs, 3pl",
-4956,gira-met,turn.sth-prs.3pl,turn,"sth, prs, 3pl",
+4956,gira-met,turn_sth-prs.3pl,turn_sth,"prs, 3pl",
 4957,ɬi-met,give-prs.3pl,give,"prs, 3pl",
 4958,ʥa-i,say-cv,say,cv,cv
 4959,lik-iton,write-prf.3pl,write,"prf, 3pl",
@@ -4998,12 +4998,12 @@
 4996,di,go.cv,go,cv,cv
 4997,ʐupa-von,make-pst.3pl,make,"pst, 3pl",
 4998,kaɽ-ita,suffer-fut.3pl,suffer,"fut, 3pl",
-4999,nes-tanet,come.out-prf.3pl,come,"out, prf, 3pl",
+4999,nes-tanet,come_out-prf.3pl,come_out,"prf, 3pl",
 5000,biu-ãː,be.pst.3f.sg-dat,be,"pst, 3f, sg, dat",
 5001,mi-rot,die-pst.3pl,die,"pst, 3pl",
 5002,kaɽ-i,suffer-cv,suffer,cv,cv
 5003,mi-rot,die-pst.3pl,die,"pst, 3pl",
-5004,nes-ot,come.out-pst.3pl,come,"out, pst, 3pl",
+5004,nes-ot,come_out-pst.3pl,come_out,"pst, 3pl",
 5005,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 5006,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5007,niɕ-isan,sit-ptcp.pf,sit,"ptcp, pf",
@@ -5176,15 +5176,15 @@
 5174,bi-tanet,be-prf.3pl,be,"prf, 3pl",
 5175,fed-i,arrive-cv,arrive,cv,cv
 5176,kʰuʂ-on,dig-pst.3pl,dig,"pst, 3pl",
-5177,nes-imet,come.out-prs.3pl,come,"out, prs, 3pl",
+5177,nes-imet,come_out-prs.3pl,come_out,"prs, 3pl",
 5178,ta-met,see-prs.3pl,see,"prs, 3pl",
 5179,bot,be.pst.3pl,be,"pst, 3pl",
 5180,bi-met,be-prs.3pl,be,"prs, 3pl",
-5181,nes-imet,come.out-prs.3pl,come,"out, prs, 3pl",
+5181,nes-imet,come_out-prs.3pl,come_out,"prs, 3pl",
 5182,bot,be.pst.3pl,be,"pst, 3pl",
 5183,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5184,kʰuʂ-on,dig-pst.3pl,dig,"pst, 3pl",
-5185,nes-imet,come.out-prs.3pl,come,"out, prs, 3pl",
+5185,nes-imet,come_out-prs.3pl,come_out,"prs, 3pl",
 5186,tʰanet,be.prs.3pl,be,"prs, 3pl",
 5187,aːn-i,bring-cv,bring,cv,cv
 5188,boit,be.pst.3pl,be,"pst, 3pl",
@@ -5222,7 +5222,7 @@
 5220,ʥa-met,say-prs.3pl,say,"prs, 3pl",
 5221,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 5222,aːjat,come.pst.3pl,come,"pst, 3pl",
-5223,uʂʈ-i,get.up-cv,get,"up, cv",cv
+5223,uʂʈ-i,get_up-cv,get_up,cv,cv
 5224,baːl-on-ãːki,look-pst.3pl-dat-to,look,"pst, 3pl, dat, to",
 5225,bib-ui,happen-pst.3f.sg,happen,"pst, 3f, sg",
 5226,baːl-on-ãː,look-pst.3pl-dat,look,"pst, 3pl, dat",
@@ -5252,7 +5252,7 @@
 5250,tʰanet,be.prs.3pl,be,"prs, 3pl",
 5251,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5252,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-5253,nes-imaːn,come.out-prs.3sg,come,"out, prs, 3sg",
+5253,nes-imaːn,come_out-prs.3sg,come_out,"prs, 3sg",
 5254,di-met,go-prs.3pl,go,"prs, 3pl",
 5255,di,go.cv,go,cv,cv
 5256,baːl-i,look-cv,look,cv,cv
@@ -5272,7 +5272,7 @@
 5270,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5271,tʰanet,be.prs.3pl,be,"prs, 3pl",
 5272,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-5273,nes-itana,come.out-prf.3m.sg,come,"out, prf, 3m, sg",
+5273,nes-itana,come_out-prf.3m.sg,come_out,"prf, 3m, sg",
 5274,ʥa-met,say-prs.3pl,say,"prs, 3pl",
 5275,bi,be.cv,be,cv,cv
 5276,gais,go.2sg,go,2sg,
@@ -5348,12 +5348,12 @@
 5346,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5347,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5348,boit,be.pst.3pl,be,"pst, 3pl",
-5349,nes-oit,come.out-pst.3pl,come,"out, pst, 3pl",
-5350,nes-ot,come.out-pst.3pl,come,"out, pst, 3pl",
-5351,nes-oit,come.out-pst.3pl,come,"out, pst, 3pl",
-5352,nes-oit,come.out-pst.3pl,come,"out, pst, 3pl",
+5349,nes-oit,come_out-pst.3pl,come_out,"pst, 3pl",
+5350,nes-ot,come_out-pst.3pl,come_out,"pst, 3pl",
+5351,nes-oit,come_out-pst.3pl,come_out,"pst, 3pl",
+5352,nes-oit,come_out-pst.3pl,come_out,"pst, 3pl",
 5353,tʰanet,be.prs.3pl,be,"prs, 3pl",
-5354,nes-oit,come.out-pst.3pl,come,"out, pst, 3pl",
+5354,nes-oit,come_out-pst.3pl,come_out,"pst, 3pl",
 5355,boit,be.pst.3pl,be,"pst, 3pl",
 5356,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5357,bua,be.pst.3m.sg,be,"pst, 3m, sg",
@@ -5441,7 +5441,7 @@
 5439,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5440,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5441,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-5442,nes-oit,come.out-pst.3pl,come,"out, pst, 3pl",
+5442,nes-oit,come_out-pst.3pl,come_out,"pst, 3pl",
 5443,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5444,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5445,tʰi-ba,be-fut.3sg,be,"fut, 3sg",
@@ -5549,7 +5549,7 @@
 5547,foʈ-imet,break-prs.3pl,break,"prs, 3pl",
 5548,go-mek,take-prs.1pl,take,"prs, 1pl",
 5549,tʰi-mek,be-prs.1pl,be,"prs, 1pl",
-5550,nes-imek,come.out-prs.1pl,come,"out, prs, 1pl",
+5550,nes-imek,come_out-prs.1pl,come_out,"prs, 1pl",
 5551,ʥi,come.cv,come,cv,cv
 5552,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 5553,na-bi-maːn,be-prs.3sg,be,"prs, 3sg",
@@ -5577,17 +5577,17 @@
 5575,le-ua-ãː,find-pst.3m.sg-dat,find,"pst, 3m, sg, dat",
 5576,gaik,go.pst.1pl,go,"pst, 1pl",
 5577,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-5578,nes-i-i,come.out-cv,come,"out, cv",cv
+5578,nes-i-i,come_out-cv,come_out,cv,cv
 5579,di,go.cv,go,cv,cv
-5580,ɬenʈʂ-ok,get.into-pst.1pl,get,"into, pst, 1pl",
-5581,ɬenʨ-ik-an-a,get.into-vn-gen-m,get,"into, vn, gen, m",vn
+5580,ɬenʈʂ-ok,get_into-pst.1pl,get_into,"pst, 1pl",
+5581,ɬenʨ-ik-an-a,get_into-vn-gen-m,get_into,"vn, gen, m",vn
 5582,ʥa-i,say-cv,say,cv,cv
 5583,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5584,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 5585,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5586,fed-ok-ãː,arrive-pst.1pl-dat,arrive,"pst, 1pl, dat",
 5587,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-5588,sat ke-us-ãː,do.invite-pst.3sg-dat,do,"invite, pst, 3sg, dat",
+5588,sat ke-us-ãː,do_invite-pst.3sg-dat,do_invite,"pst, 3sg, dat",
 5589,hawat,starving,starving,,
 5590,bi-bok,be-dist.pst.1pl,be,"dist, pst, 1pl",
 5591,paʦa-i,cook-cv,cook,cv,cv
@@ -5616,12 +5616,12 @@
 5614,tar-i,swim-cv,swim,cv,cv
 5615,ba-wa,can,can,,
 5616,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-5617,uʂʈ-ok,get.up-pst.1pl,get,"up, pst, 1pl",
+5617,uʂʈ-ok,get_up-pst.1pl,get_up,"pst, 1pl",
 5618,ʥa-ua,say-pst.3m.sg,say,"pst, 3m, sg",
 5619,di-mek,go-prs.1pl,go,"prs, 1pl",
 5620,fed-ika,arrive-fut.1pl,arrive,"fut, 1pl",
 5621,fed-ika,arrive-fut.1pl,arrive,"fut, 1pl",
-5622,uʂʈ-i,get.up-cv,get,"up, cv",cv
+5622,uʂʈ-i,get_up-cv,get_up,cv,cv
 5623,bok,be.pst.1pl,be,"pst, 1pl",
 5624,aŋgas-ok,climb-pst.1pl,climb,"pst, 1pl",
 5625,ʥa-i,say-cv,say,cv,cv
@@ -5640,8 +5640,8 @@
 5638,bok-ãː,be.pst.1pl-dat,be,"pst, 1pl, dat",
 5639,niɕ-i,sit-cv,sit,cv,cv
 5640,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-5641,sat ke-us,do.invite-pst.3sg,do,"invite, pst, 3sg",
-5642,sat ke-us-ãː,do.invite-pst.3sg-dat,do,"invite, pst, 3sg, dat",
+5641,sat ke-us,do_invite-pst.3sg,do_invite,"pst, 3sg",
+5642,sat ke-us-ãː,do_invite-pst.3sg-dat,do_invite,"pst, 3sg, dat",
 5643,ʥa-ua,say-pst.3m.sg,say,"pst, 3m, sg",
 5644,ɬi-mes,give-prs.2sg,give,"prs, 2sg",
 5645,tar-imek,swim-prs.1pl,swim,"prs, 1pl",
@@ -5674,13 +5674,13 @@
 5672,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 5673,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 5674,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
-5675,ʂaʦ-imaːn,get.injured-prs.3sg,get,"injured, prs, 3sg",
+5675,ʂaʦ-imaːn,get_injured-prs.3sg,get_injured,"prs, 3sg",
 5676,tʰaneu,be.prs.2pl,be,"prs, 2pl",
-5677,baːg-iu,spend.the.night-opt,spend,"the, night, opt",
-5678,baːg-imaːniu,spend.the.night-prs.2pl,spend,"the, night, prs, 2pl",
+5677,baːg-iu,spend_the_night-opt,spend_the_night,opt,
+5678,baːg-imaːniu,spend_the_night-prs.2pl,spend_the_night,"prs, 2pl",
 5679,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-5680,kʰaː-us,pull.out-pst.3sg,pull,"out, pst, 3sg",
-5681,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+5680,kʰaː-us,pull_out-pst.3sg,pull_out,"pst, 3sg",
+5681,kʰaː-i,pull_out-cv,pull_out,cv,cv
 5682,bok,be.pst.1pl,be,"pst, 1pl",
 5683,bok,be.pst.1pl,be,"pst, 1pl",
 5684,ga-ik-ãː,go-vn-dat,go,"vn, dat",vn
@@ -5695,7 +5695,7 @@
 5693,ʥi,come.cv,come,cv,cv
 5694,aŋgas-ok,climb-pst.1pl,climb,"pst, 1pl",
 5695,aŋgas-ok,climb-pst.1pl,climb,"pst, 1pl",
-5696,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+5696,kʰaː-i,pull_out-cv,pull_out,cv,cv
 5697,aŋgas-i,climb-cv,climb,cv,cv
 5698,aŋgas-ok-ãː,climb-pst.1pl-dat,climb,"pst, 1pl, dat",
 5699,zaːn-esa,think-fut.2sg,think,"fut, 2sg",
@@ -5763,38 +5763,38 @@
 5761,ga-ik-ãː,go-vn-dat,go,"vn, dat",vn
 5762,bua-e,be.pst.3m.sg,be,"pst, 3m, sg",
 5763,ke-um,do-pst.1sg,do,"pst, 1sg",
-5764,baːg-ika,spend.the.night-fut.1pl,spend,"the, night, fut, 1pl",
+5764,baːg-ika,spend_the_night-fut.1pl,spend_the_night,"fut, 1pl",
 5765,di,go.cv,go,cv,cv
 5766,ke-mek,do-prs.1pl,do,"prs, 1pl",
 5767,ʥa-um-ãː,say-pst.1sg-dat,say,"pst, 1sg, dat",
 5768,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-5769,nes-imek,come.out-prs.1pl,come,"out, prs, 1pl",
-5770,nes-imek,come.out-prs.1pl,come,"out, prs, 1pl",
+5769,nes-imek,come_out-prs.1pl,come_out,"prs, 1pl",
+5770,nes-imek,come_out-prs.1pl,come_out,"prs, 1pl",
 5771,gaː-imet-aː,take-prs.3pl,take,"prs, 3pl",
 5772,ke,do.cv,do,cv,cv
 5773,muɕ-ik-a,play-vn-obl,play,"vn, obl",vn
 5774,aːj-i,come-cv,come,cv,cv
 5775,baːl-ok-ãː,look-pst.1pl-dat,look,"pst, 1pl, dat",
 5776,ʥa-met,say-prs.3pl,say,"prs, 3pl",
-5777,nes-itanek,come.out-prf.1pl,come,"out, prf, 1pl",
-5778,nes-ok-ãː,come.out-pst.1pl-dat,come,"out, pst, 1pl, dat",
+5777,nes-itanek,come_out-prf.1pl,come_out,"prf, 1pl",
+5778,nes-ok-ãː,come_out-pst.1pl-dat,come_out,"pst, 1pl, dat",
 5779,na-bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5780,nadi-bok,not-go-dist.pst.1pl,not,"go, dist, pst, 1pl",
 5781,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 5782,tala-us,put-pst.3sg,put,"pst, 3sg",
 5783,tala-us-ãː,put-pst.3sg-dat,put,"pst, 3sg, dat",
 5784,di,go.cv,go,cv,cv
-5785,kʰaː-ua,pull.out-pst.3m.sg,pull,"out, pst, 3m, sg",
+5785,kʰaː-ua,pull_out-pst.3m.sg,pull_out,"pst, 3m, sg",
 5786,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5787,ʥa-i,say-cv,say,cv,cv
-5788,kʰaː-wana,pull.out,pull,out,
+5788,kʰaː-wana,pull_out,pull_out,,
 5789,bi-maːn,be-ptcp.ipf,be,"ptcp, ipf",
 5790,tʰanet,be.prs.3pl,be,"prs, 3pl",
-5791,kʰaː-ua-ãː,pull.out-pst.3m.sg-dat,pull,"out, pst, 3m, sg, dat",
-5792,kʰanʈkʰaː-us,voice-pull.out-pst.3sg,voice,"pull, out, pst, 3sg",
+5791,kʰaː-ua-ãː,pull_out-pst.3m.sg-dat,pull_out,"pst, 3m, sg, dat",
+5792,kʰanʈkʰaː-us,voice-pull_out-pst.3sg,voice,"pull_out, pst, 3sg",
 5793,ʥa-us-ãː,say-pst.3sg-dat,say,"pst, 3sg, dat",
 5794,tʰanek,be.prs.1pl,be,"prs, 1pl",
-5795,baːg-ãː,spend.the.night-dat,spend,"the, night, dat",
+5795,baːg-ãː,spend_the_night-dat,spend_the_night,dat,
 5796,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5797,ʥa-wok-ãː,say-pst.1pl-dat,say,"pst, 1pl, dat",
 5798,ʥi-u,come-imp.pl,come,"imp, pl",
@@ -5808,7 +5808,7 @@
 5806,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5807,maːr-iton,kill-prf.3pl,kill,"prf, 3pl",
 5808,ʥa-us,say-pst.3sg,say,"pst, 3sg",
-5809,kʰa-idaːːwon,pull.out-dist.pst.3pl,pull,"out, dist, pst, 3pl",
+5809,kʰa-idaːːwon,pull_out-dist.pst.3pl,pull_out,"dist, pst, 3pl",
 5810,maːr-ik-e,kill-vn-erg/ins,kill,"vn, erg/ins",vn
 5811,bo,be.pst.2pl,be,"pst, 2pl",
 5812,ke-ua,do-pst.3m.sg,do,"pst, 3m, sg",
@@ -5828,7 +5828,7 @@
 5826,bot,be.pst.3pl,be,"pst, 3pl",
 5827,tʰanet,be.prs.3pl,be,"prs, 3pl",
 5828,bi-mek,be-prs.1pl,be,"prs, 1pl",
-5829,niʂa-won,sit.caus-pst.3pl,sit,"caus, pst, 3pl",
+5829,niʂa-won,sit_caus-pst.3pl,sit_caus,"pst, 3pl",
 5830,li-ton,give-prf.3pl,give,"prf, 3pl",
 5831,ker-on,do-pst.3pl,do,"pst, 3pl",
 5832,ke,do.cv,do,cv,cv
@@ -5846,9 +5846,9 @@
 5844,ke-ik-i,do-vn-erg/ins,do,"vn, erg/ins",vn
 5845,bok,be.pst.1pl,be,"pst, 1pl",
 5846,bi-tanek,be-prf.1pl,be,"prf, 1pl",
-5847,baːg-ok,spend.the.night-pst.1pl,spend,"the, night, pst, 1pl",
-5848,baːg-i,spend.the.night-cv,spend,"the, night, cv",cv
-5849,nes-ok-ãː,come.out-pst.1pl-dat,come,"out, pst, 1pl, dat",
+5847,baːg-ok,spend_the_night-pst.1pl,spend_the_night,"pst, 1pl",
+5848,baːg-i,spend_the_night-cv,spend_the_night,cv,cv
+5849,nes-ok-ãː,come_out-pst.1pl-dat,come_out,"pst, 1pl, dat",
 5850,ʥa-won,say-pst.3pl,say,"pst, 3pl",
 5851,ʥa-wok,say-pst.1pl,say,"pst, 1pl",
 5852,tar-imek,cross.the.river-prs.1pl,cross,"the, river, prs, 1pl",
@@ -5864,18 +5864,18 @@
 5862,tʰɪni,be.prs.3f.sg,be,"prs, 3f, sg",
 5863,maːr-itus,kill-prf.3sg,kill,"prf, 3sg",
 5864,baːl-ok-ãː,look-pst.1pl-dat,look,"pst, 1pl, dat",
-5865,sat ke-us,do.invite-pst.3sg,do,"invite, pst, 3sg",
+5865,sat ke-us,do_invite-pst.3sg,do_invite,"pst, 3sg",
 5866,niʂ-ok,sit-pst.1pl,sit,"pst, 1pl",
 5867,niʂ-ok-ãː,sit-pst.1pl-dat,sit,"pst, 1pl, dat",
 5868,ker-us,do-pst.3sg,do,"pst, 3sg",
-5869,bag-itanau,spend.the.night-prf.2pl,spend,"the, night, prf, 2pl",
+5869,bag-itanau,spend_the_night-prf.2pl,spend_the_night,"prf, 2pl",
 5870,ʥa-ua,say-pst.3m.sg,say,"pst, 3m, sg",
 5871,ʐun-ua,eat-pst.3m.sg,eat,"pst, 3m, sg",
 5872,luk-ua,have.tea-pst.3m.sg,have,"tea, pst, 3m, sg",
 5873,baːl-ok-ãː,look-pst.1pl-dat,look,"pst, 1pl, dat",
 5874,aːja,come.pst.3sg,come,"pst, 3sg",
 5875,ʥa-ua,say-pst.3m.sg,say,"pst, 3m, sg",
-5876,sat ke-us,do.invite-pst.3sg,do,"invite, pst, 3sg",
+5876,sat ke-us,do_invite-pst.3sg,do_invite,"pst, 3sg",
 5877,ke-ji,do-cv,do,cv,cv
 5878,luk-i,have.tea-cv,have,"tea, cv",cv
 5879,gaik,go.pst.1pl,go,"pst, 1pl",
@@ -5888,8 +5888,8 @@
 5886,ke-daːus,do-dist.pst.3sg,do,"dist, pst, 3sg",
 5887,luk-ua,have.tea-pst.3m.sg,have,"tea, pst, 3m, sg",
 5888,luk-ik-an-a,have.tea-vn-gen-m,have,"tea, vn, gen, m",vn
-5889,nes-ok,come.out-pst.1pl,come,"out, pst, 1pl",
-5890,nes-i,come.out-cv,come,"out, cv",cv
+5889,nes-ok,come_out-pst.1pl,come_out,"pst, 1pl",
+5890,nes-i,come_out-cv,come_out,cv,cv
 5891,di,go.cv,go,cv,cv
 5892,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 5893,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -5899,7 +5899,7 @@
 5897,anŋgas-i,climb-cv,climb,cv,cv
 5898,ker-ua,do-pst.3m.sg,do,"pst, 3m, sg",
 5899,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-5900,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+5900,kʰaː-i,pull_out-cv,pull_out,cv,cv
 5901,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5902,dar-isan,stay-ptcp.pf,stay,"ptcp, pf",
 5903,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -5919,13 +5919,13 @@
 5917,waɽ-on,leave-pst.3pl,leave,"pst, 3pl",
 5918,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 5919,ker-ok,do-pst.1pl,do,"pst, 1pl",
-5920,baːg-ika,spend.the.night-fut.1pl,spend,"the, night, fut, 1pl",
+5920,baːg-ika,spend_the_night-fut.1pl,spend_the_night,"fut, 1pl",
 5921,tar-i,swim-cv,swim,cv,cv
-5922,baːg-ok,spend.the.night-pst.1pl,spend,"the, night, pst, 1pl",
+5922,baːg-ok,spend_the_night-pst.1pl,spend_the_night,"pst, 1pl",
 5923,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-5924,baːg-ik-an-a,spend.the.night-vn-gen-m,spend,"the, night, vn, gen, m",vn
+5924,baːg-ik-an-a,spend_the_night-vn-gen-m,spend_the_night,"vn, gen, m",vn
 5925,ke-us,do-pst.3sg,do,"pst, 3sg",
-5926,uʂʈ-aːwa,get.up,get,up,
+5926,uʂʈ-aːwa,get_up,get_up,,
 5927,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 5928,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 5929,ke,do.cv,do,cv,cv
@@ -5948,11 +5948,11 @@
 5946,niɕ-ika,sit-fut.1pl,sit,"fut, 1pl",
 5947,ʥa-i,say-cv,say,cv,cv
 5948,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-5949,baːg-i,spend.the.night-cv,spend,"the, night, cv",cv
+5949,baːg-i,spend_the_night-cv,spend_the_night,cv,cv
 5950,ker-ok,do-pst.1pl,do,"pst, 1pl",
-5951,nes-i,come.out-cv,come,"out, cv",cv
-5952,nes-i,come.out-cv,come,"out, cv",cv
-5953,nes-i,come.out-cv,come,"out, cv",cv
+5951,nes-i,come_out-cv,come_out,cv,cv
+5952,nes-i,come_out-cv,come_out,cv,cv
+5953,nes-i,come_out-cv,come_out,cv,cv
 5954,aːjak,come.pst.1pl,come,"pst, 1pl",
 5955,ʥi-k-e,come-vn-erg/ins,come,"vn, erg/ins",vn
 5956,ʥa-ua,say-pst.3m.sg,say,"pst, 3m, sg",
@@ -6004,15 +6004,15 @@
 6002,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6003,ʥi-ik,come-vn,come,vn,vn
 6004,ʨalit,spin-pst.3pl,spin,"pst, 3pl",
-6005,baŋgar-ik,be.afraid-pst.1pl,be,"afraid, pst, 1pl",
+6005,baŋgar-ik,be_afraid-pst.1pl,be_afraid,"pst, 1pl",
 6006,bok,be.pst.1pl,be,"pst, 1pl",
 6007,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6008,di-k,go-pst.1pl,go,"pst, 1pl",
 6009,tʰi-t,be-pst.3pl,be,"pst, 3pl",
 6010,ʥi-ik,come-vn,come,vn,vn
 6011,di-k,go-vn,go,vn,vn
-6012,baŋgar-ik,be.afraid-pst.1pl,be,"afraid, pst, 1pl",
-6013,ʂaʦ-itaː,get.injured,get,injured,
+6012,baŋgar-ik,be_afraid-pst.1pl,be_afraid,"pst, 1pl",
+6013,ʂaʦ-itaː,get_injured,get_injured,,
 6014,bi-ta-a,be-fut.3pl,be,"fut, 3pl",
 6015,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6016,ʥa-am,say-pst.1sg,say,"pst, 1sg",
@@ -6022,7 +6022,7 @@
 6020,bok,be.pst.1pl,be,"pst, 1pl",
 6021,bok,be.pst.1pl,be,"pst, 1pl",
 6022,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-6023,ɖe-i,run.away-cv,run,"away, cv",cv
+6023,ɖe-i,run_away-cv,run_away,cv,cv
 6024,ga-ik,go-vn,go,vn,vn
 6025,go-i,take-cv,take,cv,cv
 6026,ga-ik,go-vn,go,vn,vn
@@ -6110,13 +6110,13 @@
 6108,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6109,aːj-i,come-cv,come,cv,cv
 6110,ga-ik-ãː,go-vn-dat,go,"vn, dat",vn
-6111,nes-ua,come.out-pst.3m.sg,come,"out, pst, 3m, sg",
+6111,nes-ua,come_out-pst.3m.sg,come_out,"pst, 3m, sg",
 6112,ʥaː-vok,say-pst.1pl,say,"pst, 1pl",
 6113,tʰanek,be.prs.1pl,be,"prs, 1pl",
 6114,ʥi-u,come-imp.pl,come,"imp, pl",
 6115,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 6116,gaː-i,carry-cv,carry,cv,cv
-6117,niʂa-us,sit.caus-pst.3sg,sit,"caus, pst, 3sg",
+6117,niʂa-us,sit_caus-pst.3sg,sit_caus,"pst, 3sg",
 6118,ta-idaːvok,see-dist.pst.1pl,see,"dist, pst, 1pl",
 6119,ʥi-u,come-imp.pl,come,"imp, pl",
 6120,baːl-iu,look-opt,look,opt,
@@ -6145,7 +6145,7 @@
 6143,hans-ot,laugh-pst.3pl,laugh,"pst, 3pl",
 6144,tʰnet,be.prs.3pl,be,"prs, 3pl",
 6145,bok,be.pst.1pl,be,"pst, 1pl",
-6146,niʂa-us-ãː,sit.caus-pst.3sg-dat,sit,"caus, pst, 3sg, dat",
+6146,niʂa-us-ãː,sit_caus-pst.3sg-dat,sit_caus,"pst, 3sg, dat",
 6147,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 6148,niʂ,sit,sit,,
 6149,niɕ-ik-an-a,sit-vn-gen-m,sit,"vn, gen, m",vn
@@ -6165,16 +6165,16 @@
 6163,ga-ik-ãː,go-vn-dat,go,"vn, dat",vn
 6164,pe-san,sleep-ptcp.pf,sleep,"ptcp, pf",
 6165,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-6166,uʂʈ-ua,get.up-pst.3m.sg,get,"up, pst, 3m, sg",
-6167,uʂʈ-i,get.up-cv,get,"up, cv",cv
+6166,uʂʈ-ua,get_up-pst.3m.sg,get_up,"pst, 3m, sg",
+6167,uʂʈ-i,get_up-cv,get_up,cv,cv
 6168,baːl-i,look-cv,look,cv,cv
 6169,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 6170,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 6171,aːjas,come.pst.2sg,come,"pst, 2sg",
-6172,ɖe-i,run.away-cv,run,"away, cv",cv
+6172,ɖe-i,run_away-cv,run_away,cv,cv
 6173,ʥa-mes,say-prs.2sg,say,"prs, 2sg",
 6174,ʥa-um,say-pst.1sg,say,"pst, 1sg",
-6175,ɖe-itanem,run.away-prf.1m.sg,run,"away, prf, 1m, sg",
+6175,ɖe-itanem,run_away-prf.1m.sg,run_away,"prf, 1m, sg",
 6176,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 6177,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 6178,gaː-imem,take-prs.1sg,take,"prs, 1sg",
@@ -6188,15 +6188,15 @@
 6186,bua,be.pst.3m.sg,be,"pst, 3m, sg",
 6187,ʥa-um,say-pst.1sg,say,"pst, 1sg",
 6188,di,go.cv,go,cv,cv
-6189,niʂa-us,sit.caus-pst.3sg,sit,"caus, pst, 3sg",
+6189,niʂa-us,sit_caus-pst.3sg,sit_caus,"pst, 3sg",
 6190,ʥa-us-e,say-pst.3sg,say,"pst, 3sg",
 6191,tar-o,cross.the.river-pst.2pl,cross,"the, river, pst, 2pl",
 6192,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-6193,naŋg-iva,get.off,get,off,
+6193,naŋg-iva,get_off,get_off,,
 6194,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 6195,bot,be.pst.3pl,be,"pst, 3pl",
 6196,ke,do.cv,do,cv,cv
-6197,naŋg-ok,get.off-pst.1pl,get,"off, pst, 1pl",
+6197,naŋg-ok,get_off-pst.1pl,get_off,"pst, 1pl",
 6198,gir-imek,turn-prs.1pl,turn,"prs, 1pl",
 6199,bot,be.pst.3pl,be,"pst, 3pl",
 6200,bui,be.pst.3f.sg,be,"pst, 3f, sg",
@@ -6233,7 +6233,7 @@
 6231,parz-os-aː,understand-pst.2sg-q,understand,"pst, 2sg, q",
 6232,ʦʰin-on,cut-pst.3pl,cut,"pst, 3pl",
 6233,gait,go.pst.3pl,go,"pst, 3pl",
-6234,nes-ot,come.out-pst.3pl,come,"out, pst, 3pl",
+6234,nes-ot,come_out-pst.3pl,come_out,"pst, 3pl",
 6235,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 6236,tʰanet,be.prs.3pl,be,"prs, 3pl",
 6237,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
@@ -6255,7 +6255,7 @@
 6253,ɬi,give.cv,give,cv,cv
 6254,ʥi-ana,come,come,,
 6255,lis-ibom,fall-dist.pst.1sg,fall,"dist, pst, 1sg",
-6256,ʂaʦ-i,get.injured-cv,get,"injured, cv",cv
+6256,ʂaʦ-i,get_injured-cv,get_injured,cv,cv
 6257,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6258,ʂunɖ-os-aː,hear-pst.2sg-q,hear,"pst, 2sg, q",
 6259,bambaːr-i,bomb-cv,bomb,cv,cv
@@ -6266,7 +6266,7 @@
 6264,ʥi-bot,come-dist.pst.3pl,come,"dist, pst, 3pl",
 6265,ʥi,come.cv,come,cv,cv
 6266,tʰanaba,be.prs.3m.sg-irr,be,"prs, 3m, sg, irr",
-6267,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+6267,kʰaː-i,pull_out-cv,pull_out,cv,cv
 6268,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6269,ʂunɖ-os-aː,hear-pst.2sg-q,hear,"pst, 2sg, q",
 6270,ɬap-i,run-cv,run,cv,cv
@@ -6279,7 +6279,7 @@
 6277,ʥa-us,say-pst.3sg,say,"pst, 3sg",
 6278,bambaːr-iaki,bomb,bomb,,
 6279,taŋga-itus,throw-prf.3sg,throw,"prf, 3sg",
-6280,ʂaʦ-itana,get.injured-prf.3m.sg,get,"injured, prf, 3m, sg",
+6280,ʂaʦ-itana,get_injured-prf.3m.sg,get_injured,"prf, 3m, sg",
 6281,ʥi-tana,come-prf.3m.sg,come,"prf, 3m, sg",
 6282,ʂunɖ-os-aː,hear-pst.2sg-q,hear,"pst, 2sg, q",
 6283,lik-awa-us,write-pst.3sg,write,"pst, 3sg",
@@ -6292,7 +6292,7 @@
 6290,ɬi-mek,give-prs.1pl,give,"prs, 1pl",
 6291,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6292,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-6293,kʰaː-idaːus,pull.out-dist.pst.3sg,pull,"out, dist, pst, 3sg",
+6293,kʰaː-idaːus,pull_out-dist.pst.3sg,pull_out,"dist, pst, 3sg",
 6294,ʐot,eat.pst.3pl,eat,"pst, 3pl",
 6295,ʂunɖ-os-aː,hear-pst.2sg-q,hear,"pst, 2sg, q",
 6296,bui,be.pst.3f.sg,be,"pst, 3f, sg",
@@ -6330,9 +6330,9 @@
 6328,aːn-i,bring-cv,bring,cv,cv
 6329,ʂunɖ-os-a,hear-pst.2sg-q,hear,"pst, 2sg, q",
 6330,aːn-i,bring-cv,bring,cv,cv
-6331,niʂa-us,sit.caus-pst.3sg,sit,"caus, pst, 3sg",
-6332,niʂa-us,sit.caus-pst.3sg,sit,"caus, pst, 3sg",
-6333,niʂa-ik-an-a,sit.caus-vn-gen-m,sit,"caus, vn, gen, m",vn
+6331,niʂa-us,sit_caus-pst.3sg,sit_caus,"pst, 3sg",
+6332,niʂa-us,sit_caus-pst.3sg,sit_caus,"pst, 3sg",
+6333,niʂa-ik-an-a,sit_caus-vn-gen-m,sit_caus,"vn, gen, m",vn
 6334,piaːn-on,know-pst.3pl,know,"pst, 3pl",
 6335,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 6336,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -6367,18 +6367,18 @@
 6365,kʰuɕ-imet,dig-prs.3pl,dig,"prs, 3pl",
 6366,kʰuɕ-i,dig-cv,dig,cv,cv
 6367,wo-imet,leave(?)-prs.3pl,leave(?),"prs, 3pl",
-6368,baka-met,throw.away-prs.3pl,throw,"away, prs, 3pl",
+6368,baka-met,throw_away-prs.3pl,throw_away,"prs, 3pl",
 6369,ke-met,do-prs.3pl,do,"prs, 3pl",
 6370,ke-i,do-cv,do,cv,cv
 6371,go-met,take-prs.3pl,take,"prs, 3pl",
 6372,ga-i,take-cv,take,cv,cv
 6373,aːn-i,bring-cv,bring,cv,cv
-6374,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+6374,kʰaː-i,pull_out-cv,pull_out,cv,cv
 6375,uʂʈa-met,sow-prs.3pl,sow,"prs, 3pl",
 6376,ke,do.cv,do,cv,cv
 6377,ke-met,do-prs.3pl,do,"prs, 3pl",
 6378,ɬi-met,give-prs.3pl,give,"prs, 3pl",
-6379,baka-met,throw.away-prs.3pl,throw,"away, prs, 3pl",
+6379,baka-met,throw_away-prs.3pl,throw_away,"prs, 3pl",
 6380,tala-met,put-prs.3pl,put,"prs, 3pl",
 6381,ke-met,do-prs.3pl,do,"prs, 3pl",
 6382,ke-met,do-prs.3pl,do,"prs, 3pl",
@@ -6386,13 +6386,13 @@
 6384,ʂa-k-i,send-vn-erg/ins,send,"vn, erg/ins",vn
 6385,ke-met,do-prs.3pl,do,"prs, 3pl",
 6386,tʰi-maːn,be-prs.3sg,be,"prs, 3sg",
-6387,kʰaː-imet,pull.out-prs.3pl,pull,"out, prs, 3pl",
+6387,kʰaː-imet,pull_out-prs.3pl,pull_out,"prs, 3pl",
 6388,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 6389,ke-mes,do-prs.2sg,do,"prs, 2sg",
-6390,kʰaː-imem,pull.out-prs.1sg,pull,"out, prs, 1sg",
-6391,kʰaː-ok,pull.out-pst.1pl,pull,"out, pst, 1pl",
+6390,kʰaː-imem,pull_out-prs.1sg,pull_out,"prs, 1sg",
+6391,kʰaː-ok,pull_out-pst.1pl,pull_out,"pst, 1pl",
 6392,bi-maːn,be-prs.3sg,be,"prs, 3sg",
-6393,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+6393,kʰaː-i,pull_out-cv,pull_out,cv,cv
 6394,ke-met,do-prs.3pl,do,"prs, 3pl",
 6395,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 6396,tala-met,put-prs.3pl,put,"prs, 3pl",
@@ -6413,7 +6413,7 @@
 6411,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 6412,ke-met,do-prs.3pl,do,"prs, 3pl",
 6413,ke-ik-e,do-vn-erg/ins,do,"vn, erg/ins",vn
-6414,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+6414,kʰaː-i,pull_out-cv,pull_out,cv,cv
 6415,uʂʈa-met,sow-prs.3pl,sow,"prs, 3pl",
 6416,tʰɪ-maːn,be-prs.3sg,be,"prs, 3sg",
 6417,ga-i,go-cv,go,cv,cv
@@ -6423,13 +6423,13 @@
 6421,aːn-i,bring-cv,bring,cv,cv
 6422,uʂʈa-met,sow-prs.3pl,sow,"prs, 3pl",
 6423,bi-maːn,be-prs.3sg,be,"prs, 3sg",
-6424,kʰa-ik-an-a,pull.out-vn-gen-m,pull,"out, vn, gen, m",vn
+6424,kʰa-ik-an-a,pull_out-vn-gen-m,pull_out,"vn, gen, m",vn
 6425,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 6426,paʦ-ik-e,cook-vn-erg/ins,cook,"vn, erg/ins",vn
-6427,kʰaː-imet,pull.out-prs.3pl,pull,"out, prs, 3pl",
+6427,kʰaː-imet,pull_out-prs.3pl,pull_out,"prs, 3pl",
 6428,tʰi-maːn,be-prs.3sg,be,"prs, 3sg",
 6429,bua,be.pst.3m.sg,be,"pst, 3m, sg",
-6430,kʰa-i,pull.out-cv,pull,"out, cv",cv
+6430,kʰa-i,pull_out-cv,pull_out,cv,cv
 6431,baːl-imet,look-prs.3pl,look,"prs, 3pl",
 6432,bib-ua,happen-pst.3m.sg,happen,"pst, 3m, sg",
 6433,kʰai-met,dig-prs.3pl,dig,"prs, 3pl",
@@ -6549,7 +6549,7 @@
 6547,ʨala-maːn,run-prs.3sg,run,"prs, 3sg",
 6548,ba-maːn,can-prs.3sg,can,"prs, 3sg",
 6549,ʥa-maːn,say-prs.3sg,say,"prs, 3sg",
-6550,niʂa-maːn,sit.caus-prs.3sg,sit,"caus, prs, 3sg",
+6550,niʂa-maːn,sit_caus-prs.3sg,sit_caus,"prs, 3sg",
 6551,niʂ-aːn,sit,sit,,
 6552,ʨala-met,run-prs.3pl,run,"prs, 3pl",
 6553,ke,do.cv,do,cv,cv
@@ -6642,17 +6642,17 @@
 6640,muʂ-i,play-cv,play,cv,cv
 6641,baːl-a,look-imp.sg,look,"imp, sg",
 6642,ɬi-ton,give-prf.3pl,give,"prf, 3pl",
-6643,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
+6643,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
 6644,bal-a,look-imp.sg,look,"imp, sg",
 6645,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6646,gaː-i,carry-cv,carry,cv,cv
 6647,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 6648,ɬi-met,give-prs.3pl,give,"prs, 3pl",
-6649,ʂaʦ-imet,get.injured-prs.3pl,get,"injured, prs, 3pl",
+6649,ʂaʦ-imet,get_injured-prs.3pl,get_injured,"prs, 3pl",
 6650,kʰuda-mek,ask-prs.1pl,ask,"prs, 1pl",
 6651,muʂ-imet,play-prs.3pl,play,"prs, 3pl",
 6652,ʥabaten,say.imp-please,say,"imp, please",
-6653,ʂaʦ-ua-a,get.injured-pst.3m.sg,get,"injured, pst, 3m, sg",
+6653,ʂaʦ-ua-a,get_injured-pst.3m.sg,get_injured,"pst, 3m, sg",
 6654,ker-us-aː,do-pst.3sg,do,"pst, 3sg",
 6655,ʥa-met,say-prs.3pl,say,"prs, 3pl",
 6656,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -6662,7 +6662,7 @@
 6660,tala-i,put-cv,put,cv,cv
 6661,ʈopala-i,collect-cv,collect,cv,cv
 6662,tala-i,put-cv,put,cv,cv
-6663,rat ke-mek,do.take.away-prs.1pl,do,"take, away, prs, 1pl",
+6663,rat ke-mek,do.take_away-prs.1pl,do,"take_away, prs, 1pl",
 6664,ɬi-mek,give-prs.1pl,give,"prs, 1pl",
 6665,ʐupa-i,make-cv,make,cv,cv
 6666,ʐupa-i,make-cv,make,cv,cv
@@ -6687,24 +6687,24 @@
 6685,ke,do.cv,do,cv,cv
 6686,ɬi-maːniu,give-prs.2pl,give,"prs, 2pl",
 6687,ʂaʦa-met,injure-prs.3pl,injure,"prs, 3pl",
-6688,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
+6688,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
 6689,ɬi-met,give-prs.3pl,give,"prs, 3pl",
 6690,ɬi-met,give-prs.3pl,give,"prs, 3pl",
-6691,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
+6691,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
 6692,niɕ-imet,sit-prs.3pl,sit,"prs, 3pl",
 6693,muʂ-imaːniu,play-prs.2pl,play,"prs, 2pl",
 6694,nahnet-aː,no.3pl-q,no,"3pl, q",
 6695,bi-met,be-prs.3pl,be,"prs, 3pl",
-6696,ʂaʦ-imet-aː,get.injured-prs.3pl-q,get,"injured, prs, 3pl, q",
-6697,ʂaʦ-imet,get.injured-prs.3pl,get,"injured, prs, 3pl",
+6696,ʂaʦ-imet-aː,get_injured-prs.3pl-q,get_injured,"prs, 3pl, q",
+6697,ʂaʦ-imet,get_injured-prs.3pl,get_injured,"prs, 3pl",
 6698,bi-met,be-prs.3pl,be,"prs, 3pl",
-6699,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
+6699,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
 6700,niɕ-imaːn,sit,sit,,
 6701,niʂ-imaːn-aː,sit-prs.3sg,sit,"prs, 3sg",
 6702,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
 6703,ɬi-daːus,give-dist.pst.3sg,give,"dist, pst, 3sg",
-6704,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
-6705,uʂʈ-imaːn,get.up-prs.3sg,get,"up, prs, 3sg",
+6704,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
+6705,uʂʈ-imaːn,get_up-prs.3sg,get_up,"prs, 3sg",
 6706,niɕ-imaːn,sit-prs.3sg,sit,"prs, 3sg",
 6707,niʂ-ua,sit-pst.3m.sg,sit,"pst, 3m, sg",
 6708,niʂ-imaːn,sit-prs.3sg,sit,"prs, 3sg",
@@ -6712,9 +6712,9 @@
 6710,muʂ-imaːniu,play-prs.2pl,play,"prs, 2pl",
 6711,muɕ-imek,play-prs.1pl,play,"prs, 1pl",
 6712,muɕ-imek,play-prs.1pl,play,"prs, 1pl",
-6713,kʰasar-imaːniu,get.tired-prs.2pl,get,"tired, prs, 2pl",
-6714,kʰasar-ik,get.tired-vn,get,"tired, vn",vn
-6715,kʰasar-ik,get.tired-vn,get,"tired, vn",vn
+6713,kʰasar-imaːniu,get_tired-prs.2pl,get_tired,"prs, 2pl",
+6714,kʰasar-ik,get_tired-vn,get_tired,vn,vn
+6715,kʰasar-ik,get_tired-vn,get_tired,vn,vn
 6716,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 6717,kʰasara-maːn,tire-prs.3sg,tire,"prs, 3sg",
 6718,ɬap-ik,run-vn,run,vn,vn
@@ -6777,8 +6777,8 @@
 6775,genʈ-on,win-pst.3pl,win,"pst, 3pl",
 6776,ke-met,do-prs.3pl,do,"prs, 3pl",
 6777,ke,do.cv,do,cv,cv
-6778,kaɽa-met,suffer.caus(?)-prs.3pl,suffer,"caus(?), prs, 3pl",
-6779,kaɽa-ik-e,suffer.caus(?)-vn-erg/ins,suffer,"caus(?), vn, erg/ins",vn
+6778,kaɽa-met,suffer_caus(?)-prs.3pl,suffer_caus(?),"prs, 3pl",
+6779,kaɽa-ik-e,suffer_caus(?)-vn-erg/ins,suffer_caus(?),"vn, erg/ins",vn
 6780,muʂ-imaːniu,play-prs.2pl,play,"prs, 2pl",
 6781,muɕ-imek,play-prs.1pl,play,"prs, 1pl",
 6782,ke-met-aː,do-prs.3pl,do,"prs, 3pl",
@@ -6806,9 +6806,9 @@
 6804,bi-met,be-prs.3pl,be,"prs, 3pl",
 6805,bi-met,be-prs.3pl,be,"prs, 3pl",
 6806,bi-met,be-prs.3pl,be,"prs, 3pl",
-6807,ʂaʦ-imet-aː,get.injured-prs.3pl,get,"injured, prs, 3pl",
-6808,ʂaʦ-imet,get.injured-prs.3pl,get,"injured, prs, 3pl",
-6809,nes-maːn,come.out-prs.3sg,come,"out, prs, 3sg",
+6807,ʂaʦ-imet-aː,get_injured-prs.3pl,get_injured,"prs, 3pl",
+6808,ʂaʦ-imet,get_injured-prs.3pl,get_injured,"prs, 3pl",
+6809,nes-maːn,come_out-prs.3sg,come_out,"prs, 3sg",
 6810,muʂ-imaːniu,play-prs.2pl,play,"prs, 2pl",
 6811,bui,be.pst.3f.sg,be,"pst, 3f, sg",
 6812,muɕ-imek,play-prs.1pl,play,"prs, 1pl",
@@ -6847,17 +6847,17 @@
 6845,ɬi-met,give-prs.3pl,give,"prs, 3pl",
 6846,ke-jetiu,do,do,,
 6847,ʥa-i,say-cv,say,cv,cv
-6848,kaɽa-met,suffer.caus(?)-prs.3pl,suffer,"caus(?), prs, 3pl",
+6848,kaɽa-met,suffer_caus(?)-prs.3pl,suffer_caus(?),"prs, 3pl",
 6849,niɕ-imet,sit-prs.3pl,sit,"prs, 3pl",
 6850,niɕ-imet,sit-prs.3pl,sit,"prs, 3pl",
 6851,muɕ-imet,play-prs.3pl,play,"prs, 3pl",
-6852,baŋgar-imet,be.afraid-prs.3pl,be,"afraid, prs, 3pl",
-6853,baŋgar-imet,be.afraid-prs.3pl,be,"afraid, prs, 3pl",
-6854,baŋgar-imet,be.afraid-prs.3pl,be,"afraid, prs, 3pl",
+6852,baŋgar-imet,be_afraid-prs.3pl,be_afraid,"prs, 3pl",
+6853,baŋgar-imet,be_afraid-prs.3pl,be_afraid,"prs, 3pl",
+6854,baŋgar-imet,be_afraid-prs.3pl,be_afraid,"prs, 3pl",
 6855,di,go.cv,go,cv,cv
-6856,ʂaʦ-iba,get.injured-fut.3sg,get,"injured, fut, 3sg",
-6857,ʂaʦ-iba,get.injured-fut.3sg,get,"injured, fut, 3sg",
-6858,nes-iba,come.out-fut.3sg,come,"out, fut, 3sg",
+6856,ʂaʦ-iba,get_injured-fut.3sg,get_injured,"fut, 3sg",
+6857,ʂaʦ-iba,get_injured-fut.3sg,get_injured,"fut, 3sg",
+6858,nes-iba,come_out-fut.3sg,come_out,"fut, 3sg",
 6859,ɬi-met,give-prs.3pl,give,"prs, 3pl",
 6860,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 6861,ʥaː,say.imp,say,imp,
@@ -6965,7 +6965,7 @@
 6963,tʰanet,be.prs.3pl,be,"prs, 3pl",
 6964,ke-ik-ãː,do-vn-dat,do,"vn, dat",vn
 6965,di-met,go-prs.3pl,go,"prs, 3pl",
-6966,nes-isan,come.out-ptcp.pf,come,"out, ptcp, pf",
+6966,nes-isan,come_out-ptcp.pf,come_out,"ptcp, pf",
 6967,tʰi-met,be-prs.3pl,be,"prs, 3pl",
 6968,tʰi-maːn-i,be-ptcp.ipf,be,"ptcp, ipf",
 6969,tʰi-met,be-prs.3pl,be,"prs, 3pl",
@@ -7029,13 +7029,13 @@
 7027,bo,be.pst.2pl,be,"pst, 2pl",
 7028,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 7029,aːn-u,bring-pst.2sg,bring,"pst, 2sg",
-7030,kʰaː-imet,pull.out-prs.3pl,pull,"out, prs, 3pl",
-7031,kʰaː-imet-aː,pull.out-prs.3pl,pull,"out, prs, 3pl",
+7030,kʰaː-imet,pull_out-prs.3pl,pull_out,"prs, 3pl",
+7031,kʰaː-imet-aː,pull_out-prs.3pl,pull_out,"prs, 3pl",
 7032,baːti ke-wa,do.discuss-imp.pl,do,"discuss, imp, pl",
-7033,kʰaː-imet,pull.out-prs.3pl,pull,"out, prs, 3pl",
-7034,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+7033,kʰaː-imet,pull_out-prs.3pl,pull_out,"prs, 3pl",
+7034,kʰaː-i,pull_out-cv,pull_out,cv,cv
 7035,ker-imet,do-prs.3pl,do,"prs, 3pl",
-7036,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+7036,kʰaː-i,pull_out-cv,pull_out,cv,cv
 7037,tʰo-imet,put-prs.3pl,put,"prs, 3pl",
 7038,ke,do.cv,do,cv,cv
 7039,aːn-i,bring-cv,bring,cv,cv
@@ -7164,7 +7164,7 @@
 7162,ʥa-met,say-prs.3pl,say,"prs, 3pl",
 7163,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 7164,bui,be.pst.3f.sg,be,"pst, 3f, sg",
-7165,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+7165,kʰaː-i,pull_out-cv,pull_out,cv,cv
 7166,parz-os-aː,understand-pst.2sg-q,understand,"pst, 2sg, q",
 7167,ke-i,do-cv,do,cv,cv
 7168,ke-met,do-prs.3pl,do,"prs, 3pl",
@@ -7188,7 +7188,7 @@
 7186,tʰi-maːn,be-prs.3sg,be,"prs, 3sg",
 7187,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 7188,ke-ik-a,do-vn-obl,do,"vn, obl",vn
-7189,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+7189,kʰaː-i,pull_out-cv,pull_out,cv,cv
 7190,tala-at,put-pst.3pl,put,"pst, 3pl",
 7191,baːl-a,look-imp.sg,look,"imp, sg",
 7192,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -7234,7 +7234,7 @@
 7232,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 7233,parz-us-aː,understand-pst.3sg-q,understand,"pst, 3sg, q",
 7234,bi,be.cv,be,cv,cv
-7235,kʰaːj-i,pull.out-cv,pull,"out, cv",cv
+7235,kʰaːj-i,pull_out-cv,pull_out,cv,cv
 7236,ʥi-maːn,come-prs.3sg,come,"prs, 3sg",
 7237,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 7238,ke-met,do-prs.3pl,do,"prs, 3pl",
@@ -7263,7 +7263,7 @@
 7261,tala-met,put-prs.3pl,put,"prs, 3pl",
 7262,tala-i,put-cv,put,cv,cv
 7263,parz-us-aː,understand-pst.3sg-q,understand,"pst, 3sg, q",
-7264,kʰaː-i,pull.out-cv,pull,"out, cv",cv
+7264,kʰaː-i,pull_out-cv,pull_out,cv,cv
 7265,ke-met,do-prs.3pl,do,"prs, 3pl",
 7266,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 7267,ke-met,do-prs.3pl,do,"prs, 3pl",
@@ -7323,19 +7323,19 @@
 7321,ʥaː,say.imp,say,imp,
 7322,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 7323,uʂʈa-met,sow-prs.3pl,sow,"prs, 3pl",
-7324,kʰaː-imet,pull.out-prs.3pl,pull,"out, prs, 3pl",
+7324,kʰaː-imet,pull_out-prs.3pl,pull_out,"prs, 3pl",
 7325,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
 7326,uʂʈa-mek,sow-prs.1pl,sow,"prs, 1pl",
 7327,uʂʈa-uwa,sow,sow,,
 7328,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
-7329,kʰaː-waːn,pull.out,pull,out,
+7329,kʰaː-waːn,pull_out,pull_out,,
 7330,di-maːn,go-prs.3sg,go,"prs, 3sg",
 7331,leɬ-a,harvest-obl,harvest,obl,
-7332,kʰaː-ika,pull.out-fut.1pl,pull,"out, fut, 1pl",
+7332,kʰaː-ika,pull_out-fut.1pl,pull_out,"fut, 1pl",
 7333,uʂʈa-ua,sow,sow,,
 7334,aːj-i,come-cv,come,cv,cv
 7335,gomleɬ-a,wheat-harvest-obl,wheat,"harvest, obl",
-7336,kʰaː-waːn,pull.out,pull,out,
+7336,kʰaː-waːn,pull_out,pull_out,,
 7337,di-maːn,go-prs.3sg,go,"prs, 3sg",
 7338,parz-os-aː,understand-pst.2sg-q,understand,"pst, 2sg, q",
 7339,tʰana,be.prs.3m.sg,be,"prs, 3m, sg",
@@ -7429,9 +7429,9 @@
 7427,uʂʈa-wu,sow-pst.2sg,sow,"pst, 2sg",
 7428,leɬ-a,harvest-obl,harvest,obl,
 7429,tʰini,be.prs.3f.sg,be,"prs, 3f, sg",
-7430,kʰaː-jesa,pull.out-fut.2sg,pull,"out, fut, 2sg",
+7430,kʰaː-jesa,pull_out-fut.2sg,pull_out,"fut, 2sg",
 7431,leɬ-a,harvest-obl,harvest,obl,
-7432,kʰaː-jesa,pull.out-fut.2sg,pull,"out, fut, 2sg",
+7432,kʰaː-jesa,pull_out-fut.2sg,pull_out,"fut, 2sg",
 7433,bi-tini,be-prf.3f.sg,be,"prf, 3f, sg",
 7434,ke-met,do-prs.3pl,do,"prs, 3pl",
 7435,go-met,take-prs.3pl,take,"prs, 3pl",
@@ -7442,7 +7442,7 @@
 7440,gaː-i,carry-cv,carry,cv,cv
 7441,gaː-ji,carry-cv,carry,cv,cv
 7442,bikin-imek,sell-prs.1pl,sell,"prs, 1pl",
-7443,ʂuka-mek,dry.caus-prs.1pl,dry,"caus, prs, 1pl",
+7443,ʂuka-mek,dry_caus-prs.1pl,dry_caus,"prs, 1pl",
 7444,ke-mek,do-prs.1pl,do,"prs, 1pl",
 7445,uʂʈa-mek,sow-prs.1pl,sow,"prs, 1pl",
 7446,gaː-ji,carry-cv,carry,cv,cv
@@ -7910,7 +7910,7 @@
 7908,ke-jiau,do,do,,
 7909,ʐupa-ijau,make-opt,make,opt,
 7910,tʰanek,be.prs.1pl,be,"prs, 1pl",
-7911,kʰaː-itok,pull.out-prf.1pl,pull,"out, prf, 1pl",
+7911,kʰaː-itok,pull_out-prf.1pl,pull_out,"prf, 1pl",
 7912,ke-mek,do-prs.1pl,do,"prs, 1pl",
 7913,ke-us,do-pst.3sg,do,"pst, 3sg",
 7914,bi-ba,be-fut.3sg,be,"fut, 3sg",
@@ -7988,9 +7988,9 @@
 7986,istimaːl ke-met,do.use-prs.3pl,do,"use, prs, 3pl",
 7987,bi-maːn,be-prs.3sg,be,"prs, 3sg",
 7988,bi-met,be-prs.3pl,be,"prs, 3pl",
-7989,ʂaʦ-aːwa,get.injured,get,injured,
+7989,ʂaʦ-aːwa,get_injured,get_injured,,
 7990,tʰi-maːn,be-prs.3sg,be,"prs, 3sg",
-7991,ʂaʦ-ui,get.injured-pst.3f.sg,get,"injured, pst, 3f, sg",
+7991,ʂaʦ-ui,get_injured-pst.3f.sg,get_injured,"pst, 3f, sg",
 7992,foʈ-ua,break-pst.3m.sg,break,"pst, 3m, sg",
 7993,baːl-a,look-imp.sg,look,"imp, sg",
 7994,naŋga-i,throw-cv,throw,cv,cv
