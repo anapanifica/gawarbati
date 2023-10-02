@@ -40,6 +40,7 @@ def get_all_verbs_from_flextext (corpus_file):
                     morph_text = morph_text.replace(".out", "_out")
                     morph_text = morph_text.replace(".sth", "_sth")
                     morph_text = morph_text.replace(".the.night", "_the_night")
+                    morph_text = morph_text.replace(".the.river", "_the_river")
                     morph_text = morph_text.replace(".tired", "_tired")
                     morph_text = morph_text.replace(".up", "_up")
 

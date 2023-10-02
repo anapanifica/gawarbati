@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-09-30T02:37:19+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/Gawarbati/gawarbati_github/Q4 text data 2/20220706-MeraKhantellingFolkTale.WAV" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20220706-MeraKhantellingFolkTale.WAV"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:18f81d5f-26cd-4577-8353-0bf20ede0bd7</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">714</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="377"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2444"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="10980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="13018"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="13315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="14305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="15117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="17178"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="17338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="20098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="20547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="24522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="28994"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="30414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="33730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="34334"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="36494"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="37414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="43117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="44061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="45796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="46617"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="47579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="48735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="51117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="51386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="52603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="53254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="54254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="55541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="60390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="61217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="65637"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="65678"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="68409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="68475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="71862"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="72622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="78655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="79442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="83225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="84103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="85948"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="86640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="89612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="90339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="92047"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="92720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="98112"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="99089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="100202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="101178"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="103966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="105390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="108730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="111041"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="115150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="117745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="120348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="121862"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="123395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="123428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="126565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="126631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="129456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="130589"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="131858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="132678"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="135471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="136428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="137872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="138867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="140915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="141731"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="143670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="144569"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="150975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="151909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="157032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="157777"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="160626"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="161518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="162523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="162556"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="167641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="167702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="170339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="170362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="174904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="175551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="177919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="178693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="182155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="183070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="186603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="186631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="189221"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="190074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="195735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="197995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="200268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="201537"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="204924"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="205513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="208862"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="209976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="213664"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="214334"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="217320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="217961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="221041"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="221089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="224235"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="225211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="231188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="231834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="234579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="235136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="238301"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="239267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="240711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="240942"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="244263"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="244333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="250192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="251178"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="254527"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="255522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="258046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="258966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="264555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="265532"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="267476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="267720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="271145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="272329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="276579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="277339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="281254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="281400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="284117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="284919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="286273"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="286578"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="290797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="291254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="294532"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="295192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="297626"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="298725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="303046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="303744"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="306518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="308174"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="309069"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="310240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="315726"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="316966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="322207"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="323135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="327117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="327962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="331509"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="332546"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="335829"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="335933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="339636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="340329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="344306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="345122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="346325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="347937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="351787"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Mera" TIER_ID="Mera-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>bas baːti woi tʰini ʨi jak faːʈʂaː buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>faːʈʂa buwa faːʈʂãː ki ja zaːŋgale </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>gila ɬɪtus , noʈas ɬitus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ʨi ãː tona laːmana haaaar ɕaːma jak banda ʐumaːntima</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>tasana baːd giri toli</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>baːti woi tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>faːʈʂaː ʥu asa taːin keus </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>taːin keusãː ki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>se faːʈʂaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>toli ɕuro buwa , ɕuro buwa tasana zuisana ɕuro buwa , ta ʐunus giri se el nesui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ʥiː giri waːri bandaːna ʈʰaːn ga </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>lambar lambari tasani bi gaːi ʐunus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>giri toli ʥi se el nesui , giri ɕaːm bui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>giri toli waːri laːm ga , waːri zanana ʈʰaːn ga giri tasana bi ʐunus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ʥu ɕeeeeeeeki woi salasala ʨalimeni rawaːn buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>rawaːn buwãː ki baːti woi tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>giri toli jak lambar aːji </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ja ɣarib maːnuʂani lambar aːji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>lambar aːjiãː ki toli tin ʈema ɕaːm buiãː ki . ki waːʂ naŋgua</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>waːʂana baːd</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>toli ten maːnuʂe ʥaus tasa maisãː ʥaus ʨi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>au tu baːti woi tʰini ʨi gila kera ʥaus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>tasa wagila kera ʥaus ãː ki aːu baːti woi tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>woi waːʂ naŋgua nori te waːʂa ki rau kejika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>au te nori aːnʦoi ɬiba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>aːnʦoiana baːd toli beraːnti zaːŋgal aːja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>ʦʰad kemen \i aːjaː̃ː ki ʦʰad ʦus bui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>ʦus buiãː ki toli</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>ta maisãː ʥaus ʨi zaːŋgal ta ʥijau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>woi aːnʦoi na ɬijau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>aːnʦoi na ɬijau ʥausãː ki toli</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>se zaːŋgal beraːnti ʂunɖuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>ʂunɖuwa xudaːjaː woi ʂila baːti tʰini woi zaːŋgal . woi aːnʦoi na ʥijau zaːŋgal ʥijau ʥaus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>tasa zaːŋgal patagran ʈuɣ bi niʂuwa , niʂuwãː ki waːʂ naŋgitanãː ki </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>toli se ʦaʦobai ta na aːja se waːʂ se ʈipi </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>beraːnt nesuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>beraːnt nesuwa woi zaːŋgal kine ʥiba au nori ɕiki nai ama ʐuiba nori ki rau kijka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>beraːnt nesima kine ja gadaː baːlema jaː ki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>ʥo asa saːmaːna talai au kaɖaː goi tena nesana biba </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>woi beraːnt nesuwãː ki ʈupa buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>baːlimaːnãː ki au ja ɕai tʰana , ɕai tʰi na taiki au tasa toli</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>kʰeuɽi goi zanzir genʈi au ta gilaː genʈus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>te enbaki muʈʰa paːtoi genʈus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>genʈusãː ki toli saːmaːn maːmaːna tajaːr keusãː keusãː keusãː haːlaːta baːlusãː ki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>pal ʂai baːlusãː se zaːŋgal buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>zaːŋgal buwãː ʥaus , tapa tapa patagran aːja se maːnuʂ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>e naːɽaːni ɕaes se ta zaːŋgal genʈaːn ditana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>auuu ʥaus woi ta  woi laː ki rau tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>ʥu tasa zaːŋgal genʈaːn dibuwa ʥu se el nwsui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>zaːŋgal ʈuuuɣ bi muʈʰa paːtoi wuʈ bisan tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>roʦ bui roʦ buiãː ki toli</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>ʥimet ja laːmaːna ʥimet waːri ʥimet ʨi sa maːnuʂani zuwa ʐuitita ʥai hawaːl nijaː nori amani lambar ʥimaːn </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>se lambar nori ɕila ʥimaːn ʨi nori asana ʐunus ba ʥu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>faːʈʂãː ki itlaː ɬɪmet ʨi tasa flaːniani zuwa ʐunus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>nambar aːjiãː ki ʥawon ʨi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>ɬapiiii jak ʥi waːri ʥi ja ʥi waːri ʥi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>ɬapi faːʈʂãː ki balaː di waːxlam ,tona ta gila , mui zaːŋgal genʈum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>ite ɖal qatli aːm bui au gila ke haː haː haː haː haː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>faːʈʂae ʥaus ãː jakena bi na manimem ʥaus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>jakiani baːti , se kark maːnuʂani lambar ʨi bui tasa pena kʰud pakaːr tʰini tasa koʦus  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>tasa koʦusãː ki faːʈʂaː e </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>ʥaus balaː di waːxlam woi ki rau buwa ʥaus , woi zaːŋgal karken genʈiton</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>zaːŋgal xo ɕila rau buwa , waːʂ naŋguwa , waːʂ naŋgi bãi bãia ratai bok </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>ʥu asa moni maɕiãː ʥaum ʨi woi zaːŋgal nori ʥiba au </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>ʈipi na ʥijau woi zaːŋgal ta ʥijau woi ʈipi na ʥijau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>zaːŋgal ʥu </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>ki kaɕ kaɕ buiãː ki ʂunɖi se zaːŋgal ʈʰaːna wuʈ bisan buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>ãː bãi ɬi nesom nori kine gadaː baːli kine taːnu kʰur kʰaːika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>saːmaːna genʈi beraːnt nesomãː ki ʈupa buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>ta zanzire kʰeuɽie genʈi au muʈʰa genʈum mui ʥaum asa saːmaːna saraika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>saraika au dika ʥai baːlimekãː au roʦ buiãː ki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>zaːngal buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>zaːŋgal buwãː ki ʥaus aːːː zindabad zindabaːd ʥaus woi ta tuĩ ɖal rikaːʈ kejtu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>tasa toli tasa karik wazir ʨi buwa tasa wazira kʰaːus asa wazir wuʈaus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>ʥu tasa zaːŋgala gaːji ista maːron</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>tasa ʨaːrmaːri kewon , tassa maːnuʂa waɽai mi ʨaːrmaːri keus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>au se zaːŋgal ʥu miruwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>tasa taːnu wazaːrata ratai tine niʂaus faːʈʂaːe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>laka ja wazir buwa naː kaarikani ki piɕiŋguji bui ba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>se toli ʥawaːb ɬi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>au baːti woi tʰini bas woi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Mera-txt-gwt-fonipa-x-emic" PARTICIPANT="Mera" TIER_ID="Mera_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Once upon a time there was a king.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>This king was by lione</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Informed </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>That I will eat one person from your village every day.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>after that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>It happened like that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>The king appointed his subordinate for lion's food</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>convinced the people.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>He is a king.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>The lion started eating the people one by one every night.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>The lion would go from one place to another</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Was eating one after other.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>One night would pass, another evening would come</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Thus the series continued day after day</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>The series continued like this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>So actually it was this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Then came the turn of a person</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>the turn of a poor man came</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>It was raning that evening.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>during raining</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>That poor man told her wife</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Told his wife to do it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Got some work advice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Do this while it is raining</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Now it will leak the roof</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Meanwhile, the lion also came out and stood up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>The lion came roaring and stopped</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>When the sound of the tiger stopped</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>The man inside said to his wife that the lion should come but</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>This roof does not drip</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>When the man said that the roof should not drip</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>The lion standing outside heard this man's words</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Outside, the lion began to think in his heart, "Oh God, what has happened? The man is saying that the lion should come, but the roof should not leak."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>After hearing this, the lion became worried and lost courage</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>It is raining continuously</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>the man came outside</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>Thinking that, don't let the lion come and eat us</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Also for the purpose of finding a donkey</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>And the goods should be loaded and left here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>When the man came out, it was pitch dark</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>The man collided with the tiger in the dark</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>And the man tied it to the tree with a rope</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Tied to the tree</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>Went inside and started packing things etc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>When the lamp was lit, it was not a donkey but a lion</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Seeing the lion, the man immediately entered the house again</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>He told his wife that I have tied the tiger with a rope thinking it was a donkey</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>And said what is going on</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>The lion was tied and the night passed</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>The tiger is cowering under the tree</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>When morning came</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a328" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Now people from around started coming to ask about the well-being of the poor man's daughter because it was the poor man's daughter's turn to be eaten at night.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Then after that someone else's turn had to be found out</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>People also had to report to the king</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Everyone had a turn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>People were running around</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Everyone started telling the king that I caught such and such a tiger. Everyone started telling lies</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Because this lion had committed a massacre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>The king rejected everyone and said that he would not listen to anyone without an argument</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>The king also said that he would listen to the person whose turn it was at night</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>He was called by the king</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>The king asked the man who caught and tied the lion.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>The man said that as it was raining heavily, we were also scared</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>I said to my wife that the lion will come now</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>Then I said let the lion come but don't let the roof drip</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>then the lione</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>The lions heard this leaking roof and lost their originality thinking that this thing is more dangerous than me whom they fear.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>And I was going out to find some donkey to migrate to escape these two troubles</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>It was dark when he packed his things and went out</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>I went and collided with the lion and tied him thinking he wa  a donkey</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>When we saw it, it was a tiger</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>It was indeed a lion</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>The king heard these words and said that you have done a great job</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>The king also gave ministry to the poor man</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>The line was brought to its end.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>They all killed the tiger together</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>lion died</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>The king appointed the man as a minister</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>He held a ministry</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>He was responsible</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>That was just the story</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Mera-txt-gwt-fonipa-x-emic" PARTICIPANT="Mera" TIER_ID="Mera_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ایک دفعہ کا ذکر ہے کہ ایک بادشاہ تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>اس بادشاہ کو ایک شیر نے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>خبر دار کیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>کہ آپ کے گاؤں سے روزانہ ایک بندہ کھاونگا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>اس کے بعد پھر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>ہوا یوں کہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>بادشاہ نے اپنے رعایا کو شیر کی خوراک کے لئے تعین کیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>لوگوں کو امادہ کیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>وہ بادشاہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>شیر نے ہر رات ایک ایک کر کے بندوں کو کھانا شروع کیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>شیر ایک جگہ سے دوسری جگہ جاتا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>ایک کے بعد دیگر کو کھاتا رہا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ایک رات گزر جاتی تو دوسری شام آ جاتی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>اسطرح یہ سلسلہ دن بہ دن جاری رہا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>یہ سلسلہ اس طرح چلتا رہا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>تو دراصل بات یہ رہی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>پھر ایک بندے  کی باری آئی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ایک غریب بندے کی باری آ گئی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>اس شام بارش ہو رہی تھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>دوران بارش </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>اس غریب شخص نے اپنی بیوی کو بتایا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>بیوی کو بتایا کہ آپ ایسا کریں کہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>کسی کام کا مشورہ لیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>بارش برس رہی ہے اس میں ایسا کرو کہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>اب اس سے چھت ٹپکے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>اس دوران شیر بھی باہر آ کر کھڑا ہوا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>شیر دھاڑتا ہوا آیا اور رک گیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>جب شیر کی آنے کی آواز رک گئی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>اندر آدمی نے اپنی بیوی سے کہا کہ شیر تو آ  جائے لیکن </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>یہ چھت نہ ٹپکے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>جب آدمی نے کہا کہ چھت نہ ٹپکے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>آدمی کی یہ بات باہر کھڑے شیر نے سن لی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>باہر شیر دل ہی دل میں سوچنے لگا کہ یا خدایا یہ کیا بات ہوئی آدمی کہہ رہا ہے کہ شیر آ جائے لیکن چھت نہ ٹپکے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>یہ بات سن کر شیر پریشان ہمت ہار بیٹھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>بارش مسلسل برس رہی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>آدمی باہر نکلا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>یہ سوچتے ہوئے کہی شیر آ کر بھی ہمیں نہ کھائے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>اس غرض سے بھی کہ کہی گدھا ملے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>اور سامان لاد کر یہاں نکلا جائے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>آدمی باہر نکلا تو سخت اندھیرا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>آدمی اندھیرے میں شیر سے ٹکرایا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>اور آدمی نے رسی سے درخت کے ساتھ باندھ لیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>درخت کے ساتھ باندھ لیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>اندر جا کر سامان وغیرہ باندھنا شروع کیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>جب چراغ جلایا تو وہ گدھا نہیں بلکہ شیر تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>شیر کو دیکھ کر آدمی ایک دم سے دوبارہ گھر میں داخل ہوا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>اپنی بیوی کو بتایا کہ یہ تو میں نے گدھا سمجھ کر شیر کو رسی سے باندھا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>اور کہا کہ یہ کیا ہو رہا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>شیر باندھا ہوا تھا اور رات گزر گئی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>شیر ڈرا ہوا درخت کے نیچے باندھ کھڑا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>جب صبح ہوئی تو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>اب آس پاس سے لوگ غریب آدمی کی بچی کی خیریت پوچھنے آنا شروع ہوئے  کیونکہ رات کو غریب کی بیٹی کی کھانے کی باری تھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>پھر اس کے بعد کسی اور کی باری بھی تو معلوم کرنا ہوتا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>بادشاہ کو بھی لوگوں نے رپورٹ کرنا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>ہر کسی کی باری ہوتی تھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>دوڑتے ہوئے لوگ ادھر ادھر جاتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>ہر کوئی بادشاہ کو بتانے لگا کہ فلاں شیر کو میں پکڑا ہر کوئی جھوٹ بولنے لگا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>کیونکہ اس شیر نے قتل عام کیا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>بادشاہ نے سب کو رد کیا اور کہا کہ بغیر دلیل کے کسی کا بھی نہیں سنو گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>بادشاہ یہ بھی کہا کہ جس کی رات کو باری تھی اس کی بات سنوں گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>اس کو بادشاہ نے بلایا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>بادشاہ نے آدمی سے پوچھا کہ شیر کس نے پکڑ کر باندھا ؟</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>آدمی نے کہا ہوا یوں کہ سخت بارش تھی ہم بھی ڈرے ہوئے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>میں نے اپنی بیگم سے کہا کہ اب شیر بھی آئے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>پھر میں نے کہا شیر آ جائے لیکن چھت نہ ٹپکے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>تو شیر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>یہ چھت ٹپکنے کے بات شیرنے  سنی اور یہ سوچتے ہوئے اپنی اصلیت کھو بیٹھا کہ یہ چیز تو مجھ سے بھی خطرناک ہے جس سے یہ ڈرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>اور میں باہر نکل رہا تھا کہی گدھا ڈھونڈنے تاکہ ان دونوں مصیبتوں سے جان چھوڑانے  کے لئے ہجرت کرنے کو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>سامان باندھ کر باہر نکلا تو اندھیرا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>جاکر شیر سے میں ٹکرا گیا اور گدھا سمجھ کر باندھ لیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>جب ہم نے دیکھا تو وہ شیر تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>واقعی میں شیر تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>بادشاہ نے یہ باتیں سن کر کہا کہ آپ نے تو کمال کیا ہے شاباش کہا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>بادشاہ نے غریب آدمی کو وزارت بھی دی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>شیر کو کیفر کردار تک پہنچایا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>سب  نے شیر کو مل کر مارا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>شیر مر گیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>بادشاہ نے آدمی کو وزارت کا عہدہ سونپا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>وہ ایک وزارت پر فائز ہوا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>وہ جوابدہ تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>بس یہ کہانی تھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Mera-txt-gwt-fonipa-x-emic" PARTICIPANT="Mera" TIER_ID="Mera-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>بس باتی وئ تِھنی چی یک فاڄا بُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>فاڄا بُوہ فاڄاں کی یہ زانگل یے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>گِلہ ݪِتُوس ، نوٹس ݪِتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>چی آں تونہ لامنہ ہر شامَ یک بندہ    ݫُومانتِمہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>تسنہ بعد گِری تولی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>باتی وئ تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>فاڄا جو اسہ تعین کیوُس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>تعین کیوساں کی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>سے فاڄا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>تولی شروع بُوہ ، شروع بُوہ تسنہ زُوئسنہ شروع بُوہ ، تہ ݫُونوس گِری سے ایل نیسُوئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>جی گِری واری بندانہ ٹھان گہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>لمبر لمبر یے تسنی بھی گایی ݫُونوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>گِری تولی جی سے ایل نیسُوئ ، گِری شام بُوئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>گِری تولی واری لام گہ ، واری زننہ ٹھان گہ گِری تسنہ بھی ݫُونوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>جو شییییکی وئ سلسِلہ چلِمینے روان بُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>روان بُواں کی باتی وئ تِھنی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>گِری تولی یک لمبر آیی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>یہ غریب مانوݭنی لمبر آیی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>لمبر آئیاں کی تولی تین ٹیمَ شام بُوئیاں کی ، کی واݭ ننگُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>واݭنہ بعد</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>تولی تین مانُوݭ یے جوُس تسہ مئساں جوُس چی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>او تُو باتی وئ تِھنی چی گِلہ کیرہ جوُس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>تسہ وگِلہ کیرہ جوُساں کی او باتی وئ تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>وئ واݭ ننگُوہ نوری تے واݭَ کی رو کییِکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>او تے نوری آنڅوئ ݪِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>آنڅوئینہ بعد تولی بیرانتی زانگل آیہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>څھد کیمین آیاں کی څھد څُوس بُوئ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>څُوس بُوئیاں کی تولی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>تہ مئیساں جوُس چی زانگل تہ جیَو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>وئ آنڅوئ نہ ݪِیو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>آنڅوئ نہ ݪِیو جوُساں کی تولی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>سے زانگل بیرانتی ݭُنڈوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>ݭنڈُوہ خُدایا وئ شِلہ باتی تِھنی وئ زانگل ، وئ آنڅوئ نہ جِیو زانگل جِیو جوُس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>تسہ زانگل پتگرن ٹُوغ بی نِݭُوہ ، نݭُواں کی واݭ ننگِتناں کی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>تولی سے څڅوبئ تہ نہ آیہ سے واݭ سے ٹِپی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>بیرانت نیسُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>بیرانت نیسُوہ وئ زانگل کِنے جِبہ او نوری شِکی نئ امہ ݫُوئبہ نوری کی رو کییِکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>بیرانت نیسِمہ کِنے یہ گدا بالیمہ یا کی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>جو اسہ سامانَ تلئ او کڈا گوئ تینہ نیسنہ بِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>وئ بیرانت نیسُواں کی ٹُوپہ بُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>بالِماناں کی او یہ شئ تھنہ ، شئ تھنہ نہ تئکی او تسہ تولی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>کھیوڑی گوئ زنزیر گینٹی او تہ گِلا گینٹُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>تے اینبکی مُٹھہ پاتوئ گینٹوس </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>گینٹوساں کی تولی سامان مامانَ تیار کیوُساں کیوُساں کیوُساں حالاتَ بالُوساں کی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>پل ݭئ بالُوساں سے زانگل بُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>زانگل بُواں جوُس ، تپہ تپہ پتگرن آیہ سے مانُوݭ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>اے ناڑانی شئیس سے تہ زانگل گینٹان دِتنہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>اووو جوُس وئ تہ وئ لا کی رو تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>جو تسہ زانگل گینٹان دِبُوہ جو سے ایل نیسُوئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>زانگل ٹوووغ بھی مُٹھ پاتوئ وُٹ بِسن تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>روڅ بُوئ روڅ بُوئیاں کی تولی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>جِمیت یہ لامنہ  جِمیت واری جِمیت چی سہ مانُوݭنی زُوئسہ ݫُوئتِتہ جئ حوال نیا نوری امنی لمبر جِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>سے لمبر نوری شِلہ جِمان چی نوری اسنہ ݫُونُوس بہ جو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>فاڄاں کی اطلاع ݪِمیت چی تسہ فلانینی زُوہ ݫُونُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>نمبر آئیاں کی جوَن</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>ݪپی ی ی یک جی واری جی یہ جی واری جی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>ݪپی فاڄاں کی بلا دی واخلم تونہ تہ گِلہ ، موئ زانگل گینٹُوم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>اتے ڈل قتل عام بُوئ او گِلہ کی ہا ہا ہا ہا ہا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>فاڄا یے جوُس آں یکینہ بھی نہ منِمیم جوُس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>یکینی باتی ، سے کرِک مانُوݭنی لمبر چی بُوئ تسہ پینہ کُھد پکار تِھنی تسہ کوڅَوُس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>تسہ کوڅَوُساں کی فاڄا یے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>جوُس بلا دی واخلم وئ کی رو بُوہ جوُس ، وئ زانگل کرکین گینٹِتون </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>زانگل خو شِلہ بُوہ ، واݭ ننگُوہ ، واݭ ننگی بئیں بئیںَ رتئ بوک </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>جو اسہ مونی مشیاں جوُم چی وئ زانگل نوری جِبہ او</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>ٹِپی نہ جِیو وئ زانگل تہ جِیو وئ ٹِپی نہ جِیو  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>زانگل جو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>کی کش کش بُوئیاں کی ݭُنڈی سے زانگل ٹھانَ وُٹ بِسن بُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>آں بئیں ݪی نیسوم نوری کِنے گدا بالی کِنے تانُو کُھر کھایکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>سامانَ گینٹی بیرانت نیسوماں کی ٹُوپہ بُوہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>تہ زنزیر یے کھیوڑی یے گینٹی او مُٹھا گینٹی موئ جوُم اسہ سامانَ سرئکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>سرئکہ او دِکہ جئ بالِمیکاں او روڅ بُوئیاں کی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>زانگل بُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>زانگل بُواں کی جوُس آآآ زندہ باد زندہ باد جوُس وئ تہ تُوئیں ڈل ریکاٹ کیتُو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>تسہ تولی تسہ کرِک وزیر چی بُوہ تسہ وزیرَ کھاوُس اسہ وزیر وٹَوُس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>جو تسہ زانگلَ گایی استہ مارون</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>تسہ چارماری کیون ، تسہ مانُوݭَ وڑئ می چارماری کیوُس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>او سے زانگل جو مِروہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>تسہ تانو وزارتَ رتئ تِنے نِݭَوُس فاڄا یے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>لکہ یہ وزیر بُوہ نا کریکنی کی پِشنگوئی بُوئ بہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>سے تولی جواب ݪی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>او باتی وئ تِھنی بس وئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="txt" TIER_ID="interlinear-text-title-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a358" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>20220706-MeraKhantellingfolkTale</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Nasir" TIER_ID="Nasir-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>aːʥ murxa saːt satamber ko</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a360" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>me nasir u llah naːsir as a ʨomuniʈi resarʨar</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a361" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ek aur kahaːni rikaːrɖ kar rahaː hun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a362" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>is silsile me</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a363" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>miraː xaːn ʨaʨaː se mulaːqaːt hui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>aur un se </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a365" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ek kahaːni rikaːrɖ kar rahaː hun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ʨaːʨaː ʥi peɕe ke lihaːz se dukaːndaːr hẽ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a448" ANNOTATION_REF="a359">
+                <ANNOTATION_VALUE>Today is 7 December</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a449" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE>I am Nasirullah Nasir, as a community researcher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a450" ANNOTATION_REF="a361">
+                <ANNOTATION_VALUE>recording an another story.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a451" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>In this regard</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a452" ANNOTATION_REF="a363">
+                <ANNOTATION_VALUE>I meet Khan Chacha [Uncle].</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a453" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>and from him</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a454" ANNOTATION_REF="a365">
+                <ANNOTATION_VALUE>recording one story.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a455" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>Uncle is a shopkeeper.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a537" ANNOTATION_REF="a359">
+                <ANNOTATION_VALUE>آج مورخہ سات ستمبر کو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a538" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE>میں نصیر اللہ ناصر ایک کمیونٹی محقق کے طور پر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a539" ANNOTATION_REF="a361">
+                <ANNOTATION_VALUE>ایک اور کہانی ریکارڈ کر رہا ہوں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a540" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>اس سلسلے میں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a541" ANNOTATION_REF="a363">
+                <ANNOTATION_VALUE>میرا خان چچا سے ملاقات ہوئی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a542" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>اور ان سے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a543" ANNOTATION_REF="a365">
+                <ANNOTATION_VALUE>ایک کہانی ریکارڈ  کر رہا ہوں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a544" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>چچا پیشے کی لحاظ سے دکاندار ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a626" ANNOTATION_REF="a359">
+                <ANNOTATION_VALUE>آج مورخہ سات ستمبر کو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a627" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE>میں نصیراللہ ناصر ایس اے کمیونٹی رسرچر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a628" ANNOTATION_REF="a361">
+                <ANNOTATION_VALUE>ایک اور کہانی ریکارڈ کر رہا ہوں</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a629" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>اس سلسلے میں</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a630" ANNOTATION_REF="a363">
+                <ANNOTATION_VALUE>میرا خان چچا سے ملاقات ہوئی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a631" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>اور ان سے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a632" ANNOTATION_REF="a365">
+                <ANNOTATION_VALUE> ایک کہانی ریکارڈ کر رہا ہوں</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a633" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>چچا جی پیشے کے لحاظ سے دُکاندار ہیں</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="txt" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="en" LANG_ID="en" LANG_LABEL="en"/>
+    <LANGUAGE LANG_DEF="gwt-x-Orthographic" LANG_ID="gwt-x-Orthographic" LANG_LABEL="gwt-x-Orthographic"/>
+    <LANGUAGE LANG_DEF="ur" LANG_ID="ur" LANG_LABEL="ur"/>
+    <LANGUAGE LANG_DEF="gwt-fonipa-x-emic" LANG_ID="gwt-fonipa-x-emic" LANG_LABEL="gwt-fonipa-x-emic"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

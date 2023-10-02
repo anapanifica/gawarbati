@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-09-30T17:24:00+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/GBDD-Stockhlom University/Project Data/3-Processed data-Fazal Hadi/4-Quarter (July-September) 2022/Translation-In Progress/20220710-FarozKhanEidWishing.mp4" MIME_TYPE="video/mp4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///E:/GBDD-Stockhlom University/Project Data/3-Processed data-Fazal Hadi/4-Quarter (July-September) 2022/Translation-In Progress/20220710-FarozKhanEidWishing.mp4" MEDIA_URL="file:///Users/apanova/Gawarbati/gawarbati_github/Q4 text data 2/20220710-FarozKhanEidWishing.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20220710-FarozKhanEidWishing.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:19336444-d282-4ad2-9df6-9af395e2b993</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">709</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5084"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7852"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="9343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="9759"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="16372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="16532"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="19636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="23778"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="24037"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="29315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="29876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="32890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="38381"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="40937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="43985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="46923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="48886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="49693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="50910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="55117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="56466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="57758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="58871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="61735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="62914"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="67103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="68119"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="68840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="69234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="72758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="73514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="77018"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="77367"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="78508"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="78550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="80795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="82353"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="85773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="86363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="90603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="91329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="96003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="96051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="98414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="99089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="103971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="104584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="107042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="107169"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="112409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="114320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="119391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="121456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="123305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="123976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="125598"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="126240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="129277"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="129471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="131424"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="132259"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="133500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="134051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="139452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="141028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="142674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="145338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="147357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="150013"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="154928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="155735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="158442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="159060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="165051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="165541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="166456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="167674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="170485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="171990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="174084"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="175074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="177527"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="178391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="181778"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="183282"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="185872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="186025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="190113"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="190839"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="192023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="193344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="195080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="195863"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="197820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="198291"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="201343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="201844"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="204348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="204829"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="208060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="208489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="212876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="213452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="218405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="219103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="223235"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="224372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="228051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="229540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="230400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="232103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="234292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="234348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="238957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="239131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="242211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="242514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="248084"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="248763"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="249253"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="249570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="253848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="254560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="256320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="257687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="260732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="261308"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="263206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="263905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="268858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="272471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="275933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="277409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="280659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="281527"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="286976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="288206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="289702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="290268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="295768"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="296385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="297904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="301145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="305937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="307183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="309688"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="310273"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="314749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="315815"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="317579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="318499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="320211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="320282"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="325107"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="326777"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="330457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="333112"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="337872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="338806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="339608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="340300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="345536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="346179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="349410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="350159"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="353843"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="354197"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="356522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="356993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="361587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="362768"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="365329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="366782"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="372216"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Faroz" TIER_ID="Faroz-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>assalaːm alaikum mubaːrak bijau ɖal axtar miãː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>amai ɕukur alhamdu lilah axtarani namaːz keok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>baʥamaːat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>au giri ustaːze axtarani bumbaːraki saːfãː ɬitus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>amai saːfe qabul keok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>tasana baːwuʥud jajakena aːma gaik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>jajakena aːma di tsu manzi hast mast ɬi di mumbaːraki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>jakek pijaːla</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>jakek pijaːla ʨai karikana aːmaː lukok , jakek pijaːla ɕarbat lukok hãː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>karkana aːmaː ɖiu lukok , ɕiki nesi aːjak hãː hãː hãː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ʥu aːxir dam bagran aːjak</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>dam bagran aːjakãː taːnu wara manzi milaːu bok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>jak aːmai taraːn ɬenʨi milaːu bok , waːri aːmai taraːn ɬenʨi milaːu bok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>qurbaːni keon , saːfe kedaːon , karken kedaːon karken na kedaːon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>au tasu manzi milaːu bi karken qurbaːni kedaːon ba tasu manzi bi milaːu bok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>karken qurbaːni na kedaːon ba tasu manzi bi milaːu bok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>tasu manzi mumbaːraki ɬi aːxiran sar dam bagran dibom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>dam bagranana ʥi patagran aːjam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>patagran ʥi au ɕiki ʥi giri giri giri aːxiri nasirana aːmãː ki aːjam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>au unzukaːluka woi aːnda ɕukur alhamdu lillahi baːr baːr ɕukur alhamdu lillahi </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>unzukaːluka aːnda ʥoɽ bi buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>au lafla bi paʦaidaːon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>au sahi tareqae bi ʐunok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ã ɖijai miaːi bi xoɕaːl bot </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>au waːri bi ʥu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>nori bi ʥu asa pena nesok ba ʥu jak jak waːri ɖiaːiãː ki jak ʈʰaːn dika waːri ʈʰaːn dika , digar mizaːn ʥu tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>awal zamaːnaːni ɕila waxt bui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>ʨun ʨun ja kata nafri axtar kejet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>waxt kamzor bui ʨun ja kata nafri laːma axtar kejt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>axtarana baːuʥud tasuna ʈʰaːn bumbaːrakiãː dik ba </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>lau xoɕaːlie , e baʨai gilaːu ʥiu aːnda maːnda ʐuu , lau xoɕaːlie ama niʂaːt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>lau zan na kejt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>nori ɕukur alhamdu lillahi har aːmaː axtar kemet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>au giri bi asa pena pudami bi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>asa pena pudami bi ziaːt bimen dimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>kata maxluq ziaːt bot ba ata axtar bi ziaːt bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>au tine waxta ɕila buwa ʨi </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>aka duka axtar kejt ba , ama tine dik ba , lau xoɕaːl bit</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>e mona baʨai te niʂ </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>ʥa a e anda ɬa </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>aːnda ʐui nesi tasa bumbaːraki ɬik </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>patagran ja mumaːna ʈʰaːn dik ba tine aːnda ʐuik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>jakek wagila ɕin ʨai lukik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>giri tinena nesi ja aːmai taraːn dik tasa bumbaːraki ɬik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>giri baːwuʥud giri ama ratai asa ɕili wax aːji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>ʨi kaːl ter bimaːn au kaːl ter bi wagila bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>woi ziaːt bimen dimaːn axtar bi ziaːt bimen dimaːn au maxluq bi ziaːt bimen dimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>au awal ɕili waxt  bui ʨi jak ʐoani miʂʈi bui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>nafar kam bot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>au paːʂani sezan na bui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>watani paːʂ talaːt ba xalaqana jak ja du jak palaʂʈak gom bi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>jaː jak siri bi , parzosaː ʐo bi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>ʐoana pusar ʥu bas tsa tenɬi bi ama qabul kedaːok niɕibok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>parzosaː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>nori ɕukur alhamdu lillah baːr baːr ɕukur tʰana ʨi har bliaːja tanxaː xor tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>har bliaːja jakek axtar kemaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>au aːjindaː ʂaʦi bi allah pak taufiq ɬijau ama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>ʨi aːjindaː ʂaʦi bi </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>unzukaːl ki maːl goitok ba tasa pena kaːlãː ki ama waɽai xudaːi pak bai maːl gojau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>awal ama axtar kek time axtar ket ba ama faːr bak dik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>har jakiana aːmaː mumbaːraki ɬik aulaːdana </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>tinena time ʥet ba taːnu aulaːdana ʈʰaːn time bumbaːraki ɬet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>tine di kawaɽ mawaɽ ʐui ʥik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>parzosaː haar hisaːb kitaːb ʨi karik bua ba , har hisab kitaːb baraːbar buwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>au nori ama tai </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>ama ratai ata paːbandi lagui ʨi ama pena kaːnʈa taːr girua</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>parzosaː baːraː fuʈ kaːnʈataːr girua</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>au amani qudrat na tʰini ʨi ama nori jaː faːr wojeta jaː horim</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>panʥraːna manzi band tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>parzosaː panʥraːna manzi  band tʰinek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>ki raqame ʨi gaː , gaː woi gila tʰuna manzi genʈɪmeti</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>au tasãː ki aːu na tʰoimet amani misaːl nori woi bitini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>au woi waxt bi wagila kam bua fasal kam bimaːn bot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>ixlaːq bui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>nori ɕukur alhamdu lillah nu boʥai sat boʥai panʦ boʥai xo har maːnuʂana bimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>hã xo allah taufiq ɬijau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>pudami asa axtara pena bi kine xudaːi pak ama zenta daraus ba </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>pudami bi sahi axtar ama waɽai xudaːi paːk karajau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>tamaːm xalqa musalmaːnaːna waɽai jakula ama waɽai nai musalmaːnaːna waɽai</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>au kara mitanet ba xudaːi tasu baxʨijau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a177" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>tamaːm adiraː baxʨijau tamaːm ki musalmaːnaːn ʨi ite dunijaːna ditanait ba saːfa baxʨijau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Faroz-txt-gwt-fonipa-x-emic" PARTICIPANT="Faroz" TIER_ID="Faroz_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Assalam Alaikum, Eid Mubarak to you all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Alhamdulillah we prayed the Eid prayer</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>in congergation</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>The teacher also congratulated everyone on Eid</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>We accepted the congratulations</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>After that they went to each other's house</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Congratulation to each other.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Had a cup of tea</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>We had cold drink and tea</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Had cold drinks somewhere.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Thw we came toeards Daam</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Here we meet our relatives.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Went to the houses of relatives.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Some people had sacrificed and some had not</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Congratulations to everyone who met them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>He congratulated those who did not make the sacrifice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Together with them, they came towards Mohalla Dum</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>From Dam now going to Lam</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>On return came to Nasir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>This year's meat.  Million thanks to Allah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>This year's meat was great</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>What a good roast</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>And ate very well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>All friends were happy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>And besides them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Now, after finishing here, I will go and meet other people</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Such was the time in our youth</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Few people used to offer Eid sacrifice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>When there was poverty, a few people used to sacrifice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>But even those who did not make sacrifices would still go to them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>They welcomed us with great pleasure and fed us meat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Many people would not sacrifice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>Now thanks be to Allah, Eid sacrifice is done in every house</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>Now even before that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a359" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>When the people are more, the sacrifice is also more</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>That time was like that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>A few people used to sacrifice, and when we left, they would be very happy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>They called us and let us sit as their childern. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Feed us meet well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>They congratulated and left after eating meat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Then we would go to an uncle's house and eat meat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>And we would also drink coffee together</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>When we left there, we would go to someone else and congratulate them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Then such a time came upon us</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>اب وقت گزرتا جا رہا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Now Eids are coming and people are getting more and more</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>There was a time when there was barley bread</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>there were few peolple.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>At that time, they did not apply urea fertilizer in the fields</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a328" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>When people used indigenous fertilizers in the fields, they had a good harvest</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>Or there were more barley</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>At that time people ate barley with great enthusiasm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>understood</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Now, thanks be to God, every brother [person] is a salary earner</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Every brother makes a sacrifice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>And may God bless you in the future</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>Now for the future</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>This year we have taken livestock, inshallah Allah will give us even better in the next year</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>Earlier we used to go to Afghan side to celebrate Eid</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>Eid greetings to everyone</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>If they came from there to meet their children, we would also welcome them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>We used to eat and drink together</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>All our calculations were equal</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>Looking at us now</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>Now there is a barbed wire between us</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>Now there is a barbed wire </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>Now we do not have the power to go across</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>Now we are locked in a cage</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>Now we are restricted</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>This is the type of blockade</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>And the same is true for those who are deprived of water</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>At that time, the harvest was low</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Had good manners</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Now everyone has a very good harvest</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>May Allah grant us with grace</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>If Eid comes in the coming time by the grace of Allah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>May Allah bring us a good Eid in the coming time as well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>May Allah bless all the Muslims with a good Eid</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>And may Allah forgive those who have died</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a177">
+                <ANNOTATION_VALUE>And may Allah forgive all the Muslims who have died so far</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Faroz-txt-gwt-fonipa-x-emic" PARTICIPANT="Faroz" TIER_ID="Faroz_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>اسلام علیکم آپ سب کو عید مبارک </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>الحمداللہ ہم نے عید کی نماز پڑھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>با جماعت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>استاد نے بھی سب کو عید مبارک باد دی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>ہم نے مبارکباد قبول کیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>اس کے بعد ایک دوسرے کے گھر گئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>ایک دوسرے کو مبارک باد دی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ایک کپ چائے پی لی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>شربت ، چائے ہم  نے پیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>کہی پر ہم کولڈ ڈرنک لیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>پھر یہاں دم کی طرف آئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>یہاں آکر اپنوں سے ملے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>رشتہ داروں کے گھر چلا گیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>کچھ لوگوں نے قربانی کئے تھے کچھ نے نہیں کیا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>ان کے ساتھ ملا سب کو مبارک باد دی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>جنہوں نے قربانی نہ بھی کئے ان کے ساتھ بھی عید مبارکباد دی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ان کے ساتھ مل کر پھر محلہ دم کی طرف آئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>دم سے اب لام کی طرف جا رہا ہوں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>واپسی پر یہاں نصیر سے ملنے آیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>اس سال کا گوشت اللہ کا لاکھ شکر ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>اس سال کا گوشت زبردست تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>اچھا روسٹ کیا ہوا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>اور خوب مزے سے کھایا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>سب دوست احباب خوش تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>اور ان کے علاوہ بھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>اب یہاں سے فارغ ہو کر کہی اور جا کر ایک دوسرے سے ملے گے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>پہلے ہماری جوانی میں وقت ایسا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>تھوڑے سے لوگ عید قربانی کرتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>غربت تھی تو چند گنتی کے لوگ قربانی کرتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>لیکن جو قربانی نہ بھی کرتے تب بھی ان کے ہاں چلے جاتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>بہت خوشی سے ہمارا استقبال کرتے اور ہمیں گوشت کھلاتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>بہت سے لوگ قربانی نہ کرتے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>اب شکر الحمداللہ ہر گھر میں عید کی قربانی کرتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>اب اس سے پہلے بھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a360" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>جتنا مخلوق ذیادہ ہوتے ہیں قربانی بھی ذیادہ ہوتی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>وہ وقت ایسا تھا کہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>تھوڑے سے لوگ جب قربانی کرتے تو ہم جب جاتے تو وہ بہت خوش ہوتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>اپنے بچوں کی طرح ہم کو بلا کر بیٹھاتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>اچھا گوشت کھلاتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>مبارکباد دیتے اور گوشت کھا کر رخصت ہوتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>پھر کسی ماموں کے ہاں جاتے اور گوشت کھاتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>اور ساتھ قہوہ بھی پہ لیتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>وہاں سے نکلتے تو دوسرے کسی کے ہاں جاکر مبارکباد دیتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>اس کے بعد ہم پر ایسا وقت آیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>اب وقت گزرتا جا رہا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>اب عیدیں آتی ہیں اور لوگ بھی ذیادہ ہوتے جا رہے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>پہلے ایسا وقت تھا کہ جؤ کی روٹی تھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>لوگ کم تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>اس وقت کھیتوں میں یوریا کھاد نہیں ڈالتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>جب لوگ دیسی کھاد کھیتوں میں ڈالتے تو ان کی اچھی فصل ہوتی تھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>یا ذیادہ جؤ ہوتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>اس وقت کے مطابق جؤ بھی لوگ کافی شوق سے کھاتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>سمجھ گئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>اب شکر الحمداللہ اللہ کا شکر ہے ہر بھائی تنخواہ خور ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>ہر بھائی قربانی کرتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>اور آئیندہ بھی اللہ توفیق دیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>اب آئیندہ کیلئے بھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>اس سال جو ہم نے مال مویشی لیا انشااللہ آئیدہ سال اللہ اس سے بھی اچھا عطا کریگا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>پہلے افغان سائڈ عید منانے ہم جاتے تھے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>ہر ایک کو عید کی مبارکباد دیتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>وہ وہاں سے آتے اپنے اولاد سے ملے تو ہم بھی اچھا استقبال کرتے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>ہمارا آپس کا کھانا پینا ہوتا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>ہمارا تمام حساب کتاب برابر تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>اب ہمیں دیکھ کر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>اب ہمارے درمیاں خاردار تار لگ گئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>اب خاردار تار لگ گئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>اب ہماری قدرت نہیں ہے کہ ہم آر پار چلے جائیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>اب ہم  پنجرے میں بند ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>اب ہم پر  آنے جانے کی پابندی ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>یہ جس قسم کی ناکہ بندی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>اور جو لوگ پانی سے محروم ہیں ہماری مثال بھی یہی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>اس زمانے میں فصل کم ہوتا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>اچھی اخلاق تھی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>اب تو ہر کسی کی خاصی اچھی فصل ہوتی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>اللہ توفیق دیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>اگر آنے والے وقت میں اللہ کی فضل سے عید آئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>آنے والے وقت میں بھی اللہ ہم پر اچھی عید لائے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>دعا ہے تمام مسلمانوں کو اللہ اچھی عید نصیب کریں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>اور جو مر چکے ہیں اللہ بخش دیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a177">
+                <ANNOTATION_VALUE>اور جتنے بھی مسلمان اب تک مر چکے ہیں اللہ سب کو بخش دیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Faroz-txt-gwt-fonipa-x-emic" PARTICIPANT="Faroz" TIER_ID="Faroz-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>اسلام علیکم مبارک بیو ڈل اختر میاں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>امئ شُکر الحمدُ لللہ اخترنی نماز کیوک </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>باجماعت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>او گِری استاذ یے اخترنی مبارکی سافاں ݪِتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>امئ ساف یے قبول کیوک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>تسنہ باوجود یکینہ آمہ گئیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>یکیکینہ آمہ دی تسُو منزی ہست مست ݪی دی مبارکی  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>یکیک پیالہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>یکیک پیالہ چئ کرکنہ آما لُکوک ، یکیک پیالہ شربت لُکوک ہاں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>کرکنہ آما ڈیو لُکوک ، شِکی نیسی آیک ہاں ہاں ہاں</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>جو آخر دم بگرن آیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>دم بگرن آیکاں تانُو وارَ منزی ملاو بوک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>یک آمئ تران ݪینچی ملاو بوک ، واری آمئ تران ݪینچی ملاو بوک </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>قربانی کیون ، ساف یے کیداون ، کرکین کیداون کرکین نہ کیداون </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>او تسو منزی ملاو بی کرکین قربانی کیداون بہ تسُو منزی بھی ملاو بوک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>کرکین قربانی نہ کیداون بہ تسُو منزی بھی ملاو بوک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>تسُو منزی مبارکی ݪی آخرن سر دم بگرن دِبوم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>دم بگرننہ جی پتگرن آیم </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>پتگرن جی او شکی جی گِری گِری گِری آخِری نصیرنہ آماں کی آیم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>او انزوکالوکہ وئ آندہ شُکرالحمدُلللہ بار بار شُکر الحمدُلللہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>اُنزوکالوکہ آندہ جوڑ بھی بُوہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>او لفلہ بھی پڅئداون</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>او صحیح طریقہ یے بھی ݫُونوک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>آں ڈیائَ میائ بھی خوشال بوت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>او واری بھی جو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>نوری بھی جو اسہ پینہ نیسوک بہ جو یک واری ڈیائیاں کی یک ٹھان دِکہ واری ٹھان دِکہ ، دِگر مِزان جو تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>اول زمانانی شِلی وخت بُوئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>چُن چُن یک کتہ نفری اختر کییت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>وخت کمزور بُوئ چۡن یہ کتہ نفری لامَ اختر کییت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>اخترنہ باوجود تسُونہ ٹھان بمبارکیاں دِک بہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>لو خوشالی یے ، اے بچئ گِلاو جِو آندہ ماندہ ݫُوو آندہ ماندہ ݫُوو ،  لو خوشالی یے امہ نِݭات</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>لو زن نہ کییت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>نوری شُکر الحمدُلللہ ہر آما اختر کیمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>او گِری بھی اسہ پینہ پُودمی بھی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>اسہ پینہ پُودمے بھی زیات بِمین دِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>کتہ مخلوق زیات بوت بہ اتہ اختر بھی زیات بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>او تِنے وختَ شِلہ بُوہ چی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>اکہ دُکہ اختر کییت بہ ، امہ تِنے دِک بہ ، لو خوشال بِت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>اے مونہ بچئ تے نِش</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>جہ اَ اے آندہ ݪہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>آندہ ݫُوئ نیسی تسہ بُمبارکی ݪِک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>پتگرن یہ مُمانہ ٹھان دِک بہ تِنے آندہ ݫُوئک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>یکیک وگِلہ شین چئ لُکِک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>گِری تِنینہ نیسی یہ آمئ تران دِک تسہ بمابارکی ݪِک </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>گِری باوجود گِری امہ رتئ اسہ شِلی وخت آیی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>چی کال تیر بِمان او کال تیر بِی وگِلہ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>وئ زیات بِمین دِمان اختر بھی زیات بِمین دِمان او مخلوق بھی زیات بِمین دِمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>او اول شِلی وخت بُوی چی یک ݫُوونی مِݭٹی بُوی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>نفر کم بوت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>او پاݭنی سیزن نہ بُوی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>وطنی پاݭ تلات بہ خلقنہ یک یہ دُو یک پلݭٹیک گوم بی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>یا یک سِری بی ، پرزوسا ݫو بی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>ݫوونہ پُسر جو بس تسہ تینݪی بھی امہ قبول کیداوک نِشِبوک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>پرزوسا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>نوری شُکر الحمدُ لِللہ بار بار شُکر تھنہ چی ہر بلیایہ تنخواہ خور تھنہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>ہر بلیایہ یکیک اختر کیمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>او آیندا ݭڅی بھی اللہ پاک توفیق ݪِیو امہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>چی ایندا ݭڅی بھی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>اُنزوکال کی مال گوئتوک بہ تسہ پینہ کالاں کی امہ وڑئ خدائ پاک بئ مال گوئیو  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>اول مہ اختر کیک تِمے اختر کیت بہ امہ فار بک دِک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>ہر یکینہ آما مبارکی ݪِک اولادنہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>تِنینہ تِمے جیت بہ تانُو اولادنہ ٹھان تِمے بمبارکی ݪیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>تِنے دی کوڑ موڑ ݫُوئ جِک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>پرزوسا ہر حساب کتاب چی کریک بُوہ بہ ، ہر حساب کتاب برابر بُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>او نوری امہ تئ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>امہ رتئ اتہ پابندی لگُوئ چی امہ پینہ کانٹہ تار گِرُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>پرزوسا بارا فُٹ کانٹہ تار گِرُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>او امنی قدرت نہ تِھنی چی امہ نوری یا فار وئیتہ یا ہورِم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>پنجرانہ منزی بند تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>پرزوسا پنجرانی منزی بند تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>کی رقمی چی گا وئ گِلہ تُھونَ منزی گینٹِمیتی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>او تساں کی آوُ نہ تھوئمیت امنہ مثال نوری وئ بِتِنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>او وئ وخت بھی وگِلہ کم بُوہ فصل کم بِمان بوت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>اخلاق بُوئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>نوری شُکر الحمدُلِللہ نو بوجئ ست بوجئ پنڅ بوجئ خو ہر مانُوݭنہ بِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>ہں خو اللہ توفیق ݪِیو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>پُودمی اسہ اخترَ پینہ بھی کِنے خُدائ پاک امہ زینتہ درَوُس بہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>پُودمی بھی صحیح اختر امہ وڑئ خُدای پاک کیرئیو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>تمام خلقَ مسلمانانَ وڑئ یکولہ امہ وڑئ نئ مسلمانانہ وڑئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>او کرہ مِتنیت بہ خُدائ تسُو بخچیو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a177">
+                <ANNOTATION_VALUE>تمام ادیرا بخچیو تمام کی مسلمانان چی اتے دُنیانہ دِتنیت بہ سافَ بخچِیو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="txt" TIER_ID="interlinear-text-title-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a361" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>20220710-FarozKhanEidWishing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Nasir" TIER_ID="Nasir-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a362" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>nun das ʥulaːji do hazaːr bais tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a363" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ama dama fairoz naː manzi niɕisan tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>nun ɖal axtarani des tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a365" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>au ãː naːsir asa rikaːrɖiŋg kerimem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>au ama fairoz naː pena ʂunɖimek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a367" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>nunuki axtara ki rawani ter keru</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>au axtara ki rawana ter keru taːnu taːnuwaːra manzi ki rawana mubaːraki ɬitu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a369" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>nun sobaːra karik te zamaːnaːni axtara bi meni polelikani axtara bi ki faraq tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a370" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ite baːraː am̃ː ki taːnu xajaːlaːtana izhaːr keriba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a449" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>Today is July 10, 2022</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a450" ANNOTATION_REF="a363">
+                <ANNOTATION_VALUE>We are with Feroze Lala in Mohalla Dum </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a451" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>Today is Eid-ul-Adha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a452" ANNOTATION_REF="a365">
+                <ANNOTATION_VALUE>I am Nasir making this recording.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a453" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>We hear this from Feroze Lala</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a454" ANNOTATION_REF="a367">
+                <ANNOTATION_VALUE>How was the first day of Eid today?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a455" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE>How was the Eid of relatives with you?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a456" ANNOTATION_REF="a369">
+                <ANNOTATION_VALUE>It will also tell what is the difference between today's Eid and the Eid of earlier times.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a457" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE>He will share his thoughts on this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a536" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>آج دس جولائی دو ہزار بائیس ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a537" ANNOTATION_REF="a363">
+                <ANNOTATION_VALUE>ہم محلہ دم ، فیروز لالا کے ساتھ ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a538" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>آج عید الاضحی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a539" ANNOTATION_REF="a365">
+                <ANNOTATION_VALUE>میں ناصر یہ ریکاڈنگ کر رہا ہوں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a540" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>ہم فیروز لالا سے یہ سنتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a541" ANNOTATION_REF="a367">
+                <ANNOTATION_VALUE>آج عید کا پہلا دن کیسا گزرا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a542" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE>اپنوں کے ساتھ ان کی عید کیسی گزری </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a543" ANNOTATION_REF="a369">
+                <ANNOTATION_VALUE>یہ بھی بتائے گا کہ آج کل کی عید اور پہلے زمانے کی عید میں کیا فرق ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a544" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE>اس بارے میں اپنی خیالات کا اظہار کریں گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a623" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>نون  دس جولائی دو ہزار بائیس تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a624" ANNOTATION_REF="a363">
+                <ANNOTATION_VALUE>امہ دمَ فیروز نا منزی نشِسن تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a625" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>نون ڈل اخترنی دیس تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a626" ANNOTATION_REF="a365">
+                <ANNOTATION_VALUE>او آں ناصر اسہ ریکارڈنگ کیمیم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a627" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>او امہ فیروز نا پینہ ݭُنڈِمیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a628" ANNOTATION_REF="a367">
+                <ANNOTATION_VALUE>نونوکی اخترَ کی رونی تیر کیرُو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a629" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE>او اخترَ کی رونہ تیر کیرُو تانُو تانُوارَ منزی کی رونہ مبارکی ݪِتُو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a630" ANNOTATION_REF="a369">
+                <ANNOTATION_VALUE>نون سوبارہ کرِک تے زمانانی اخترَ بھی مینی پولیلِکنی اخترَ بھی کی فرق تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a631" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE>اتے بارا اماں کی تانُو خیالاتنہ اظہار کیرِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="txt" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="en" LANG_ID="en" LANG_LABEL="en"/>
+    <LANGUAGE LANG_DEF="gwt-x-Orthographic" LANG_ID="gwt-x-Orthographic" LANG_LABEL="gwt-x-Orthographic"/>
+    <LANGUAGE LANG_DEF="ur" LANG_ID="ur" LANG_LABEL="ur"/>
+    <LANGUAGE LANG_DEF="gwt-fonipa-x-emic" LANG_ID="gwt-fonipa-x-emic" LANG_LABEL="gwt-fonipa-x-emic"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

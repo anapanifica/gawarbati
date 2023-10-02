@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-09-29T02:12:16+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/Gawarbati/gawarbati_github/Q4 text data/20220701-FazalAkbarAboutCWC.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20220701-FazalAkbarAboutCWC.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:77b5bb62-2dfb-4bf4-9822-3b368dbdd594</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">439</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5769"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="12073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12371"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="16382"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="16998"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18399"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="20701"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="21114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="23895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="25186"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="25710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="27855"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="28712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="31515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="37226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="38278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="39223"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="41112"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="41155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="43022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="43524"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="45780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="46626"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="48655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="49435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="54267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="54808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="56656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="57494"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="60680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="61092"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="65661"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="65661"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="68074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="68203"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="72081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="72860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="77500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="77557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="80156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="80819"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="84063"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="84127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="86110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="86728"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="89705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="90286"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="93036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="94255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="99400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="100302"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="104313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="104348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="106906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="107743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="112493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="113173"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="117784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="118278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="121319"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="122023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="125674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="126255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="128738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="129220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="133470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="133906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="134923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="134949"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="136286"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="136664"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="138815"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="139185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="144383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="144941"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="147348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="147395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="150749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="151423"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="156539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="156964"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="158406"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="159401"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="162744"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="162825"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="166098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="166563"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="169412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="170017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="174034"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="174668"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="178941"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="180895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="182435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="183432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="185520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="186214"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="190581"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="191860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="196133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="196255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="198424"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="199234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="200513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="207638"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="211435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="211987"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="213493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="213533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="218830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="219248"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="220562"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="220598"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="223330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="223383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="227267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="227784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="229633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="232493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="233074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="234126"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="236062"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="236361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="237978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="238686"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="240390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="241881"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="243114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="245883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="250697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="251203"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="254302"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="255063"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="259813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="267277"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="269178"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="271063"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="276127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="277557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="280714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="281337"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="286244"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="286751"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="287873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="287935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="289952"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="290522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="291952"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="295755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="297848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="298307"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="302598"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="302976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="305645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="306121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="309917"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="310371"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="312289"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="313679"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="315546"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="315565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="319054"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="322767"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="326378"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="333674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="334610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="335319"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="340587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="341557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="346418"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="347215"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="348720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="349459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="352116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="353260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="355923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="357225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="358544"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="359349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="361006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="361778"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="362784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="363113"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="366979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="367551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="370074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="370795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="372690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="373162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="373709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="373895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="375302"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="375488"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="378232"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="378680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="379919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="380393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="382602"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="382788"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="384870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="385388"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="387986"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="388444"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="391531"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="391743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="393621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="394212"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="395892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="396518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="398343"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Nasir" TIER_ID="Nasir-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>woi jak viɖiu rikaːrɖiŋg tʰini </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ãː naːsir asa rikaːrɖiŋga kemem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ama dama haranua tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ate woi si ɖabliu siana iniqaːd bitana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>nun haftaːni des tʰiani do ʥulai do hazaːr bais</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>saxt tapa tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>suri tez nesisan tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>muxtalif grups ite taːnu akʈiviʈisa ki tʰanet </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ama manzi fazl akbar tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>se mukamal asa warkɕaːpana baːraː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>amãː ki taːnu xajaːlaːtana izhaːr keriba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>This is a video recording</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>I am Nasir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>We are in Mohalla Daam</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>CWC workshop is hapenning here. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Today is Saturday and July 2, 2022.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Very hot today</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>There is a scorching heat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Different group have continued their activities. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Fazal Akbar is witn me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>He will tell someting about this workshop. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Will express his thoughts</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>یہ ایک ویڈیو ریکاڈنگ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>میں ناصر ہوں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ہم محلہ دم میں ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>یہاں سی ڈبلیو سی ورکشاپ کا انعقاد ہوا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>آج ہفتہ کا دن اور دو جولائی دو ہزار بائیس ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>شدید گرمی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>تیز دھوپ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>مختلف گروپ یہاں اپنی سرگرمی جاری رکھے ہوئے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>میرے ساتھ فضل اکبر ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>یہ اس ورکشاپ کے بارے میں بتائے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>اپنی خیالات کا اظہار کریں گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Nasir-txt-gwt-fonipa-x-emic" PARTICIPANT="Nasir" TIER_ID="Nasir-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>وئ یک وڈیو ریکارڈنگ تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>آں ناصر اسہ ریکارڈنگَ کیمیم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>امہ دمَ ہرَنُوہ تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>اتے وئ سی ڈبلیو سینہ انعقاد بِتنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>نون ہفتانی دیس تِھنہ دو جولائی دو ہزار بائیس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>سخت تپہ تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>سوری تیز نیسِسنت تِھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>مختلف گروپ اتے تانُو ایکٹوٹیزَکی تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>امہ منزی فضل اکبر تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>سے مکمل اسہ ورکشاپنہ بارا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>اماں کی تانُو خیالاتنہ اظہار کیرِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="FazalAkbar" TIER_ID="FazalAkbar-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>bismillahirahmaːnirahim</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>woi amai grupa taqsim ketuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>woi nasir saːhibana dera tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>te awalani desani asa purgraːma amai ite keuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>maːɕaː allah lau ʂobaːna tareqa je rawaːn tʰɪni</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>au saːf amana karik likiɬa tʰanet ba tasuãː ki ama mirzaː ʥamek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>har jakek grupa ɕaːmil tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>tasuna manzi amana ite imtiaːz saːhib tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>amana siner amana karik tʰana ba rahim</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>rahim saːhib tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ime karik tʰanet ba ite ite grupa tʰanet au lau ʂobaːna tareqa e taːnu ɬama ɕuro kejiton</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>au waːri karik tʰana ba lau ziaːt tapa tʰana haranua filhaːl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>tapaːna pusar jafala amãː ki muɕkilaːt bi ziaːt tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>au te amana alif saːhib taːnu grupa goi niɕisan tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ʂobaːna tareqa je eni bi taːnu ɬama ɕuro kajitus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>au maːɕaː allah lau mazidaːr tareqae ɬam rawaːn tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>au ɕiki mi ʥo amana ɬejam grup karik tʰini ba ite</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>qaːri saːhb au gila naːm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>rafizullah saːhib au ɕer hasan saːhib ime taːnu grupa goi niɕisan tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>au suna ɬam bi lau ʂobaːna tareqae rawaːn tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ʥo woi prugraːm karik tʰini ba kamuniʈi warɖ ʨolekɕan prugraːm tʰɪni</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>au te ki kamuniʈj karik tʰanet ba time komuniʈiana kasaːn ʈopali</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>jak ɖikiɕneriana tartib ɬimet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>ɖikɕneri karik tʰini ba woi saːfʈ faːma milaːu biba inɕaː allah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>au te ʂaʦi lau ʂobaːna tareqae woi ɬam rawaːn tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>lau xo kaːfi mosam te biʥli miʥliana muɕkilaːt tʰikana pusar ʥo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>kaːfi taklifaːt tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>kara beraːnti kʰaʈãː nesitanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>kara kursia niɕitanet kara buma niɕitanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>ʥo deraː lau taklif tʰikana pusar , tapa tʰikana pusar ʥo ja ʈʰaːna grupa ja tartib ɬijaːn na dimaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>ʥo amani karik tʰini ba ja grup tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>lau siniar kasaːnani amana </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>sardaːr ʈika xaːn saːhib au abdul manaːn saːhib karik tʰinet ba asuĩ ja grup ʐupaiton te</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>ime taːnu ɬama lagaisan tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>au woi inɕaːllah komuniʈj warɖ kaliɕan prugraːm tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>kamuniʈiani karik alfaːz tʰanet ba ime saːf te ʥama bita </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>au inɕaːllah ʂobaːna tareqe woi ɖikiɕniri amani tajaːr biba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>au woi lau behtarin abdullah saːhib te karik taːnu ɬama lagaisan tʰana nori</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>au asuna kaːfi lau ʂobaːna taʥribakaːr tʰana lau waxta paːɬena eni te ɬam ketus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>ʥo lau kaːfi waxt bui</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>woi taqriban ɬe baːgaːni prugraːm tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>ɬe baːgaːni prugraːm tʰini au awalani des tʰini ʥo nori ibtidaː ɕuro tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>au taqriban iɕi zan ki ratai iɕi zan ʥo tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE> time ʥitanet au prugraːm ɕuro tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>au ten baki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>mona waːlid muhtara mulaː adina ɕaːh saːhib nori aːja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>au se bi te prugraːma hisa gamaːn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>au tasa tasnifaːtan baːraː jak ɕaina baːraː laka lafla pata tʰana fura te ilaːqaː </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>ʥo teni bi te ɕirkat kerus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE> inɕaːllah te ja grupa se bi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>asana istiqbaːla ʂaʦi wuʈ bot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>tasan nori atraːnt ɬenʈʂuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>ja grupa nori woi bi ɕirkat kejiba amani prugraːmani ibtidaː tʰini</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>ɕilãː ki ʥo ama ɬama jafala jafala ɕuro kejidaːuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>inɕaːllah nori asa taːnu koɕiɕ kejika asa du ɬe baːgaːna manzi asa ɕaia fura kejika </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>lau ɕaqe buwa zaːtak woi buwa taqriban</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>ʥo inɕaːllah prugraːm ite du ɬe baːgaːna manzi amani mukamal biba inɕaːllah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>ʥo kuɕiɕ kemek ze lau alfaːz ama te ʥama kejika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>inɕaːllah lau ɕauqe rawaːn tʰana ɬam rawaːn tʰana , au nika nika bi lau dilʨaspie ite ʥi hisa gamet au</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>saila lagaisan tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>kara ʥu grupa ɕirkat kejikani koɕiɕ kemet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>ʥo tasu bi amai ɕaːmil ketuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>tasa ʥama keri asana karik tʰina ba pataː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>karik urdue asuna tarʥuma karik ʥimaːn ba asu saːfa nasrullah saːhb kejiba </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>au karik inʈri karik tʰini ba abdullah sahib asani kajiba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>kejike pat inɕaːllah woi saːfʈ faːma neʈa woi bi dastjaːb tʰiba </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>kamuniʈj ward kalikɕan karik tʰini ba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>inɕaːllah asu inʈarneʈãː ki bi ɬijaːn diba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>woi ɬam karik tʰanet ba ʥaːri tʰana inɕaːllah du ɬe baːgaːna manzi asa mukamal keraːn diba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="FazalAkbar-txt-gwt-fonipa-x-emic" PARTICIPANT="FazalAkbar" TIER_ID="FazalAkbar_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>By the name of Allah the most merciful and Mighty.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>They are divided into different groups.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>This is a drawing room of Mr. Naseer Sahib</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>This is the first day of this workshop.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Masha Allah it is going very well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>We call the writer in each group Mirza</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>There is one secretary in each group.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Imtiaz Sahib is in this group</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a359" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>One of our experienced is also in this group. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a360" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>His name is Rahim</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a361" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>They are continuing their work very well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a362" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Apart from this, the intensity of heat in Arundu is also very high</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a363" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Due to the heat, there is a little difficulty</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a364" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Alif Sahib is prominent in this group</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Good work continues</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a366" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Masha Allah, the work is going on very well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Similarly, the work in each group is contiued. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a368" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Qari Sahib and other are here.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Rafizullah and Sher Hasan Sahib are here with their group.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Their desired work is also going on very well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>This program is a method to collect words in mother tongue.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>And these are the people of the same community.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>This will create a dictionary.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>This dictionary will also be available in soft form, If God willing.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>This work is going on in a very good way for it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>There is no electricity in this hot weather</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>There are many sufferings</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>Some people are sitting outside in cots.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Some are sitting on chairs and some on the floor below</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>Due to the heat, all the groups cannot be seated in one place inside the room.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a370" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>We also have a group.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a371" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>There are quite a few senior people in it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a372" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>Sardar Tikka Khan and Abdul Manan Sahib have formed a group.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>They are busy in their work.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a374" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>This is a word collection program.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>All the words of Guarbati will be collected</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a376" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>And this dictionary will be prepared in a very good way.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a377" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Abdullah Sahib is busy with his work.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a378" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Abdullah Sahib has a very good experience regarding Guarbati.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a379" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>since a long time</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a380" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>This is alomost three days workshop.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a381" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>This is the first days of this three days workshop. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a382" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>About twenty people are participating in it. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a383" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Due to them, this program is continued. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a384" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>and on the other side</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a385" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>my father Mola Adina Shah Sahib has also participated in it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a386" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>Participating in this program</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a387" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Everyone knows about his literary services</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a388" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>He participated here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a389" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>In this group</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a390" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>He was welcomed</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a391" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>He came inside</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a392" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>He will also be participating in this program. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a393" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>We started work before they came</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a394" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>InshaAllah they will try to complete their target in three days.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a395" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>They are coming very eagerly</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a396" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>This program will be completed in three days</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a397" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>Our effort is to collect as many words as possible.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a398" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>Teenagers are especially participating with great enthusiasm and interest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a399" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>and are busy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a400" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>Participating in every group.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a401" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>We have included them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a402" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>Collect these words and arrange them later.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a403" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>The Urdu meaning of these words will be arranged by Naseerullah Sahib.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a404" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>After that the entry will be arranged by Abdullah Sahib</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a405" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Finally it will be available o the internet after the completion of the work</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a406" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>This is a community word collection program</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a407" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>InshAllah it will also be made available on internet</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a408" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>This work is in progress and will be completed in three days</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="FazalAkbar-txt-gwt-fonipa-x-emic" PARTICIPANT="FazalAkbar" TIER_ID="FazalAkbar_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>بسم اللہ الرحمان الرحیم </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>یہ  مختلف گروپ میں تقسیم ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>یہ نصیر صاحب کا ہجرہ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>یہ اس ورکشاپ کا پہلا دن ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ماشا اللہ بہت اچھے طریقے سے چل رہا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>ہر گروپ میں لکھنے والے کو ہم مرزا کہتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>ہر ایک گروپ میں ایک منشی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>اس گروپ میں امتیاز صاحب ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ہمارا ایک تجربہ کار بھی اس گروپ میں ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>رحیم  ان کا نام ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>یہ بہت اچھے طریقے سے اپنا کام جاری رکھے ہوئے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>علاوہ ازیں ارندو میں گرمی کی شدد بھی کافی تیز ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>گرمی کی وجہ سے تھوڑی سی مشکل بھی پیش ہو رہی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>اس گروپ میں الیف صاحب نمایاں  ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>اچھے طریقے سے اپنا کام جاری رکھے ہوئے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>ماشا اللہ بڑے اچھے طریقے سے کام جاری ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>اور اسطرح ہر گروپ میں کام جاری ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>قاری صاحب اور دوسرے لوگ یہاں ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>رفیض اللہ اور شیر حسن صاحب اپنی گروپ کے ساتھ یہاں ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>ان کا مطلوبہ کام بھی بڑے اچھے طریقے سے جاری ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>یہ جو پروگرام ہے یہ  مادری زبان میں الفاظ جمع کرنے کا پروگرام ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>اور یہ اسی کمیونٹی کے لوگ ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>اس سے ایک ڈکشنری ترتیب دی جائیں گی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>یہ ڈکشنری سافٹ فارم میں بھی ملے گی انشا اللہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>اس کے لئے بڑے اچھے طریقے سے یہ کام جاری ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>اس گرم موسم میں بجلی بھی نہیں ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>بہت تکلیفات ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>کچھ لوگ باہر چارپائی میں بیٹھے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>کچھ کرسیوں پر اور بعض نیچے فرش پر بیٹھے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>گرمی کی وجہ سے تمام گروپس کو ہجرے کے اندر ایک جگہ نہیں بیٹھایا جا سکتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>ہماری بھی ایک گروپ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>اس میں کافی سنیئر لوگ ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>سردار ٹکہ خان اور عبدالمنان صاحب نے ایک گروپ بنایا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>یہ اپنے کام میں لگے ہوئے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>یہ الفاظ جمع کرنے کا پروگرام ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>گوارباتی کے جتنے بھی الفاظ ہیں وہ جمع ہو جائے گے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>اور بڑے اچھے طریقے سے یہ ڈکشنری تیار ہو گی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>یہ جو عبداللہ صاحب اپنے کام میں مصروف ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>عبداللہ صاحب گوارباتی کے حوالے سے بڑا اچھا تجربہ رکھتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>کافی عرصہ ہوا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>یہ تقریباً تین دن کا ورکشاپ ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>اس تین روزہ پروگرام کا یہ پہلا دن ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>بیس تک لوگ اس میں شرکت کر رہے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>ان سے یہ پروگرام جاری ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>اور دوسری طرف </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>میرا والد صاحب حاجی ملاادینہ شاہ صاحب نے بھی تشریف رکھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>اس پروگرام میں حصہ لے رہا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>ان کی ادبی  خدمات کے حوالے سے بھی سب کو معلوم ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>انہوں نے یہاں شرکت کی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>اس گروپ میں ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>ان کا استقبال کیا گیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>اندر تشریف لایا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>ایک گروپ میں یہ بھی شمولیت کرے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>ان کے آنے سے پہلے ہم نے کام شروع کیا تھا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>انشااللہ کوشش کر کے تین دن میں یہ اپنا ٹارکٹ پورا کریں گے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>بہت شوق سے آ رہے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>یہ پروگرام تین دن میں مکمل ہو جائے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>کوشش ہماری یہ ہے کہ ذیادہ سے ذیادہ الفاظ جمع کرے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>نوجوانان خاص کر بڑے شوق اور دلچسپی سے حصہ لے رہے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>اور لگے ہوئے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>ہر گروپ میں شامل ہو رہے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>ہم نے ان کو شامل کیا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>ان الفاظ کو جمع کر کے بعد میں ترتیب دیتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>ان الفاظ کا اردو معنی نصیر اللہ صاحب ترتیب دے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>اس کے بعد انٹری عبداللہ  صاحب ترتیب دیگا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>آخر میں یہ کام مکمل ہونے کے بعد نیٹ میں بھی دستیاب ہو گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>یہ جو کمیونٹی ورڈ کلکشن پروگرام ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>انشا اللہ اس کو انٹرنیٹ میں بھی دیا جائے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>یہ کام جاری ہے تین دنوں میں اس کو مکمل کیا جا ئے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="FazalAkbar-txt-gwt-fonipa-x-emic" PARTICIPANT="FazalAkbar" TIER_ID="FazalAkbar-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>بسم اللہ الرحمان الرحیم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>وئ امئ گروپَ تقسیم کیتُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>وئ نصیر صاحبنہ دیرہ تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>تے اولنی دیسنی اسہ پروگرامَ امئ اتے کیوُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ماشاءالللہ لو ݭوبانہ طریقہ یے روان تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>او ساف امنہ کرِک لِکِݫہ تھنیت بہ تسُواں کی امہ مرزا جمیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>ہر یکیک گروپَ شامل تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>تسُونہ منزی امنہ اتے امتیاز صاحب تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>امنہ سنئیر امنہ کرِک تھنہ بہ ا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>رحیم صاحب تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>اِمے کرِک تھنہ بہ اتے اتےگروپَ تھنیت او لو ݭوبانہ طریقہ یے تانُو ݫمَ شروع کیتون</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>او واری کرِک تھنیت بہ لو زیات تپہ تھنہ ہرَنُوہ فی الحال</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>تپانہ پُسر  یفلہ اماں کی مُشکِلات بھی زیات تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>او تے امنہ الِف صاحب تانُو گروپَ گوئ نشِسن تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>ݭوبانہ طریقہ یے این بھہ تانُو ݪمَ شروع کیتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>او ماشاءاللہ لو مزیدار طریقہ یے ݪم روان تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>او شِکی می جو امنہ ݪِیَم گروپ کرِک تِھنی بہ اتے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>قاری صاحب او گِلہ نام</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>رفیض اللہ صاحب او شیر حسن صاحب اِمے تانُو گروپَ گوئ نشِسن تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>او سونہ ݪم بھی لو ݭوبانہ طریقہ یے روان تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>جو وئ پروگرام کرک تِھنی بہ کمیونٹی ورڈ  کلکشن پروگرام تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>او تے کمیونٹ کرِک تھنیت بہ تِمے کمیونٹینہ کسان ٹوپلی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>یک ڈکشنیرینہ ترتیب ݪمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>ڈکشننری کرِک تِھنی بہ وئ سافٹ فارمَ ملاو بِبہ ان شاءاللہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>او تے ݭڅی لو ݭوبانہ طریقہ یے وئ ݪم روان تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>لو خو کافی موسم تے بجلی مجلینہ مُشکلات تِھکنہ پُسر جو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>کافی تکلیفات تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>کرہ بیرانتی کھٹاں نیسِتنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>کرہ کُرسیَ نِشِسنت کرہ بُومَ نشِتنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>جو دیرا لو تکلیف تِھکنہ پُسر ، تپہ تِھکنہ پُسر جو یہ ٹھانَ گروپَ یہ ترتیب ݪِیان نہ دِمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>جو امنی کرِک تِھنی بہ یہ گروپ تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>لو سنیئر کساننی امنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>سردار ٹِکہ خان صاحب او عبدالمنان صاحب کرِک تھنیت بہ اسُوئیں یہ گروپ ݫُوپئتون تے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>اِمے تانُو ݪمَ لگئسن تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>او وئ ان شاءاللہ کمیونٹی ورڈ کلیکشن پروگرام تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>کمیونٹینہ کرِک الفاظ تھنیت بہ امے ساف تے جمع بِتہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>او ان شاءاللہ ݭوبانہ طریقہ یے وئ ڈکشنری امنی تیار بِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>او وئ لو بہترین عبداللہ صاحب تے کرِک تانُو ݪمَ لگئسن تھنہ نوری </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>او اسونہ کافی لو ݭوبانہ تجربہ کار تھنہ لو وختَ پاݪینہ این تے ݪم کیتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>جو لو کافی وخت بُوئ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>وئ تقریباً ݪے باگانی پروگرام  تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>ݪے باگانی پروگرام تِھنی او اولنی دیس تِھنی جو نوری ابتداء شروع تھنہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>او تقریباً اِشی زن کی رتی اِشی زن جو تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE> تِمے جِتنیت او پروگرام شروع تِھنی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>او تین بکی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>مونہ والد محترم ملا ادینہ شاہ صاحب نوری آیہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>او سے بھی تے پروگرامَ حصہ گمان</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>او تسہ تصنیفاتن بارا لکہ لفلہ پتہ تھنہ فورہ تے علاقا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>جو تینی تے شرکت کیرُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> ان شاءاللہ تے یہ گروپَ سے بھی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>اسنہ استقبالَ ݭڅی وُٹ بوت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>تسنہ نوری اترانت ݪینڄُوہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>یہ گروپَ نوری وئ بھی شِرکت کییِبہ امنی پروگرامنی ابتداء تِھنی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>شِلاں کی جو امہ ݪم یفلہ ہفلہ شروع کیداوُوہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>ان شاءاللہ نوری اسہ تانُو کوشش کییِکہ اسہ ݪے باگانہ منزی اسہ شئیَ فورہ کییِکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>لو شوق یے بُوہ زاتک وئ بُوہ تقریباً</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>جو ان شاءااللہ پروگرام اتے دُو ݪے باگانہ منزی امنی مُکمل بِبہ ان شاءاللہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>جو کوشش کیمیک زے لو الفاظ امہ تے جمع کییکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>ان شاءاللہ لو شوق یے روان تھنہ ݪم روان تھنہ ، او نکہ نِکہ بھی لو دِلچسپی یے اِتے جی حِصہ گمیت او </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>او سئیلَ لگئسن تھنیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>کرہ جو گروپَ شِرکت کییِکنی کوشِش کیمیت</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>جو تسُو بھی امئ شامِل کیتُوہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>تسہ جمع کیری اسنہ کرِک تھنہ بہ پتا</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>کرِک اردُو یے اسونہ ترجُمہ کرِک جمان بہ اسُو سافَ نصراللہ صاحب کیبہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>او کرِک انٹری کرِک تِھنی بہ عبداللہ صاحب اسنی کییبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>کییِک یے پت ان شاءاللہ وئ سافٹ فارمَ نیٹَ وئ بھی دستیاب تِھبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>کمیونٹی ورڈ کلکشن کرِک تِھنی بہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>ان شاءاللہ اسُو انٹرنیٹاں کی بھی ݪیان دِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>وئ ݪم کرِک تھنیت بہ جاری تھنہ ان شاءاللہ دُو ݪے باگانہ منزی اسہ مکمل کیران دِبہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Participant3" TIER_ID="Participant3-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>ite jak ʈʰaːna jak misan pãkaː ʂai tʰanek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>xuɕqismatiani baːti tʰini ʨi gawar adabana lau ɖaɖal ʂauʈa ite niɕisan tʰanet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>a ʥimaːnaː aːwaːz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>a i karik gawar adaba amai ɕuro kejidaːwoki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>gawar adabana ama karik samandar ʥamaːn boke se amana manzi ʥi niɕisan tʰana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>ama ite baːtia ratai faxar kemek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>ama hamiɕa koʦimek ʨi gawar adaba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>a haːʥi mula adina ɕaːna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>ʦʰailatana paːtoi niɕi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>ama asa gawar adaba fura kejika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>auuu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>allah asani umura barakat talajau, allah asa umur ɬijau ʨi asa baːtia ja ʈʰaːnãː fedai</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>ʥiɬa zwaːnaːna ʂaʦi ʥiɬi waxta aːaʦi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>tasu xalaqa ʂaʦi karik zi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>ĩ̃̃</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>baːti duraːji bimen dimaːne</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>tasuãː baːtia neɽa kei en alhamdulillah lau qismana kitaːb likitus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>laau qismana sisʈam ketus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>au gawar adaba inɕaːllah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+                <ANNOTATION_VALUE>pudam gaːika ki saːfe kʰaːina ɖal hast bi asana tʰɪna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>au inɕaːllah taalaː fura bi woi kejiba ama saːfa ʂaʦi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>allah asani umra barakat talajau allah asa umur ɬijau zi amãː ki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>amani asa gawar baːtia fura kejiau</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
+                <ANNOTATION_VALUE>lau merabaːni nasirani bi merabaːni</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>au me saːfani merabaːni lau ʂukria</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Participant3-txt-gwt-fonipa-x-emic" PARTICIPANT="Participant3" TIER_ID="Participant3_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a409" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>A fane is slowly running here.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a410" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Fortunately, there are great people of Goar literature here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a411" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>sound is heard</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a412" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>When we have started work in Goar literature</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a413" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>A prominant name of Goar literature are among us. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a414" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>We are proud of it. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a415" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>We always wanted this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a416" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>of Mola Adina Shah sahib</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a417" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>sitting under his guidence</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a418" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>we are working for the Gawar Literature. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a419" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>and </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a420" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>May he live long</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a421" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>For time and generation to come</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a422" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>for those people who wanted to </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a423" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>Ahyyyy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a424" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>those who are going farther from their language</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a425" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>a lot of books are written</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a426" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>Very discipline is observed</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a427" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>Gawarbati Literature by the grace of Allah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a428" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>Credit also goes to moving forward</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a429" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>Inshallah it will be fulfilled</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a430" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>May Allah bless his life</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a431" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>Let this guarbati of ours develop</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a432" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>Thank You Naseer brother</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a433" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>Thanks all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Participant3-txt-gwt-fonipa-x-emic" PARTICIPANT="Participant3" TIER_ID="Participant3_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a328" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>اس جگہ ایک پنکھا آہستہ سے چل رہا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>خوش قسمتی کی بات ہے کہ یہاں گوار ادب کے بڑے بڑے لوگ موجود ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>آواز آ رہی ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>ہم نے گوار ادب میں جب کام شروع کیا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>گوار ادب کے بڑے نام ہمارے درمیاں موجود ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>ہمیں اس بات کا فخر ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>ہم ہمیشہ یہ چاہتے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>میں حاجی ملا ادینہ شاہ صاحب کا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>زیر سایہ بیٹھ کر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>ہم گوارباتی ادب کے لئے کام کریں گے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>اور</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>اللہ اس کے عمر میں برکت ڈالے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>آنے والے وقت اور نسل کیلئے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>ان لوگوں کے جو یہ چاہتے ہیں کہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a438" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>یہ جو اپنی زبان سے دور ہوتے جا رہے ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>بہت ساری کتابیں لکھی گئی ہیں </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>بہت نظم و ضبط بنا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>اور گوارباتی ادب انشااللہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>آگے بڑھنے کا کریڈٹ بھی جاتا ہے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>انشااللہ پورا ہوتا جائے گا </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>اللہ اس کی عمر میں برکت ڈالے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>ہماری یہ گوارباتی ترقی کرے </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>نصیر کا بھی بہت شکریہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>آپ سب کا بہت شکریہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Participant3-txt-gwt-fonipa-x-emic" PARTICIPANT="Participant3" TIER_ID="Participant3-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>اتے یک ٹھانَ یک مِسن پنکا ݭئ تھنیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>خوش قِسمتینی بااتی تِھنی چی گور ادبنہ لو ڈڈل ݭوٹو اتے نِشسن تھنیت </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>ا جِمانا آواز </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>اَ اِ کرِک گور ادبَ امئ شروع کیداوکی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>گور ادبنہ امہ کرِک سمندر جمان بوکی سے امنہ منزی جی نشِسن تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>امہ اتے باتیہ رتئ فخر کیمیک</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>امہ ہمیشہ کوڅِمیک چی گور ادبَ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>اَ حاجی ملا ادینہ شاہنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>څھائلتنہ پاتوئ نِشی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>امہ اسہ گور ادبَ فورہ کییکہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>اووو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>اللہ اسنی عمرَ برکت تلئیو ، اللہ اسہ عمر ݪِیو چی اسہ باتیَ یہ ٹھاناں فیدئیو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>جِݪہ زوانانَ ݭڅی جِݪی وختَ ݭڅی  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>تسُو خلقَ ݭڅی کرِک زی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>اِں ں ں</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>باتی دُورایی بمین دِمانے</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>تسُواں باتیَ نیڑہ کیی این الحمدُ للہ لو قِسمنہ کتاب لِکِتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>لو قِسمنہ سسٹم کیتُوس</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>او گور ادبَ ان شاءاللہ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>پُدم گایکَ کی سافی کھاینہ ڈل حصہ بھہ اسنہ تھنہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>او ان شاءاللہ تعالا فورہ بھی وئ کییِبہ امہ سافَ ݭڅی</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>اللہ اسنی عمرَ برکت تلئیو اللہ اسہ عمر ݪِیو زی اماں کی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>امنی اسہ  گورباتیَ فورہ کییِو</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>لو مہربانی نصیرنی بھی مہربانی </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>او مے سافنی مہربانی لو شُکریہ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-fonipa-x-emic" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="Participant4" TIER_ID="Participant4-txt-gwt-fonipa-x-emic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>salam alaikum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>gawar adabana samandar</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>gawar adabana hiɽa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>gawar adabana daɽa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Participant4-txt-gwt-fonipa-x-emic" PARTICIPANT="Participant4" TIER_ID="Participant4_translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a434" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Asalm-o-alikum</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a435" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>The occean of Gawar literature</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a436" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>The heart of Gawar literature</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>The man of Gawar literature</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="ur" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Participant4-txt-gwt-fonipa-x-emic" PARTICIPANT="Participant4" TIER_ID="Participant4_translation-gls-ur">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>السالام علیکم </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>گوار ادب کا سمندر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>گوار ادب کا دل </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>گوار ادب کا میل </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="gwt-x-Orthographic" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="Participant4-txt-gwt-fonipa-x-emic" PARTICIPANT="Participant4" TIER_ID="Participant4-note-gwt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>السلام علیکم</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>گور ادبنہ سمندر </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>گور ادبنہ ہِڑو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a437" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>گور ادبنہ دڑو </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="en" LINGUISTIC_TYPE_REF="txt" TIER_ID="interlinear-text-title-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a439" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>20220701-FazalAkbarAboutCWC</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="txt" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="en" LANG_ID="en" LANG_LABEL="en"/>
+    <LANGUAGE LANG_DEF="gwt-x-Orthographic" LANG_ID="gwt-x-Orthographic" LANG_LABEL="gwt-x-Orthographic"/>
+    <LANGUAGE LANG_DEF="ur" LANG_ID="ur" LANG_LABEL="ur"/>
+    <LANGUAGE LANG_DEF="gwt-fonipa-x-emic" LANG_ID="gwt-fonipa-x-emic" LANG_LABEL="gwt-fonipa-x-emic"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
