@@ -123,7 +123,7 @@ def make_a_freq_list (tokens_list):
 
 
 def main ():    
-    corpus_file = "../BACKUP 2023-05-24/all_texts.flextext"
+    corpus_file = "../BACKUP 2024-02-09/all_texts.flextext"
     #corpus_file = "corpus_fragment.flextext"
     df = get_all_verbs_from_flextext (corpus_file)
     df = identify_stem_and_inflection_in_glosses (df)
