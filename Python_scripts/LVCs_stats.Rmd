@@ -1,0 +1,156 @@
+---
+title: "Gawarbati LVCs"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+date: "2024-04-03"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE}
+library(tidyverse)
+```
+
+
+load and unite two datasets into one
+```{r}
+do <- read.csv("do.csv", sep = ";")
+do %>%
+  mutate(verb = "do") -> do_dat
+#do_dat
+
+give <- read.csv("give.csv", sep = ";")
+give %>%
+  mutate(verb = "give") -> give_dat
+#give_dat
+
+
+bind_rows(do_dat, give_dat) -> all_dat
+```
+
+
+exclude empty columns, exclude rows which are not examples of LVCs
+```{r}
+all_dat %>%
+  select (1:12) %>%
+  filter(include != "") %>%
+  filter(include != "no")-> dat
+head(dat)
+```
+
+
+how many different preceding words there are in the data
+```{r}
+dat %>%
+  distinct(preceding_word_gls, .keep_all = TRUE) -> dat_distinct
+nrow(dat_distinct)
+```
+
+
+how many times each preceding word occurs in the data (print only top 20 words)
+```{r}
+dat %>%
+  count(preceding_word_gls) %>%
+  arrange(desc(n)) -> dat_stat
+head(dat_stat, 20)
+```
+
+divided by the verb
+```{r}
+dat %>%
+  count(preceding_word_gls, verb) %>%
+  spread(verb, n, fill = 0) %>%
+  mutate(total_n = do+give) %>% 
+  arrange(desc(total_n)) -> pr_words
+head(pr_words, 20)
+```
+
+prepare a dataset for the barplot
+```{r}
+dat %>%
+  group_by(preceding_word_gls) %>%
+  count(verb, name = "n") -> mydat2
+head(mydat2)
+```
+
+barplot (but there are too many different preceding words, so you can't actually see anything)
+```{r}
+mydat2 %>%
+  ggplot(aes(fct_reorder(preceding_word_gls, n), n, fill = verb))+
+  geom_col()+
+  #geom_text(nudge_y = 2)+
+  coord_flip()
+```
+
+
+include only those preceding words which occur with give
+```{r}
+full_join(pr_words, mydat2) -> mydat3
+mydat3 %>%
+  filter(give != 0) %>%
+  ggplot(aes(fct_reorder(preceding_word_gls, total_n), n, fill = verb))+
+  geom_col()+
+  #geom_text(nudge_y = 2)+
+  coord_flip()
+```
+
+include only those preceding words which occur both with do and give
+```{r}
+mydat3 %>%
+  filter(give != 0) %>%
+  filter(do != 0) %>%
+  ggplot(aes(fct_reorder(preceding_word_gls, total_n), n, fill = verb))+
+  geom_col()+
+  #geom_text(nudge_y = 2)+
+  coord_flip()
+```
+
+
+which texts have the largest number of LVCs?
+```{r}
+dat %>%
+  count(text_title, verb) %>%
+  spread(verb, n, fill = 0) %>%
+  mutate(total_n = do+give) %>% 
+  arrange(desc(total_n))
+```
+
+
+which types of borrowings are more common and less common?
+```{r}
+dat_distinct %>%
+  count(borrowing, verb) %>%
+  spread(verb, n, fill = 0) %>%
+  mutate(total_n = do+give) %>% 
+  arrange(desc(total_n)) -> dat_bor
+dat_bor
+```
+
+different types of borrowings
+```{r}
+dat_bor %>%
+  ggplot(aes(fct_reorder(borrowing, desc(total_n)), total_n, fill))+
+  geom_col()
+```
+
+prepare a dataset for the next barplot
+```{r}
+dat_distinct %>%
+  group_by(verb) %>%
+  count(borrowing, name = "n") -> dat_distinct2
+dat_distinct2
+```
+
+```{r}
+dat_distinct2 %>%
+  ggplot(aes(fct_reorder(borrowing, desc(n)), n, fill = verb))+
+  geom_col(position="dodge")
+```
+
+
+
+
